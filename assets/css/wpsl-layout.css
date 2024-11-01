@@ -1,0 +1,327 @@
+.wpsl {
+	width: 100%;
+	display: -ms-flexbox;
+	display: -webkit-box;
+	display: flex;
+	-ms-flex-wrap: wrap;
+	flex-wrap: wrap;
+	width: calc(100% - 10px);
+	margin-left: -5px;
+	margin-right: -5px;
+}
+.wpsl > * {
+	-ms-flex-preferred-size: 50%;
+		flex-basis: 50%;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	padding: 5px;
+}
+.xl-1 > * {
+	-ms-flex-preferred-size: 100%;
+		flex-basis: 100%;
+	max-width: 100%;
+}
+.xl-2 > * {
+	-ms-flex-preferred-size: 50%;
+		flex-basis: 50%;
+	max-width: 50%;
+}
+.xl-3 > * {
+	-ms-flex-preferred-size: 33.33333%;
+		flex-basis: 33.33333%;
+	max-width: 33.33333%;
+}
+.xl-4 > * {
+	-ms-flex-preferred-size: 25%;
+		flex-basis: 25%;
+	max-width: 25%;
+}
+.xl-5 > * {
+	-ms-flex-preferred-size: 20%;
+		flex-basis: 20%;
+	max-width: 20%;
+}
+.xl-6 > * {
+	-ms-flex-preferred-size: 16.66666%;
+		flex-basis: 16.66666%;
+	max-width: 16.66666%;
+}
+.xl-7 > * {
+	-ms-flex-preferred-size: 14.2857%;
+		flex-basis: 14.2857%;
+	max-width: 14.2857%;
+}
+.xl-8 > * {
+	-ms-flex-preferred-size: 12.5%;
+		flex-basis: 12.5%;
+	max-width: 12.5%;
+}
+.xl-9 > * {
+	-ms-flex-preferred-size: 11.1111%;
+		flex-basis: 11.1111%;
+	max-width: 11.1111%;
+}
+.xl-10 > * {
+	-ms-flex-preferred-size: 10%;
+		flex-basis: 10%;
+		max-width: 10%;
+}
+.xl-11 > * {
+	-ms-flex-preferred-size: 9.0909%;
+		flex-basis: 9.0909%;
+	max-width: 9.0909%;
+}
+.xl-12 > * {
+	-ms-flex-preferred-size: 8.3333%;
+		flex-basis: 8.3333%;
+	max-width: 8.3333%;
+}
+@media (max-width:1200px) {
+	.lg-1 > * {
+		-ms-flex-preferred-size: 100%;
+			flex-basis: 100%;
+		max-width: 100%;
+	}
+	.lg-2 > * {
+		-ms-flex-preferred-size: 50%;
+			flex-basis: 50%;
+		max-width: 50%;
+	}
+	.lg-3 > * {
+		-ms-flex-preferred-size: 33.33333%;
+			flex-basis: 33.33333%;
+		max-width: 33.33333%;
+	}
+	.lg-4 > * {
+		-ms-flex-preferred-size: 25%;
+			flex-basis: 25%;
+		max-width: 25%;
+	}
+	.lg-5 > * {
+		-ms-flex-preferred-size: 20%;
+			flex-basis: 20%;
+		max-width: 20%;
+	}
+	.lg-6 > * {
+		-ms-flex-preferred-size: 16.66666%;
+			flex-basis: 16.66666%;
+		max-width: 16.66666%;
+	}
+	.lg-7 > * {
+		-ms-flex-preferred-size: 14.2857%;
+			flex-basis: 14.2857%;
+		max-width: 14.2857%;
+	}
+	.lg-8 > * {
+		-ms-flex-preferred-size: 12.5%;
+			flex-basis: 12.5%;
+		max-width: 12.5%;
+	}
+	.lg-9 > * {
+		-ms-flex-preferred-size: 11.1111%;
+			flex-basis: 11.1111%;
+		max-width: 11.1111%;
+	}
+	.lg-10 > * {
+		-ms-flex-preferred-size: 10%;
+			flex-basis: 10%;
+		max-width: 10%;
+	}
+	.lg-11 > * {
+		-ms-flex-preferred-size: 9.0909%;
+			flex-basis: 9.0909%;
+		max-width: 9.0909%;
+	}
+	.lg-12 > * {
+		-ms-flex-preferred-size: 8.3333%;
+			flex-basis: 8.3333%;
+		max-width: 8.3333%;
+	}
+}
+@media (max-width:991px) {
+	.md-1 > * {
+		-ms-flex-preferred-size: 100%;
+			flex-basis: 100%;
+		max-width: 100%;
+	}
+	.md-2 > * {
+		-ms-flex-preferred-size: 50%;
+			flex-basis: 50%;
+		max-width: 50%;
+	}
+	.md-3 > * {
+		-ms-flex-preferred-size: 33.33333%;
+			flex-basis: 33.33333%;
+		max-width: 33.33333%;
+	}
+	.md-4 > * {
+		-ms-flex-preferred-size: 25%;
+			flex-basis: 25%;
+		max-width: 25%;
+	}
+	.md-5 > * {
+		-ms-flex-preferred-size: 20%;
+			flex-basis: 20%;
+		max-width: 20%;
+	}
+	.md-6 > * {
+		-ms-flex-preferred-size: 16.66666%;
+			flex-basis: 16.66666%;
+		max-width: 16.66666%;
+	}
+	.md-7 > * {
+		-ms-flex-preferred-size: 14.2857%;
+			flex-basis: 14.2857%;
+		max-width: 14.2857%;
+	}
+	.md-8 > * {
+		-ms-flex-preferred-size: 12.5%;
+			flex-basis: 12.5%;
+		max-width: 12.5%;
+	}
+	.md-9 > * {
+		-ms-flex-preferred-size: 11.1111%;
+			flex-basis: 11.1111%;
+		max-width: 11.1111%;
+	}
+	.md-10 > * {
+		-ms-flex-preferred-size: 10%;
+			flex-basis: 10%;
+		max-width: 10%;
+	}
+	.md-11 > * {
+		-ms-flex-preferred-size: 9.0909%;
+			flex-basis: 9.0909%;
+		max-width: 9.0909%;
+	}
+	.md-12 > * {
+		-ms-flex-preferred-size: 8.3333%;
+			flex-basis: 8.3333%;
+		max-width: 8.3333%;
+	}
+}
+@media (max-width:768px) {
+	.sm-1 > * {
+		-ms-flex-preferred-size: 100%;
+			flex-basis: 100%;
+		max-width: 100%;
+	}
+	.sm-2 > * {
+		-ms-flex-preferred-size: 50%;
+			flex-basis: 50%;
+		max-width: 50%;
+	}
+	.sm-3 > * {
+		-ms-flex-preferred-size: 33.33333%;
+			flex-basis: 33.33333%;
+		max-width: 33.33333%;
+	}
+	.sm-4 > * {
+		-ms-flex-preferred-size: 25%;
+			flex-basis: 25%;
+		max-width: 25%;
+	}
+	.sm-5 > * {
+		-ms-flex-preferred-size: 20%;
+			flex-basis: 20%;
+		max-width: 20%;
+	}
+	.sm-6 > * {
+		-ms-flex-preferred-size: 16.66666%;
+			flex-basis: 16.66666%;
+		max-width: 16.66666%;
+	}
+	.sm-7 > * {
+		-ms-flex-preferred-size: 14.2857%;
+			flex-basis: 14.2857%;
+		max-width: 14.2857%;
+	}
+	.sm-8 > * {
+		-ms-flex-preferred-size: 12.5%;
+			flex-basis: 12.5%;
+		max-width: 12.5%;
+	}
+	.sm-9 > * {
+		-ms-flex-preferred-size: 11.1111%;
+			flex-basis: 11.1111%;
+		max-width: 11.1111%;
+	}
+	.sm-10 > * {
+		-ms-flex-preferred-size: 10%;
+			flex-basis: 10%;
+		max-width: 10%;
+	}
+	.sm-11 > * {
+		-ms-flex-preferred-size: 9.0909%;
+			flex-basis: 9.0909%;
+		max-width: 9.0909%;
+	}
+	.sm-12 > * {
+		-ms-flex-preferred-size: 8.3333%;
+			flex-basis: 8.3333%;
+		max-width: 8.3333%;
+	}
+}
+@media (max-width:576px) {
+	.xs-1 > * {
+		-ms-flex-preferred-size: 100%;
+			flex-basis: 100%;
+		max-width: 100%;
+	}
+	.xs-2 > * {
+		-ms-flex-preferred-size: 50%;
+			flex-basis: 50%;
+		max-width: 50%;
+	}
+	.xs-3 > * {
+		-ms-flex-preferred-size: 33.33333%;
+			flex-basis: 33.33333%;
+		max-width: 33.33333%;
+	}
+	.xs-4 > * {
+		-ms-flex-preferred-size: 25%;
+			flex-basis: 25%;
+		max-width: 25%;
+	}
+	.xs-5 > * {
+		-ms-flex-preferred-size: 20%;
+			flex-basis: 20%;
+		max-width: 20%;
+	}
+	.xs-6 > * {
+		-ms-flex-preferred-size: 16.66666%;
+			flex-basis: 16.66666%;
+		max-width: 16.66666%;
+	}
+	.xs-7 > * {
+		-ms-flex-preferred-size: 14.2857%;
+			flex-basis: 14.2857%;
+		max-width: 14.2857%;
+	}
+	.xs-8 > * {
+		-ms-flex-preferred-size: 12.5%;
+			flex-basis: 12.5%;
+		max-width: 12.5%;
+	}
+	.xs-9 > * {
+		-ms-flex-preferred-size: 11.1111%;
+			flex-basis: 11.1111%;
+		max-width: 11.1111%;
+	}
+	.xs-10 > * {
+		-ms-flex-preferred-size: 10%;
+			flex-basis: 10%;
+		max-width: 10%;
+	}
+	.xs-11 > * {
+		-ms-flex-preferred-size: 9.0909%;
+			flex-basis: 9.0909%;
+		max-width: 9.0909%;
+	}
+	.xs-12 > * {
+		-ms-flex-preferred-size: 8.3333%;
+			flex-basis: 8.3333%;
+		max-width: 8.3333%;
+	}
+}

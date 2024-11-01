@@ -1,0 +1,4440 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wps\n"
+"POT-Creation-Date: 2019-09-15 21:10+0300\n"
+"PO-Revision-Date: 2019-09-15 21:10+0300\n"
+"Last-Translator: \n"
+"Language-Team: yanalexandrov@gmail.com\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: addons/wpsl-addons.php:20
+msgid "Addons to the plugin wpStore"
+msgstr ""
+
+#: addons/wpsl-addons.php:20
+msgid "Marketplace"
+msgstr ""
+
+#: addons/wpsl-addons.php:32
+msgid ""
+"Addon for wpStore allows you to deploy a system of appointment to a "
+"specialist or booking time for any event"
+msgstr ""
+
+#: addons/wpsl-addons.php:36 addons/wpsl-addons.php:61
+#: core/wpsl-general-functions.php:862
+msgid "Free"
+msgstr "Gratuit"
+
+#: addons/wpsl-addons.php:40
+msgid ""
+"The addon allows you to display dynamic notifications about promotions, "
+"news, and other special conditions of your online store"
+msgstr ""
+
+#: addons/wpsl-addons.php:61 ajax/class-wpsl-ajax-frontend.php:541
+#: core/class-wpsl-constructor-email.php:195
+msgid "Download"
+msgstr "Télécharger"
+
+#: addons/wpsl-addons.php:61 core/wpsl-general-functions.php:653
+#: core/wpsl-general-functions.php:654
+msgid "Buy"
+msgstr "Acheter"
+
+#: addons/wpsl-addons.php:70 admin/wpsl-post-types-management.php:28
+#: admin/wpsl-post-types-management.php:274
+#: admin/wpsl-post-types-management.php:321
+#: ajax/class-wpsl-ajax-frontend.php:583
+#: core/class-wpsl-constructor-email.php:217
+#: core/class-wpsl-product-variations.php:505
+#: core/class-wpsl-product-variations.php:550
+#: core/class-wpsl-product-variations.php:729
+#: core/class-wpsl-product-variations.php:771
+#: core/class-wpsl-product-variations.php:799
+#: core/wpsl-import-functions.php:558 templates/cart/cart.php:28
+#: templates/single/price-external.php:20 templates/single/price-simple.php:20
+#: templates/widgets/product-filter.php:24
+msgid "Price"
+msgstr "Prix"
+
+#: addons/wpsl-addons.php:73
+msgid "WordPress version"
+msgstr ""
+
+#: admin/wpsl-add-items-in-menu.php:23 core/class-wpsl-install.php:181
+#: options/wpsl-options.php:268 options/wpsl-options.php:607
+msgid "Cart"
+msgstr "Panier"
+
+#: admin/wpsl-add-items-in-menu.php:24
+msgid "Login / Logout"
+msgstr ""
+
+#: admin/wpsl-add-items-in-menu.php:25
+msgid "My account"
+msgstr ""
+
+#: admin/wpsl-add-items-in-menu.php:65
+msgid "Help"
+msgstr ""
+
+#: admin/wpsl-add-items-in-menu.php:69
+msgid "For work plugin, please do not change the value of hashtags"
+msgstr ""
+
+#: admin/wpsl-add-items-in-menu.php:89 options/class-wpsl-options.php:165
+msgid "wpStore"
+msgstr ""
+
+#: admin/wpsl-admin.php:22
+#, php-format
+msgid ""
+"For the plugin to work correctly, the recommended width and height of the "
+"thumbnail must be at least 100 pixels. %s"
+msgstr ""
+
+#: admin/wpsl-admin.php:22
+#, fuzzy
+#| msgid "Basket Options"
+msgid "Go to options"
+msgstr "Options Du Panier"
+
+#: admin/wpsl-admin.php:59 ajax/class-wpsl-ajax-frontend.php:641
+#: templates/single/product-reviews.php:72
+#: templates/single/product-reviews.php:195
+msgid "Comment"
+msgstr ""
+
+#: admin/wpsl-admin.php:64 admin/wpsl-admin.php:100
+#: templates/single/product-reviews.php:65
+#: templates/single/product-reviews.php:67
+#: templates/single/product-reviews.php:190
+#, fuzzy
+#| msgid "Count of product"
+msgid "Disadvantages of product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-admin.php:69 admin/wpsl-admin.php:104
+#: templates/single/product-reviews.php:55
+#: templates/single/product-reviews.php:57
+#: templates/single/product-reviews.php:185
+#, fuzzy
+#| msgid "Count of product"
+msgid "Advantages of product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-admin.php:74 admin/wpsl-admin.php:108
+msgid "Assessment"
+msgstr ""
+
+#: admin/wpsl-admin.php:86
+msgid "Comment Metadata"
+msgstr ""
+
+#: admin/wpsl-csv-importer.php:10 ajax/class-wpsl-ajax-admin.php:313
+msgid "Import"
+msgstr ""
+
+#: admin/wpsl-csv-importer.php:18
+#, fuzzy
+#| msgid "Contact form"
+msgid "Import form"
+msgstr "Formulaire de Contact"
+
+#: admin/wpsl-csv-importer.php:20
+msgid "Load file"
+msgstr ""
+
+#: admin/wpsl-duplicate-product.php:28
+msgid "There is nothing to duplicate!"
+msgstr ""
+
+#: admin/wpsl-duplicate-product.php:104
+msgid "Error creating post, can\"t find original post with ID: "
+msgstr ""
+
+#: admin/wpsl-duplicate-product.php:118
+msgid "Duplicate"
+msgstr ""
+
+#: admin/wpsl-media-library.php:39
+#, fuzzy
+#| msgid "Best product"
+msgid "Digital products"
+msgstr "Meilleur produit"
+
+#: admin/wpsl-permalinks.php:16
+msgid "These settings control the permalinks used specifically for products."
+msgstr ""
+
+#: admin/wpsl-permalinks.php:30 admin/wpsl-permalinks.php:102
+msgid "Without slug"
+msgstr ""
+
+#: admin/wpsl-permalinks.php:34 admin/wpsl-permalinks.php:98
+#, fuzzy
+#| msgid "Customer"
+msgid "Custom slug"
+msgstr "Clientèle"
+
+#: admin/wpsl-permalinks.php:38
+#, fuzzy
+#| msgid "Add new category"
+msgid "Without slug with category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-permalinks.php:42
+#, fuzzy
+#| msgid "Add new category"
+msgid "Without slug with categories"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-permalinks.php:46
+msgid "Without slug with seller"
+msgstr ""
+
+#: admin/wpsl-permalinks.php:51 admin/wpsl-permalinks.php:111
+#, fuzzy
+#| msgid "Customer"
+msgid "Custom base"
+msgstr "Clientèle"
+
+#: admin/wpsl-permalinks.php:53 admin/wpsl-permalinks.php:113
+msgid "You can use any base slug or completely abandon it"
+msgstr ""
+
+#: admin/wpsl-permalinks.php:86
+msgid ""
+"These settings control the permalinks used specifically for category of "
+"products."
+msgstr ""
+
+#: admin/wpsl-permalinks.php:106
+#, fuzzy
+#| msgid "Add new category"
+msgid "Without slug with category hierarchy"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-permalinks.php:144
+msgid "Permalinks of single products"
+msgstr ""
+
+#: admin/wpsl-permalinks.php:150
+#, fuzzy
+#| msgid "All category of products"
+msgid "Permalinks of categories products"
+msgstr "Tous les produits de la catégorie"
+
+#: admin/wpsl-post-types-adding.php:34 admin/wpsl-post-types-adding.php:35
+#: admin/wpsl-post-types-adding.php:45 ajax/class-wpsl-ajax-frontend.php:125
+#: options/class-wpsl-options.php:149 options/wpsl-options.php:373
+msgid "Products"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:36
+msgid "Add product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:37
+msgid "Add new product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:38
+msgid "Edit product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:39 core/wpsl-template-actions.php:82
+msgid "New product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:40
+msgid "All products"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:41
+#, fuzzy
+#| msgid "Best product"
+msgid "Viewing product"
+msgstr "Meilleur produit"
+
+#: admin/wpsl-post-types-adding.php:42
+msgid "Search product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:43
+msgid "Product not found"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:44
+#, fuzzy
+#| msgid "Count of product"
+msgid "In trash no product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-adding.php:73 admin/wpsl-post-types-metaboxes.php:142
+msgid "Variations"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:100 admin/wpsl-post-types-adding.php:101
+#: admin/wpsl-post-types-adding.php:102 admin/wpsl-post-types-adding.php:115
+msgid "Delivery types"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:103
+msgid "Parent Delivery Type:"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:104
+msgid "All Delivery Types"
+msgstr "Tous Les Types De Diffusion"
+
+#: admin/wpsl-post-types-adding.php:105
+msgid "View Delivery Types"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:106
+msgid "Add New Delivery Type"
+msgstr "Ajouter Un Nouveau Type De Livraison"
+
+#: admin/wpsl-post-types-adding.php:107
+msgid "New Delivery Type"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:108
+msgid "Edit Delivery Type"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:109
+msgid "Update Delivery Type"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:110
+msgid "Search delivery type"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:111
+msgid "No delivery types found"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:112
+msgid "No delivery types found in Trash"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:114 core/class-wpsl-order.php:232
+msgid "Delivery"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:145 admin/wpsl-post-types-adding.php:147
+#: admin/wpsl-post-types-adding.php:158 admin/wpsl-post-types-adding.php:159
+#: options/class-wpsl-options.php:150
+msgid "Orders"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:146 admin/wpsl-post-types-metaboxes.php:404
+msgid "Order"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:148
+msgid "All orders"
+msgstr "Toutes les commandes"
+
+#: admin/wpsl-post-types-adding.php:149
+msgid "View orders"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:150
+msgid "Add new order"
+msgstr "Ajouter un nouvel ordre"
+
+#: admin/wpsl-post-types-adding.php:151
+msgid "New order"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:152
+msgid "Edit order"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:153
+msgid "Update order"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:154
+msgid "Search order"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:155
+msgid "No orders found"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:156
+msgid "No orders found in trash"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:203 admin/wpsl-post-types-adding.php:218
+msgid "Promocodes"
+msgstr "Promocodes"
+
+#: admin/wpsl-post-types-adding.php:204 admin/wpsl-post-types-adding.php:205
+#: admin/wpsl-post-types-adding.php:217
+msgid "Promocode"
+msgstr "Code promo"
+
+#: admin/wpsl-post-types-adding.php:206
+msgid "Parent promocode"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:207
+msgid "All promocodes"
+msgstr "Tous les promocodes"
+
+#: admin/wpsl-post-types-adding.php:208
+msgid "View promocodes"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:209
+msgid "Add new promocode"
+msgstr "Ajouter un nouveau code promo"
+
+#: admin/wpsl-post-types-adding.php:210
+msgid "New promocode"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:211
+msgid "Edit promocode"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:212
+msgid "Update promocode"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:213
+msgid "Search promocode"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:214
+msgid "No promocode found"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:215
+msgid "No promocode found in trash"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:248 admin/wpsl-post-types-adding.php:263
+#: admin/wpsl-post-types-management.php:610
+msgid "Support tickets"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:249 admin/wpsl-post-types-adding.php:250
+#: admin/wpsl-post-types-adding.php:262
+msgid "Support ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:251
+msgid "Parent ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:252
+msgid "All support tickets"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:253
+msgid "View support tickets"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:254
+#, fuzzy
+#| msgid "Add new order"
+msgid "Add new support ticket"
+msgstr "Ajouter un nouvel ordre"
+
+#: admin/wpsl-post-types-adding.php:255
+msgid "New support ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:256
+msgid "Edit support ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:257
+msgid "Update support ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:258
+msgid "Search support ticket"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:259
+msgid "Support ticket is not found"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:260
+msgid "Support ticket is not found in trash"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:292 admin/wpsl-post-types-adding.php:302
+#: admin/wpsl-post-types-management.php:29 ajax/class-wpsl-ajax-admin.php:349
+#, fuzzy
+#| msgid "Category"
+msgid "Categories"
+msgstr "Catégorie"
+
+#: admin/wpsl-post-types-adding.php:293 core/wpsl-import-functions.php:525
+msgid "Category"
+msgstr "Catégorie"
+
+#: admin/wpsl-post-types-adding.php:294
+#, fuzzy
+#| msgid "Add new category"
+msgid "Search category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-post-types-adding.php:295
+#, fuzzy
+#| msgid "All orders"
+msgid "All categories"
+msgstr "Toutes les commandes"
+
+#: admin/wpsl-post-types-adding.php:296
+msgid "The parent category of the product"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:297 admin/wpsl-post-types-adding.php:298
+msgid "Category parent"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:299
+msgid "Update the category"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:300
+msgid "Add new category"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-post-types-adding.php:301
+msgid "The name of the new category of products"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:323 admin/wpsl-post-types-adding.php:333
+#: admin/wpsl-post-types-management.php:30
+msgid "Tags"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:324
+#, fuzzy
+#| msgid "Count of product"
+msgid "Tag of product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-adding.php:325
+#, fuzzy
+#| msgid "Count of product"
+msgid "Search tag of product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-adding.php:326
+#, fuzzy
+#| msgid "All category of products"
+msgid "All tags of products"
+msgstr "Tous les produits de la catégorie"
+
+#: admin/wpsl-post-types-adding.php:327
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "The parent tag of the product"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-adding.php:328 admin/wpsl-post-types-adding.php:329
+msgid "Tag parent"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:330
+msgid "Update the tag"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:331
+#, fuzzy
+#| msgid "Add new category"
+msgid "Add new tag"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: admin/wpsl-post-types-adding.php:332
+msgid "The name of the new tag of products"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:354 admin/wpsl-post-types-adding.php:356
+msgid "Statuses"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:355
+msgid "Status"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:357
+msgid "All Statuses"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:358
+msgid "Parent Status"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:359
+msgid "Parent Status:"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:360
+msgid "New Status Name"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:361
+msgid "Add New Status"
+msgstr "Ajouter Un Nouveau Statut"
+
+#: admin/wpsl-post-types-adding.php:362
+msgid "Edit Status"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:363
+msgid "Update Status"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:364
+msgid "Separate statuses with commas"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:365
+msgid "Search statuses"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:366
+msgid "Add or remove statuses"
+msgstr "Ajouter ou supprimer des statuts"
+
+#: admin/wpsl-post-types-adding.php:367
+msgid "Choose from the most used statuses"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:383
+msgid "Approved"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:384
+msgid "The order is received and is waiting for processing by the moderator"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:388
+msgid "Processing"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:389
+msgid ""
+"Your order is checked by the moderator and transferred for a complete set"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:393
+msgid "Completed"
+msgstr "Terminé"
+
+#: admin/wpsl-post-types-adding.php:394
+msgid ""
+"Your order is completed. Thank you for your purchase! Waiting for you again!"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:398
+#, fuzzy
+#| msgid "Canceled"
+msgid "Cancelled"
+msgstr "Annulé"
+
+#: admin/wpsl-post-types-adding.php:399
+msgid ""
+"The order was either canceled by you or the order was not purchased within "
+"the specified period"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:404
+msgid "Not paid"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:405
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "We expect payment of products"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-adding.php:409
+msgid "Pend"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:410
+msgid "The money went to the account of seller"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:415
+msgid "Order picking"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:416
+msgid ""
+"At this stage, we reserve the products for your order and prepare it for "
+"shipment"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:420
+msgid "Order shipped"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:421
+msgid ""
+"The products in your order have been handed over to the courier, shipping "
+"company or postal service"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:425
+msgid "Delivered"
+msgstr ""
+
+#: admin/wpsl-post-types-adding.php:426
+msgid "The products are delivered to the point of receipt of the order"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:26 core/wpsl-template-actions.php:168
+msgid "Stock"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:27
+#: admin/wpsl-post-types-metaboxes.php:255
+#: core/class-wpsl-product-variations.php:32 core/wpsl-import-functions.php:529
+#: templates/single/product-side-atts.php:35
+msgid "Sku"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:31 core/wpsl-import-functions.php:528
+msgid "Hit"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:32 templates/account/tab-reviews.php:19
+msgid "Date"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:148 options/wpsl-options.php:267
+#: templates/widgets/product-filter.php:52
+msgid "Filter"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:221
+msgid "All category of product"
+msgstr "Toutes les catégories de produit"
+
+#: admin/wpsl-post-types-management.php:239
+msgid "All status of order"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:259
+msgid "Shipping types"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:259
+#: admin/wpsl-post-types-management.php:341
+#: admin/wpsl-post-types-metaboxes.php:471 options/wpsl-options.php:738
+#: options/wpsl-options.php:745
+msgid "Shipping"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:261 options/wpsl-options.php:721
+msgid "Coupons"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:318
+#: core/class-wpsl-constructor-email.php:214 templates/cart/cart.php:26
+msgid "Photo"
+msgstr "Photo"
+
+#: admin/wpsl-post-types-management.php:319
+#: core/class-wpsl-constructor-email.php:215
+#: core/class-wpsl-product-attributes-common.php:63
+#: core/class-wpsl-product-attributes-common.php:64
+#: core/class-wpsl-product-attributes-common.php:180
+#: core/class-wpsl-product-attributes-common.php:194
+#: core/class-wpsl-product-attributes-single.php:503
+#: core/class-wpsl-product-attributes-single.php:516
+#: core/widgets/class-wpsl-widget-category.php:46
+#: core/widgets/class-wpsl-widget-filter.php:43
+#: core/widgets/class-wpsl-widget-payment.php:102
+#: core/widgets/class-wpsl-widget-search.php:42
+msgid "Title"
+msgstr "Intitulé"
+
+#: admin/wpsl-post-types-management.php:320
+#: ajax/class-wpsl-ajax-frontend.php:584
+#: core/class-wpsl-constructor-email.php:216
+msgid "Quo"
+msgstr "Quo"
+
+#: admin/wpsl-post-types-management.php:322
+#: core/class-wpsl-constructor-email.php:218
+msgid "Summ"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:353
+#, fuzzy
+#| msgid "Old price"
+msgid "Total price"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-management.php:390
+msgid "You must create new statuses and attach them to the type"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:466
+msgid "Order Code"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:467
+msgid "Customer"
+msgstr "Clientèle"
+
+#: admin/wpsl-post-types-management.php:469
+#: ajax/class-wpsl-ajax-frontend.php:560
+msgid "Summa"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:532
+#: admin/wpsl-post-types-management.php:550
+msgid "Status type"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:540
+#: admin/wpsl-post-types-management.php:560
+msgid "Groups status type"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:554
+msgid "Select type status"
+msgstr ""
+
+#: admin/wpsl-post-types-management.php:610 core/wpsl-template-filters.php:218
+#: options/wpsl-options.php:148
+msgid "Support"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:29
+#: admin/wpsl-post-types-metaboxes.php:65
+#: admin/wpsl-post-types-metaboxes.php:361
+#: admin/wpsl-post-types-metaboxes.php:498
+msgid "General"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:36
+#: admin/wpsl-post-types-metaboxes.php:341 options/wpsl-options.php:501
+msgid "Product card"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:46
+#, fuzzy
+#| msgid "Best product"
+msgid "Digital"
+msgstr "Meilleur produit"
+
+#: admin/wpsl-post-types-metaboxes.php:53
+msgid "Bestseller"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:71
+#, fuzzy, php-format
+#| msgid "Old price"
+msgid "Base price (%s)"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-metaboxes.php:79
+#, fuzzy, php-format
+#| msgid "Old price"
+msgid "Sale price (%s)"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-metaboxes.php:86
+#, fuzzy
+#| msgid "Characteristics"
+msgid "Stock status"
+msgstr "Caractéristiques"
+
+#: admin/wpsl-post-types-metaboxes.php:90
+msgid "Controls how the product will be displayed in the frontend"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:96
+#, fuzzy
+#| msgid "Download"
+msgid "Downloadable files"
+msgstr "Télécharger"
+
+#: admin/wpsl-post-types-metaboxes.php:99
+msgid "Buyer receives one-time download link"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:104
+#, fuzzy
+#| msgid "Best product"
+msgid "Product URL"
+msgstr "Meilleur produit"
+
+#: admin/wpsl-post-types-metaboxes.php:107
+#, fuzzy
+#| msgid "Count of product"
+msgid "Enter an external link to the product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-metaboxes.php:114
+#, fuzzy
+#| msgid "All category of product"
+msgid "Gallery of product"
+msgstr "Toutes les catégories de produit"
+
+#: admin/wpsl-post-types-metaboxes.php:125 ajax/class-wpsl-ajax-admin.php:349
+#: core/wpsl-import-functions.php:562 options/wpsl-options.php:399
+#, fuzzy
+#| msgid "Add new order"
+msgid "Attributes"
+msgstr "Ajouter un nouvel ordre"
+
+#: admin/wpsl-post-types-metaboxes.php:148
+#, fuzzy
+#| msgid "Product description"
+msgid "Product variations"
+msgstr "Description du produit"
+
+#: admin/wpsl-post-types-metaboxes.php:159
+msgid "Project"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:165
+msgid "Goal"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:166
+msgid "The amount needed to complete your project"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:173
+msgid "Investments"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:174
+msgid "How much money is collected at the moment"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:181
+msgid "Minimum sponsor fee"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:189
+#, fuzzy
+#| msgid "Date correct"
+msgid "Date of completion"
+msgstr "Date correcte"
+
+#: admin/wpsl-post-types-metaboxes.php:190
+msgid ""
+"If the field is empty, the duration of the investment collection is unlimited"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:200
+#, fuzzy
+#| msgid "Action"
+msgid "Auction"
+msgstr "Action"
+
+#: admin/wpsl-post-types-metaboxes.php:206
+#, fuzzy
+#| msgid "Old price"
+msgid "Start price"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-metaboxes.php:207
+msgid "The price at which the auction will start"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:214
+msgid "Bid increment"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:215
+msgid "The minimum step bid"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:222
+#, fuzzy
+#| msgid "Old price"
+msgid "Reserve price"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-metaboxes.php:223
+msgid "Price below which you are not required to sell the product"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:230
+msgid "The blitz price"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:231
+msgid ""
+"Price for which the seller is ready to sell the goods without waiting for "
+"the end of the auction"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:238
+msgid "Ending date"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:239
+#: admin/wpsl-post-types-metaboxes.php:538
+msgid "Set the end date of auction product"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:249 core/wpsl-import-functions.php:560
+msgid "Dimensions"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:256
+msgid "Sku is a unique identifier of the product"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:263 core/wpsl-import-functions.php:537
+#: templates/single/product-side-atts.php:63
+msgid "Length"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:271 core/wpsl-import-functions.php:538
+#: templates/single/product-side-atts.php:70
+msgid "Width"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:279 core/wpsl-import-functions.php:539
+#: templates/single/product-side-atts.php:77
+msgid "Height"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:290
+msgid "More"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:296
+#, fuzzy
+#| msgid "Count of product"
+msgid "A note to the product"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-metaboxes.php:297
+msgid ""
+"Additional information about the product. Displayed on the individual "
+"product page"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:307
+msgid "SEO"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:313
+msgid "Title of product"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:314
+msgid "Most search engines see only 60 characters"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:321
+msgid "Meta keywords"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:322
+#, fuzzy
+#| msgid "A list of keywords separated by commas."
+msgid "A list of keywords separated by commas"
+msgstr "Une liste de mots-clés séparés par des virgules."
+
+#: admin/wpsl-post-types-metaboxes.php:329
+#, fuzzy
+#| msgid "Description"
+msgid "Meta description"
+msgstr "Description"
+
+#: admin/wpsl-post-types-metaboxes.php:330
+msgid "The recommended length is 160 characters"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:367
+#, fuzzy
+#| msgid "Old price"
+msgid "Shipping price"
+msgstr "Ancien prix"
+
+#: admin/wpsl-post-types-metaboxes.php:368
+msgid "Fixed shipping cost"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:380
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "Details of shipping"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-metaboxes.php:425
+msgid "Client"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:431
+#: ajax/class-wpsl-ajax-frontend.php:582 ajax/class-wpsl-ajax-frontend.php:639
+#: core/class-wpsl-product-attributes-common.php:57
+#: core/wpsl-import-functions.php:522 options/wpsl-options.php:680
+#: templates/account/tab-profile.php:28 templates/account/tab-profile.php:31
+msgid "Name"
+msgstr "Nom"
+
+#: admin/wpsl-post-types-metaboxes.php:432
+#: admin/wpsl-post-types-metaboxes.php:435
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "The name of the buyer"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-metaboxes.php:439
+#: ajax/class-wpsl-ajax-frontend.php:640 options/wpsl-options.php:173
+#: options/wpsl-options.php:773 options/wpsl-options.php:1056
+#: templates/account/tab-profile.php:18 templates/account/tab-profile.php:21
+msgid "Email"
+msgstr "Email"
+
+#: admin/wpsl-post-types-metaboxes.php:440
+#: admin/wpsl-post-types-metaboxes.php:443
+msgid "The email of the buyer"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:447 options/wpsl-options.php:165
+#: options/wpsl-options.php:693 options/wpsl-options.php:1038
+#: templates/account/tab-profile.php:38 templates/account/tab-profile.php:41
+#: templates/order/order-contact.php:50
+msgid "Phone"
+msgstr "Téléphone"
+
+#: admin/wpsl-post-types-metaboxes.php:448
+#: admin/wpsl-post-types-metaboxes.php:451
+msgid "The phone of the buyer"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:455 options/wpsl-options.php:1047
+#: templates/account/tab-profile.php:48 templates/account/tab-profile.php:51
+#, fuzzy
+#| msgid "Adress"
+msgid "Address"
+msgstr "Adresse"
+
+#: admin/wpsl-post-types-metaboxes.php:456
+#: admin/wpsl-post-types-metaboxes.php:459
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "Where to send products"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-metaboxes.php:463
+msgid "Type of payment"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:464
+msgid "How the order will be paid"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:472
+#, fuzzy
+#| msgid "Count of product"
+msgid "How to deliver products"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-metaboxes.php:483
+msgid "Order detail"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:504
+#, fuzzy
+#| msgid "Count of product"
+msgid "Discount type"
+msgstr "Nombre de produit"
+
+#: admin/wpsl-post-types-metaboxes.php:509
+msgid "Percentage cart discount"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:510
+msgid "Fixed cart discount"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:512
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "Percentage on the quantity of products"
+msgstr "Le montant total de la commande:"
+
+#: admin/wpsl-post-types-metaboxes.php:513
+#, fuzzy
+#| msgid "All category of products"
+msgid "Fixed on the quantity of products"
+msgstr "Tous les produits de la catégorie"
+
+#: admin/wpsl-post-types-metaboxes.php:518
+#, fuzzy
+#| msgid "Go to basket"
+msgid "Coupon amount"
+msgstr "Aller au panier"
+
+#: admin/wpsl-post-types-metaboxes.php:519
+msgid ""
+"Discount coupon. You can use formulas, for example: 5000:20,3000:10,1500:5"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:526
+#: core/class-wpsl-constructor-forms.php:70
+#: core/class-wpsl-product-variations.php:86
+msgid "Apply"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:527
+#, fuzzy
+#| msgid "Go to basket"
+msgid "How to apply discount"
+msgstr "Aller au panier"
+
+#: admin/wpsl-post-types-metaboxes.php:531
+msgid "At request"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:532
+msgid "Automatically"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:537
+msgid "Coupon expiry date"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:545
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Send coupon"
+msgstr "Sélectionnez variaton"
+
+#: admin/wpsl-post-types-metaboxes.php:546
+msgid ""
+"Specifies how to receive the coupon. The setting is not used if the coupon "
+"is applied automatically"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:550
+msgid "Do not send coupon"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:551
+msgid "Send a coupon after the first order"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:560
+msgid "Usage restriction"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:566
+msgid "Minimum spend"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:567
+msgid "Set the minimum total cart (subtotal) amount required to use the coupon"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:574
+msgid "Maximum spend"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:575
+msgid "Set the maximum total cart (subtotal) amount required to use the coupon"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:583
+#, fuzzy
+#| msgid "Add new order"
+msgid "Individual use"
+msgstr "Ajouter un nouvel ordre"
+
+#: admin/wpsl-post-types-metaboxes.php:584
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other coupons"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:590
+msgid "Exclude sale items"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:591
+msgid ""
+"Check this box if the coupon should not apply to items with discount. Option "
+"to exclude discounted products from the calculation of the total discount "
+"regardless of the \"Type of discount\""
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:598
+msgid "User limits"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:599
+msgid "Apply the coupon only to the specified group of users"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:603
+#, fuzzy
+#| msgid "All orders"
+msgid "All users"
+msgstr "Toutes les commandes"
+
+#: admin/wpsl-post-types-metaboxes.php:612
+msgid "Usage limits"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:618
+msgid "Usage limit per coupon"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:619
+msgid "How many times this coupon can be used before it is void"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:626
+msgid "Usage limit per user"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:627
+msgid ""
+"How many times this coupon can be used by an individual user. Uses billing "
+"email for guests, and user ID for logged in users"
+msgstr ""
+
+#: admin/wpsl-post-types-metaboxes.php:638
+msgid "Coupon data"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:57 ajax/class-wpsl-ajax-frontend.php:419
+#: core/class-wpsl-include-js-css.php:30
+msgid "Saved"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:76
+msgid "SMS sending is works!"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:98 ajax/class-wpsl-ajax-admin.php:99
+#: core/class-wpsl-product-attributes-common.php:146
+#: core/class-wpsl-product-attributes-common.php:147
+msgid "Yes"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:98 ajax/class-wpsl-ajax-admin.php:99
+#: core/class-wpsl-product-attributes-common.php:146
+#: core/class-wpsl-product-attributes-common.php:147
+msgid "No"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:106
+#: core/class-wpsl-product-attributes-common.php:154
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+#: core/theme-support/twentyfifteen.php:34
+msgid "Edit"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:107 core/class-wpsl-constructor-forms.php:96
+#: core/class-wpsl-constructor-metaboxes.php:142
+#: core/class-wpsl-product-attributes-common.php:155
+#: core/class-wpsl-product-attributes-single.php:191
+#: core/class-wpsl-product-attributes-single.php:457
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+msgid "Delete"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:257
+msgid "Files not found"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:288
+msgid "Binding a column to a field"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:289
+msgid ""
+"Select the columns of the CSV file to assign the product field, or to ignore "
+"them."
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:295
+msgid "Column"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:296
+#, fuzzy
+#| msgid "Old price"
+msgid "Set field"
+msgstr "Ancien prix"
+
+#: ajax/class-wpsl-ajax-admin.php:304
+msgid "ID of attachment"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:308
+msgid "Delimetr"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:349
+msgid "Line"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:349 templates/account/tab-reviews.php:20
+#: templates/cart/cart.php:27
+#, fuzzy
+#| msgid "Best product"
+msgid "Product"
+msgstr "Meilleur produit"
+
+#: ajax/class-wpsl-ajax-admin.php:349
+#, fuzzy
+#| msgid "Total"
+msgid "Total time"
+msgstr "Total"
+
+#: ajax/class-wpsl-ajax-admin.php:516
+msgid "The product exists, the data is updated"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-admin.php:518
+msgid "The product is successfully created"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:97
+#, fuzzy, php-format
+#| msgid "Your order code is #"
+msgid "Your verification code: %s"
+msgstr "Le code de votre commande est #"
+
+#: ajax/class-wpsl-ajax-frontend.php:99
+msgid ""
+"The password is not sent. Check that the phone number is entered correctly."
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:153
+msgid "Nothing found, try another query"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:283 ajax/class-wpsl-ajax-frontend.php:370
+#, php-format
+msgid "Found: %d"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:284 ajax/class-wpsl-ajax-frontend.php:371
+msgid "Show"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:398
+msgid "Email field must be filled"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:401
+msgid "Invalid email format"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:421
+msgid "This email is busy"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:433
+#, fuzzy
+#| msgid "Best product"
+msgid "Select product"
+msgstr "Meilleur produit"
+
+#: ajax/class-wpsl-ajax-frontend.php:436
+msgid "Ticket for the whole order"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:471
+msgid ""
+"Your ticket has been successfully sent. Wait for the operator\"s response"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:506
+msgid "You"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:506
+msgid "Operator"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:516
+msgid "Text"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:521
+#: core/class-wpsl-constructor-forms.php:193
+#: core/class-wpsl-include-js-css.php:24 core/class-wpsl-include-js-css.php:77
+#: templates/account/tab-registration.php:50
+#: templates/account/tab-ticket.php:85
+msgid "Send"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:559
+#, fuzzy
+#| msgid "Date correct"
+msgid "Date of order"
+msgstr "Date correcte"
+
+#: ajax/class-wpsl-ajax-frontend.php:580
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "Details of order"
+msgstr "Le montant total de la commande:"
+
+#: ajax/class-wpsl-ajax-frontend.php:593
+msgid "Regenerate download link"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:625 ajax/class-wpsl-ajax-frontend.php:674
+msgid "Enter your name"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:628 ajax/class-wpsl-ajax-frontend.php:677
+#: core/wpsl-template-filters.php:572 core/wpsl-template-filters.php:575
+#: core/wpsl-template-filters.php:577
+msgid "Enter your email"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:631
+msgid "Enter your message"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:637
+msgid "Request from contact form"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:638
+msgid "Received an application from the site with a request to call back"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:643
+msgid "From"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:647
+msgid "The message was successfully sent to admin"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:649
+msgid "Something went wrong. Click \"Submit\" again"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:655 ajax/class-wpsl-ajax-frontend.php:724
+msgid "No spam"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:680
+msgid "Enter your assessment"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:683
+msgid "Enter product advantages"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:686
+msgid "Enter product disadvantages"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:713
+msgid "Something went wrong, send review again"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:715
+msgid "Review was sended"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:795
+#, fuzzy
+#| msgid "Your order code is #"
+msgid "Your bet is made"
+msgstr "Le code de votre commande est #"
+
+#: ajax/class-wpsl-ajax-frontend.php:797
+msgid "A link to confirm your bet has been sent to your e-mail"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:799
+msgid "Go to the mail service"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:801
+msgid "You have placed a bid on the purchase of the auction product"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:802
+msgid "Confirm bid"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:803
+msgid "Bid confirmation"
+msgstr ""
+
+#: ajax/class-wpsl-ajax-frontend.php:813
+msgid "Your bid cannot be lower than the current price"
+msgstr ""
+
+#: core/class-wpsl-cart.php:173
+msgid "Please enter required data!"
+msgstr "Veuillez entrer les données requises!"
+
+#: core/class-wpsl-cart.php:179
+#, fuzzy
+#| msgid "Please enter required data!"
+msgid "Please enter required email!"
+msgstr "Veuillez entrer les données requises!"
+
+#: core/class-wpsl-cart.php:183
+msgid "Please specify correct E-mail!"
+msgstr "Veuillez spécifier l'adresse E-mail!"
+
+#: core/class-wpsl-cart.php:187
+msgid "Please specify correct phone!"
+msgstr "Veuillez préciser de téléphone correct!"
+
+#: core/class-wpsl-cart.php:191 templates/cart/cart-empty.php:23
+#, fuzzy
+#| msgid "Basket is empty."
+msgid "Cart is empty"
+msgstr "Panier est vide"
+
+#: core/class-wpsl-cart.php:358
+msgid "Remove from cart"
+msgstr ""
+
+#: core/class-wpsl-cart.php:390
+msgid "Merchandise total"
+msgstr ""
+
+#: core/class-wpsl-cart.php:393
+#, fuzzy
+#| msgid "Count of notifications"
+msgid "Discount total"
+msgstr "Nombre de notifications"
+
+#: core/class-wpsl-cart.php:397
+#, fuzzy
+#| msgid "Total"
+msgid "Subtotal"
+msgstr "Total"
+
+#: core/class-wpsl-constructor-email.php:105
+msgid ""
+"Support to resolve issues on availability, payment and receipt of products"
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:136
+msgid "You can find information about your order in your personal account"
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:137
+msgid "Login to account"
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:147
+msgid "This letter is generated automatically, do not answer it."
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:151
+msgid ""
+"If you need to contact technical support, please send a request to email"
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:159
+msgid ""
+"Technical support is provided through the system of internal tickets in your "
+"account."
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:161
+#, fuzzy
+#| msgid "Go to basket"
+msgid "Go to account"
+msgstr "Aller au panier"
+
+#: core/class-wpsl-constructor-email.php:197
+msgid "Link to the file is not found. Contact technical support for assistance"
+msgstr ""
+
+#: core/class-wpsl-constructor-email.php:284
+#: core/class-wpsl-constructor-email.php:285 templates/cart/cart-mini.php:25
+#: templates/cart/cart.php:30
+msgid "Total"
+msgstr "Total"
+
+#: core/class-wpsl-constructor-forms.php:84
+#: core/class-wpsl-constructor-metaboxes.php:130
+#: core/class-wpsl-constructor-metaboxes.php:139
+msgid "URL"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:95
+#: core/class-wpsl-constructor-metaboxes.php:141
+msgid "Upload"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:119
+#: core/wpsl-general-functions.php:992
+msgid "Very poor"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:120
+#: core/wpsl-general-functions.php:993
+msgid "Not that bad"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:121
+#: core/wpsl-general-functions.php:994
+msgid "Average"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:122
+#: core/wpsl-general-functions.php:995
+msgid "Good"
+msgstr ""
+
+#: core/class-wpsl-constructor-forms.php:123
+#: core/wpsl-general-functions.php:996
+msgid "Perfect"
+msgstr ""
+
+#: core/class-wpsl-delivery.php:40 options/wpsl-options.php:759
+msgid "Shipping type"
+msgstr ""
+
+#: core/class-wpsl-discount.php:255
+#, php-format
+msgid "Coupon \"%s\" does not exist!"
+msgstr ""
+
+#: core/class-wpsl-discount.php:264
+#, php-format
+msgid "The coupon is not active yet. Until the early remained: %s"
+msgstr ""
+
+#: core/class-wpsl-discount.php:271
+msgid "This coupon has expired"
+msgstr ""
+
+#: core/class-wpsl-discount.php:278
+#, php-format
+msgid "The minimum amount to apply the discount is %s"
+msgstr ""
+
+#: core/class-wpsl-discount.php:285
+#, php-format
+msgid "The maximum amount to apply the discount is %s"
+msgstr ""
+
+#: core/class-wpsl-discount.php:292
+msgid "Coupon usage limit has been reached"
+msgstr ""
+
+#: core/class-wpsl-discount.php:301
+msgid "Coupon code already applied!"
+msgstr ""
+
+#: core/class-wpsl-discount.php:304
+msgid "Sorry, this coupon is not applicable to your cart contents"
+msgstr ""
+
+#: core/class-wpsl-discount.php:365
+#, fuzzy
+#| msgid "Count of product"
+msgid "Discount for next order"
+msgstr "Nombre de produit"
+
+#: core/class-wpsl-discount.php:368
+#, php-format
+msgid ""
+"Thank you for your order.\n"
+"\t\t\t\t\n"
+"\t\t\t\tGet a discount coupon for your next purchase: %s"
+msgstr ""
+
+#: core/class-wpsl-featured-images.php:80 core/class-wpsl-terms-images.php:63
+#: core/class-wpsl-terms-images.php:90
+msgid "Image"
+msgstr ""
+
+#: core/class-wpsl-featured-images.php:146
+#, fuzzy
+#| msgid "Browse Or Upload An Image"
+msgid "Browse or upload an image"
+msgstr "Parcourez Ou Téléchargez Une Image"
+
+#: core/class-wpsl-featured-images.php:148
+msgid "Set thumbnail"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:23
+msgid "Work"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:25 core/class-wpsl-include-js-css.php:78
+msgid "Sending"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:26
+#: core/class-wpsl-product-attributes-common.php:126
+msgid "Save attribute"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:27
+#: core/class-wpsl-product-attributes-common.php:126
+#, fuzzy
+#| msgid "Add new order"
+msgid "Add new attribute"
+msgstr "Ajouter un nouvel ordre"
+
+#: core/class-wpsl-include-js-css.php:28
+msgid "You have not selected where to download the attributes"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:31
+msgid "This image is already in the gallery"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:32
+msgid "Are you sure?"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:33
+msgid "Please select a file to import"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:34
+msgid "The file is sent. The import process is in progress..."
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:35
+msgid "Error ajax request"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:36
+#, fuzzy
+#| msgid "Add new order"
+msgid "Name of attribute"
+msgstr "Ajouter un nouvel ordre"
+
+#: core/class-wpsl-include-js-css.php:37
+msgid "Mesuare of attribute"
+msgstr ""
+
+#: core/class-wpsl-include-js-css.php:79
+msgid "of"
+msgstr ""
+
+#: core/class-wpsl-install.php:33
+msgid "Store manager"
+msgstr ""
+
+#: core/class-wpsl-install.php:86
+msgid "Sales consultant"
+msgstr ""
+
+#: core/class-wpsl-install.php:127
+msgid "Seller cashier"
+msgstr ""
+
+#: core/class-wpsl-install.php:194 templates/order/order-form.php:59
+#, fuzzy
+#| msgid "Checkout Order"
+msgid "Checkout order"
+msgstr "La Caisse De Commande"
+
+#: core/class-wpsl-install.php:208
+#, fuzzy
+#| msgid "Add New Status"
+msgid "Order payment"
+msgstr "Ajouter Un Nouveau Statut"
+
+#: core/class-wpsl-install.php:222 options/wpsl-options.php:265
+msgid "Account"
+msgstr ""
+
+#: core/class-wpsl-install.php:235 options/wpsl-options.php:314
+msgid "Storefront"
+msgstr ""
+
+#: core/class-wpsl-install.php:248
+msgid "In-Store Pickup"
+msgstr ""
+
+#: core/class-wpsl-install.php:267 core/wpsl-general-functions.php:675
+#, fuzzy
+#| msgid "Best product"
+msgid "Simple product"
+msgstr "Meilleur produit"
+
+#: core/class-wpsl-install.php:268
+#, fuzzy
+#| msgid "Product description"
+msgid "Product description"
+msgstr "Description du produit"
+
+#: core/class-wpsl-payment.php:36 core/widgets/class-wpsl-widget-payment.php:37
+msgid "Cash"
+msgstr "Espèces"
+
+#: core/class-wpsl-payment.php:42 core/widgets/class-wpsl-widget-payment.php:57
+#: options/wpsl-options.php:995
+msgid "Yandex.Money"
+msgstr ""
+
+#: core/class-wpsl-payment.php:48 core/widgets/class-wpsl-widget-payment.php:61
+#: options/wpsl-options.php:1076
+msgid "WebMoney"
+msgstr ""
+
+#: core/class-wpsl-payment.php:54 core/widgets/class-wpsl-widget-payment.php:65
+#: options/wpsl-options.php:1123
+msgid "PayPal"
+msgstr ""
+
+#: core/class-wpsl-payment.php:60 core/widgets/class-wpsl-widget-payment.php:77
+#: options/wpsl-options.php:1160
+msgid "Cash on delivery"
+msgstr ""
+
+#: core/class-wpsl-payment.php:66 core/widgets/class-wpsl-widget-payment.php:81
+#: options/wpsl-options.php:1189
+msgid "Bank transfer"
+msgstr "Virement"
+
+#: core/class-wpsl-payment.php:137
+msgid ""
+"In your cart only free products. A message was sent to the e-mail specified "
+"in the order"
+msgstr ""
+
+#: core/class-wpsl-payment.php:138
+msgid ""
+"If after registration and payment you have not received links to the "
+"products ordered for your mail, you can get them in private account"
+msgstr ""
+
+#: core/class-wpsl-payment.php:155 core/class-wpsl-payment.php:160
+#: core/class-wpsl-payment.php:204
+msgid "Payment the order №"
+msgstr ""
+
+#: core/class-wpsl-payment.php:177 core/class-wpsl-payment.php:191
+#: core/class-wpsl-payment.php:211
+msgid "Pay"
+msgstr ""
+
+#: core/class-wpsl-payment.php:272
+msgid "Order payment received"
+msgstr ""
+
+#: core/class-wpsl-payment.php:276
+msgid "Your payment has been received"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:25
+#, fuzzy
+#| msgid "Characteristics"
+msgid "Select characteristic\"s group"
+msgstr "Caractéristiques"
+
+#: core/class-wpsl-product-attributes-common.php:26
+msgid "From general settings"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:33
+#: core/class-wpsl-product-attributes-single.php:37
+msgid "Create from"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:50
+#: core/class-wpsl-product-variations.php:683
+#: core/class-wpsl-product-variations.php:701
+#: core/class-wpsl-product-variations.php:745
+msgid "Attribute"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:51
+#: core/class-wpsl-product-attributes-common.php:175
+#, fuzzy
+#| msgid "Add new order"
+msgid "Add new"
+msgstr "Ajouter un nouvel ordre"
+
+#: core/class-wpsl-product-attributes-common.php:58
+#: core/class-wpsl-product-attributes-single.php:505
+#: core/class-wpsl-product-attributes-single.php:518
+#: core/class-wpsl-product-variations.php:85
+msgid "Value"
+msgstr "Valeur"
+
+#: core/class-wpsl-product-attributes-common.php:67
+#: core/class-wpsl-product-attributes-common.php:68
+#: core/class-wpsl-product-attributes-common.php:181
+#: core/class-wpsl-product-attributes-common.php:195
+#: core/class-wpsl-product-attributes-single.php:504
+#: core/class-wpsl-product-attributes-single.php:517
+msgid "Label"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:71
+#, fuzzy
+#| msgid "Value"
+msgid "Values"
+msgstr "Valeur"
+
+#: core/class-wpsl-product-attributes-common.php:72
+msgid "Default values via |"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:76
+#: core/class-wpsl-product-attributes-common.php:77
+#: core/class-wpsl-product-attributes-common.php:182
+#: core/class-wpsl-product-attributes-common.php:196
+#: core/class-wpsl-product-attributes-single.php:506
+#: core/class-wpsl-product-attributes-single.php:519
+msgid "Measure"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:80
+#: core/class-wpsl-product-attributes-common.php:82
+#: core/class-wpsl-product-attributes-common.php:183
+#: core/class-wpsl-product-attributes-common.php:197
+#: templates/single/product-tabs.php:15
+msgid "Description"
+msgstr "Description"
+
+#: core/class-wpsl-product-attributes-common.php:86
+msgid "Type"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:91
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select buttons"
+msgstr "Sélectionnez variaton"
+
+#: core/class-wpsl-product-attributes-common.php:92
+msgid "Dropdown list"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:93
+msgid "Select color"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:94
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select image"
+msgstr "Sélectionnez variaton"
+
+#: core/class-wpsl-product-attributes-common.php:95
+msgid "Slider"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:111
+#: core/class-wpsl-product-attributes-common.php:113
+#: core/class-wpsl-product-attributes-common.php:184
+#: core/class-wpsl-product-attributes-common.php:198
+msgid "Filterable"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:118
+#: core/class-wpsl-product-attributes-common.php:120
+msgid "Variability"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:168
+#: core/class-wpsl-product-attributes-single.php:485
+msgid "Attributes not found"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-common.php:174
+#, fuzzy
+#| msgid "Characteristics"
+msgid "Create characteristics of product"
+msgstr "Caractéristiques"
+
+#: core/class-wpsl-product-attributes-common.php:185
+#: core/class-wpsl-product-attributes-common.php:199
+#: core/class-wpsl-product-attributes-single.php:507
+#: core/class-wpsl-product-attributes-single.php:520
+msgid "Variable"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-single.php:24
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select attributes group"
+msgstr "Sélectionnez variaton"
+
+#: core/class-wpsl-product-attributes-single.php:35
+#, fuzzy
+#| msgid "Characteristics"
+msgid "Save characteristics"
+msgstr "Caractéristiques"
+
+#: core/class-wpsl-product-attributes-single.php:68
+msgid "New comma separated"
+msgstr ""
+
+#: core/class-wpsl-product-attributes-single.php:515
+msgid "Add attribute"
+msgstr "Ajouter un attribut"
+
+#: core/class-wpsl-product-variations.php:27
+#, fuzzy
+#| msgid "Description"
+msgid "Variation editor"
+msgstr "Description"
+
+#: core/class-wpsl-product-variations.php:35
+#, fuzzy
+#| msgid "Best product"
+msgid "Product sku"
+msgstr "Meilleur produit"
+
+#: core/class-wpsl-product-variations.php:37
+#: core/class-wpsl-product-variations.php:47 core/class-wpsl-shortcodes.php:69
+#: core/class-wpsl-shortcodes.php:79 core/class-wpsl-shortcodes.php:89
+#: core/class-wpsl-shortcodes.php:99 core/wpsl-template-filters.php:359
+#: core/wpsl-template-filters.php:464 core/wpsl-template-filters.php:521
+#: templates/account/tab-login.php:27 templates/account/tab-login.php:37
+#: templates/account/tab-login.php:47 templates/account/tab-lostpassword.php:27
+#: templates/account/tab-profile.php:23 templates/account/tab-profile.php:33
+#: templates/account/tab-profile.php:43 templates/account/tab-profile.php:53
+#: templates/account/tab-profile.php:63 templates/account/tab-profile.php:73
+#: templates/account/tab-registration.php:29
+#: templates/account/tab-registration.php:39
+#: templates/account/tab-ticket.php:50 templates/account/tab-ticket.php:59
+#: templates/account/tab-ticket.php:74 templates/single/product-reviews.php:77
+msgid "Notice"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:42
+msgid "Upload file"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:45
+msgid "Link to download"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:53
+#: options/class-wpsl-options.php:1105 templates/account/tab-profile.php:84
+msgid "Save"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:64
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Save variations"
+msgstr "Sélectionnez variaton"
+
+#: core/class-wpsl-product-variations.php:65
+msgid "Create from attributes"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:75
+msgid "Mass management"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:76
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Delete all variations"
+msgstr "Sélectionnez variaton"
+
+#: core/class-wpsl-product-variations.php:77
+#, fuzzy
+#| msgid "Price"
+msgid "Pricing"
+msgstr "Prix"
+
+#: core/class-wpsl-product-variations.php:78
+#, fuzzy
+#| msgid "Old price"
+msgid "Set price"
+msgstr "Ancien prix"
+
+#: core/class-wpsl-product-variations.php:79
+msgid "Increase by a fixed value"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:80
+msgid "Increase by percent"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:81
+msgid "Decrease by a fixed value"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:82
+msgid "Decrease by percent"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+#: core/class-wpsl-product-variations.php:800
+msgid "Action"
+msgstr "Action"
+
+#: core/class-wpsl-product-variations.php:565
+#: core/class-wpsl-product-variations.php:778
+msgid ""
+"Variations of the product exist. Make sure that among the characteristics of "
+"eating is variable, and click \"Create features\"."
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:796
+msgid "ID"
+msgstr ""
+
+#: core/class-wpsl-product-variations.php:798
+#, fuzzy
+#| msgid "Description"
+msgid "Variation"
+msgstr "Description"
+
+#: core/class-wpsl-shortcodes.php:64 templates/single/product-reviews.php:22
+#: templates/single/product-reviews.php:27
+#, fuzzy
+#| msgid "Your Name"
+msgid "Your name"
+msgstr "Votre Nom"
+
+#: core/class-wpsl-shortcodes.php:67 templates/order/order-contact.php:30
+#: templates/single/product-reviews.php:25
+msgid "John Smith"
+msgstr ""
+
+#: core/class-wpsl-shortcodes.php:74 templates/single/product-reviews.php:32
+#: templates/single/product-reviews.php:37
+#, fuzzy
+#| msgid "Your E-mail"
+msgid "Your email"
+msgstr "Votre E-mail"
+
+#: core/class-wpsl-shortcodes.php:84 core/class-wpsl-shortcodes.php:87
+msgid "Subject"
+msgstr ""
+
+#: core/class-wpsl-shortcodes.php:94 core/class-wpsl-shortcodes.php:97
+msgid "Your message"
+msgstr ""
+
+#: core/class-wpsl-shortcodes.php:114 options/wpsl-options.php:81
+msgid "Contact form"
+msgstr "Formulaire de Contact"
+
+#: core/class-wpsl-shortcodes.php:115
+msgid "contact us in any convenient way for you"
+msgstr ""
+
+#: core/class-wpsl-shortcodes.php:189
+msgid "You are trying to get data with the wrong token"
+msgstr ""
+
+#: core/class-wpsl-sms.php:55
+msgid "SMS was sent!"
+msgstr ""
+
+#: core/class-wpsl-sms.php:57
+msgid "Something went wrong, SMS is not sent. Try again."
+msgstr ""
+
+#: core/class-wpsl-sms.php:62
+msgid "Something went wrong, the query is not executed"
+msgstr ""
+
+#: core/class-wpsl-sms.php:66
+msgid ""
+"The query is not executed. The connection to the server could not be "
+"established. Contact the store."
+msgstr ""
+
+#: core/class-wpsl-terms-images.php:68 core/class-wpsl-terms-images.php:96
+msgid "Remove"
+msgstr ""
+
+#: core/class-wpsl-terms-images.php:191
+msgid "Featured Image"
+msgstr ""
+
+#: core/class-wpsl-terms-images.php:198
+msgid "Set featured image"
+msgstr ""
+
+#: core/class-wpsl-terms-metaboxes.php:136
+#, fuzzy
+#| msgid "Title"
+msgid "SEO Title"
+msgstr "Intitulé"
+
+#: core/class-wpsl-terms-metaboxes.php:150
+msgid "The text on the category page"
+msgstr ""
+
+#: core/class-wpsl-terms-metaboxes.php:152
+#, fuzzy
+#| msgid "Description"
+msgid "Description meta tag"
+msgstr "Description"
+
+#: core/theme-support/twentytwelve.php:27
+#, fuzzy, php-format
+#| msgid "Category"
+msgid "Category Archives: %s"
+msgstr "Catégorie"
+
+#: core/widgets/class-wpsl-widget-category.php:20
+#, fuzzy
+#| msgid "Product description"
+msgid "Products sections"
+msgstr "Description du produit"
+
+#: core/widgets/class-wpsl-widget-category.php:22
+msgid "Display sections of product in your online store"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-category.php:51
+#: core/widgets/class-wpsl-widget-category.php:52
+#, fuzzy
+#| msgid "Add new category"
+msgid "Hide in category page"
+msgstr "Ajouter une nouvelle catégorie"
+
+#: core/widgets/class-wpsl-widget-category.php:57
+#: core/widgets/class-wpsl-widget-category.php:58
+msgid "Hide in front page"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:23
+msgid "Products filter"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:25
+msgid "Allows display the filter products by attributes"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:47
+msgid "Place on count"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:50 options/wpsl-options.php:112
+msgid "Left"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:51 options/wpsl-options.php:113
+msgid "Right"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-filter.php:52
+msgid "Center"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:21
+msgid "Payment icons"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:23
+msgid "Displays the icons of the payment methods in your online store"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:41
+msgid "Visa"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:45
+msgid "MasterCard"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:49
+msgid "Maestro"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:53
+msgid "Mir"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:69
+msgid "Qiwi"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:73
+msgid "Mailru"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-payment.php:106
+#, fuzzy
+#| msgid "Count of product"
+msgid "Count of columns"
+msgstr "Nombre de produit"
+
+#: core/widgets/class-wpsl-widget-search.php:21
+msgid "Smart search"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-search.php:23
+msgid "Displays the product search form"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-search.php:90
+msgid "Search among"
+msgstr ""
+
+#: core/widgets/class-wpsl-widget-search.php:95 options/wpsl-options.php:266
+msgid "Search"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:14
+#, fuzzy
+#| msgid "National currency"
+msgid "Select national currency"
+msgstr "Monnaie nationale"
+
+#: core/wpsl-currency-functions.php:21
+msgid "United Arab Emirates dirham"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:28
+msgid "Afghan afghani"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:35
+msgid "Albanian lek"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:42
+msgid "Armenian dram"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:49
+msgid "Angolan kwanza"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:56
+msgid "Argentine peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:63
+msgid "Australian dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:70
+msgid "Azerbaijani manat"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:77
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:84
+msgid "Bangladeshi taka"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:91
+msgid "Bulgarian lev"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:98
+msgid "Bolivian boliviano"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:105
+msgid "Brazilian real"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:112
+msgid "Belarusian ruble"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:119
+msgid "Belize dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:126
+msgid "Canadian dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:133
+msgid "Congolese franc"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:140
+msgid "Swiss franc"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:147
+msgid "Chilean peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:154
+msgid "Chinese yuan"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:161
+msgid "Colombian peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:168
+msgid "Costa Rican col&oacute;n"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:175
+msgid "Czech koruna"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:182
+msgid "Danish krone"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:189
+msgid "Dominican peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:196
+msgid "Euro"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:203
+msgid "Pound sterling"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:210
+msgid "Georgian lari"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:217
+msgid "Guatemalan quetzal"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:224
+msgid "Honduran lempira"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:231
+msgid "Croatian kuna"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:238
+msgid "Haitian gourde"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:245
+msgid "Hungarian forint"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:252
+msgid "Indonesian rupiah"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:259
+msgid "Israeli new shekel"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:266
+msgid "Indian rupee"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:273
+msgid "Iranian rial"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:280
+msgid "Icelandic kr&oacute;na"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:287
+msgid "Jamaican dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:294
+msgid "Jordanian dinar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:301
+msgid "Japanese yen"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:308
+msgid "Kenyan shilling"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:315
+msgid "Kyrgyzstani som"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:322
+msgid "Cambodian riel"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:329
+msgid "Comorian franc"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:336
+msgid "North Korean won"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:343
+msgid "South Korean won"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:350
+msgid "Kuwaiti dinar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:357
+msgid "Kazakhstani tenge"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:364
+msgid "Lao kip"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:371
+msgid "Sri Lankan rupee"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:378
+msgid "Liberian dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:385
+msgid "Lesotho loti"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:392
+msgid "Libyan dinar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:399
+msgid "Moroccan dirham"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:406
+msgid "Moldovan leu"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:413
+msgid "Malagasy ariary"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:420
+msgid "Macedonian denar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:427
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:434
+msgid "Mexican peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:441
+msgid "Malaysian ringgit"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:448
+msgid "Mozambican metical"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:455
+msgid "Namibian dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:462
+msgid "Nigerian naira"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:469
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:476
+msgid "Norwegian krone"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:483
+msgid "Nepalese rupee"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:490
+msgid "New Zealand dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:497
+msgid "Peruvian nuevo sol"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:504
+msgid "Philippine peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:511
+msgid "Pakistani rupee"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:518
+msgid "Polish z&#x142;oty"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:525
+msgid "Paraguayan guaran&iacute;"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:532
+msgid "Qatari riyal"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:539
+msgid "Romanian leu"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:546
+msgid "Serbian dinar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:560
+msgid "Rwandan franc"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:567
+msgid "Saudi riyal"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:574
+msgid "Swedish krona"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:581
+msgid "Singapore dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:588
+msgid "Sierra Leonean leone"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:595
+msgid "Somali shilling"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:602
+msgid "Surinamese dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:609
+msgid "South Sudanese pound"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:616
+msgid "Syrian pound"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:623
+msgid "Swazi lilangeni"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:630
+msgid "Thai baht"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:637
+msgid "Tajikistani somoni"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:644
+msgid "Turkmenistan manat"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:651
+msgid "Tunisian dinar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:658
+msgid "Tongan pa&#x2bb;anga"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:672
+msgid "Trinidad and Tobago dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:679
+msgid "New Taiwan dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:686
+msgid "Tanzanian shilling"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:693
+msgid "Ukrainian hryvnia"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:700
+msgid "Ugandan shilling"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:707
+msgid "United States dollar"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:714
+msgid "Uruguayan peso"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:721
+msgid "Uzbekistani som"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:728
+msgid "Venezuelan bol&iacute;var"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:735
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:742
+msgid "Vanuatu vatu"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:749
+msgid "Samoan t&#x101;l&#x101;"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:756
+msgid "Yemeni rial"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:763
+msgid "South African rand"
+msgstr ""
+
+#: core/wpsl-currency-functions.php:770
+msgid "Zambian kwacha"
+msgstr ""
+
+#: core/wpsl-general-functions.php:325
+#, fuzzy
+#| msgid "Add New Status"
+msgid "Order status"
+msgstr "Ajouter Un Nouveau Statut"
+
+#: core/wpsl-general-functions.php:326
+msgid "Payment status"
+msgstr ""
+
+#: core/wpsl-general-functions.php:327
+#, fuzzy
+#| msgid "All Delivery Types"
+msgid "Delivery status"
+msgstr "Tous Les Types De Diffusion"
+
+#: core/wpsl-general-functions.php:499 core/wpsl-template-actions.php:187
+msgid "Auction is ended"
+msgstr ""
+
+#: core/wpsl-general-functions.php:655
+msgid "Select"
+msgstr ""
+
+#: core/wpsl-general-functions.php:656
+msgid "Make a bid"
+msgstr ""
+
+#: core/wpsl-general-functions.php:657
+msgid "Fund"
+msgstr ""
+
+#: core/wpsl-general-functions.php:676
+msgid "External/Affiliate product"
+msgstr ""
+
+#: core/wpsl-general-functions.php:677
+#, fuzzy
+#| msgid "Best product"
+msgid "Variable product"
+msgstr "Meilleur produit"
+
+#: core/wpsl-general-functions.php:678
+#, fuzzy
+#| msgid "Count of product"
+msgid "Auction product"
+msgstr "Nombre de produit"
+
+#: core/wpsl-general-functions.php:679
+#, fuzzy
+#| msgid "Best product"
+msgid "Sponsorship product"
+msgstr "Meilleur produit"
+
+#: core/wpsl-general-functions.php:721
+msgid "Ordering"
+msgstr ""
+
+#: core/wpsl-general-functions.php:999
+msgid "Product assessment"
+msgstr ""
+
+#: core/wpsl-general-functions.php:999
+#, fuzzy
+#| msgid "Your Name"
+msgid "No assessments"
+msgstr "Votre Nom"
+
+#: core/wpsl-general-functions.php:1260
+msgid "kg"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1261
+msgid "g"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1262
+msgid "lbs"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1263
+msgid "oz"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1281
+msgid "m"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1282
+msgid "cm"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1283
+#: templates/single/product-side-atts.php:64
+#: templates/single/product-side-atts.php:71
+#: templates/single/product-side-atts.php:78
+msgid "mm"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1284
+msgid "in"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1285
+msgid "yd"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1533
+msgid "In stock"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1534
+msgid "Out of stock"
+msgstr ""
+
+#: core/wpsl-general-functions.php:1535
+#, fuzzy
+#| msgid "All orders"
+msgid "Pre order"
+msgstr "Toutes les commandes"
+
+#: core/wpsl-import-functions.php:121
+msgid "Could not insert term relationship into the database."
+msgstr ""
+
+#: core/wpsl-import-functions.php:174
+msgid "Invalid post ID."
+msgstr ""
+
+#: core/wpsl-import-functions.php:202
+msgid "Content, title, and excerpt are empty."
+msgstr ""
+
+#: core/wpsl-import-functions.php:251
+msgid "Invalid date."
+msgstr ""
+
+#: core/wpsl-import-functions.php:368
+msgid "Could not update post in the database"
+msgstr ""
+
+#: core/wpsl-import-functions.php:383
+msgid "Could not insert post into the database"
+msgstr ""
+
+#: core/wpsl-import-functions.php:519
+msgid "No import"
+msgstr ""
+
+#: core/wpsl-import-functions.php:520
+#, fuzzy
+#| msgid "Best product"
+msgid "Product id"
+msgstr "Meilleur produit"
+
+#: core/wpsl-import-functions.php:521
+#, fuzzy
+#| msgid "Best product"
+msgid "Product type"
+msgstr "Meilleur produit"
+
+#: core/wpsl-import-functions.php:523
+msgid "Short excerpt"
+msgstr ""
+
+#: core/wpsl-import-functions.php:524
+msgid "Content"
+msgstr ""
+
+#: core/wpsl-import-functions.php:526
+msgid "Tag"
+msgstr ""
+
+#: core/wpsl-import-functions.php:527
+#, fuzzy
+#| msgid "Best product"
+msgid "Digital product"
+msgstr "Meilleur produit"
+
+#: core/wpsl-import-functions.php:530
+msgid "Thumbnail"
+msgstr ""
+
+#: core/wpsl-import-functions.php:531
+msgid "Gallery"
+msgstr ""
+
+#: core/wpsl-import-functions.php:533
+#, fuzzy
+#| msgid "Old price"
+msgid "Regular price"
+msgstr "Ancien prix"
+
+#: core/wpsl-import-functions.php:534
+#, fuzzy
+#| msgid "Old price"
+msgid "Sale price"
+msgstr "Ancien prix"
+
+#: core/wpsl-import-functions.php:542
+#, fuzzy
+#| msgid "Add new order"
+msgid "Individual attribute"
+msgstr "Ajouter un nouvel ordre"
+
+#: core/wpsl-import-functions.php:543
+#, fuzzy
+#| msgid "Add new order"
+msgid "Global attribute"
+msgstr "Ajouter un nouvel ordre"
+
+#: core/wpsl-import-functions.php:551 options/wpsl-options.php:660
+#: options/wpsl-options.php:661 options/wpsl-options.php:662
+#: options/wpsl-options.php:663 options/wpsl-options.php:664
+#: options/wpsl-options.php:665 options/wpsl-options.php:666
+msgid "Example"
+msgstr ""
+
+#: core/wpsl-template-actions.php:98
+msgid "Best seller"
+msgstr ""
+
+#: core/wpsl-template-actions.php:150
+msgid "Made bets"
+msgstr ""
+
+#: core/wpsl-template-actions.php:151
+msgid "Now leading"
+msgstr ""
+
+#: core/wpsl-template-actions.php:189
+msgid "Winner"
+msgstr ""
+
+#: core/wpsl-template-actions.php:189
+msgid "No winner"
+msgstr ""
+
+#: core/wpsl-template-actions.php:215
+#, php-format
+msgid "The bet is made. You can log in to %s"
+msgstr ""
+
+#: core/wpsl-template-actions.php:215
+#, fuzzy
+#| msgid "Go to basket"
+msgid "personal account"
+msgstr "Aller au panier"
+
+#: core/wpsl-template-actions.php:232
+#, php-format
+msgid "[%s] Received a new order №: %s"
+msgstr ""
+
+#: core/wpsl-template-actions.php:323
+#, fuzzy
+#| msgid "All category of products"
+msgid "Search of products"
+msgstr "Tous les produits de la catégorie"
+
+#: core/wpsl-template-actions.php:327
+#, fuzzy
+#| msgid "All category of products"
+msgid "Filter of products"
+msgstr "Tous les produits de la catégorie"
+
+#: core/wpsl-template-actions.php:338
+msgid "Our addresses"
+msgstr ""
+
+#: core/wpsl-template-actions.php:364
+msgid "File not found, please contact the seller"
+msgstr ""
+
+#: core/wpsl-template-actions.php:375
+msgid "Invalid token, please contact the seller"
+msgstr ""
+
+#: core/wpsl-template-filters.php:191
+msgid "Avatar"
+msgstr ""
+
+#: core/wpsl-template-filters.php:200
+#, fuzzy
+#| msgid "All orders"
+msgid "My orders"
+msgstr "Toutes les commandes"
+
+#: core/wpsl-template-filters.php:209
+msgid "My profile"
+msgstr ""
+
+#: core/wpsl-template-filters.php:227
+msgid "Create ticket"
+msgstr ""
+
+#: core/wpsl-template-filters.php:236
+msgid "My reviews"
+msgstr ""
+
+#: core/wpsl-template-filters.php:245 core/wpsl-template-filters.php:706
+msgid "Login"
+msgstr ""
+
+#: core/wpsl-template-filters.php:245 templates/account/tab-login.php:65
+msgid "Log out"
+msgstr ""
+
+#: core/wpsl-template-filters.php:254
+msgid "Lost password"
+msgstr ""
+
+#: core/wpsl-template-filters.php:263
+#, fuzzy
+#| msgid "Description"
+msgid "Registration"
+msgstr "Description"
+
+#: core/wpsl-template-filters.php:272
+msgid "Collapse"
+msgstr ""
+
+#: core/wpsl-template-filters.php:297
+msgid "There was a problem with your username or password"
+msgstr ""
+
+#: core/wpsl-template-filters.php:299
+msgid "You are now logged out"
+msgstr ""
+
+#: core/wpsl-template-filters.php:301
+msgid "Check your e-mail for the confirmation link"
+msgstr ""
+
+#: core/wpsl-template-filters.php:306
+msgid "Recover Lost Password"
+msgstr ""
+
+#: core/wpsl-template-filters.php:306
+msgid "Lost Password?"
+msgstr ""
+
+#: core/wpsl-template-filters.php:348 core/wpsl-template-filters.php:389
+#: core/wpsl-template-filters.php:499
+msgid "Details"
+msgstr ""
+
+#: core/wpsl-template-filters.php:353 core/wpsl-template-filters.php:356
+#: core/wpsl-template-filters.php:458 core/wpsl-template-filters.php:461
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select count"
+msgstr "Sélectionnez variaton"
+
+#: core/wpsl-template-filters.php:432
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select attributes"
+msgstr "Sélectionnez variaton"
+
+#: core/wpsl-template-filters.php:441
+msgid "Please, select"
+msgstr ""
+
+#: core/wpsl-template-filters.php:451
+msgid "You forgot to select a feature"
+msgstr ""
+
+#: core/wpsl-template-filters.php:503
+msgid "Minimum fee"
+msgstr ""
+
+#: core/wpsl-template-filters.php:507
+msgid "Funded"
+msgstr ""
+
+#: core/wpsl-template-filters.php:511
+msgid "Until the end of fundraising"
+msgstr ""
+
+#: core/wpsl-template-filters.php:552
+msgid "Until the auction ends"
+msgstr ""
+
+#: core/wpsl-template-filters.php:561 core/wpsl-template-filters.php:564
+#: core/wpsl-template-filters.php:567
+msgid "Please, make a bid"
+msgstr ""
+
+#: core/wpsl-template-filters.php:581
+msgid "Buy for blitz price"
+msgstr ""
+
+#: core/wpsl-template-filters.php:624
+msgid "Place an order and pay"
+msgstr ""
+
+#: core/wpsl-template-filters.php:645
+msgid "Minimum order amount"
+msgstr ""
+
+#: core/wpsl-template-filters.php:645
+#, fuzzy
+#| msgid "Please order something else."
+msgid "Please order something else"
+msgstr "Merci de commander autre chose."
+
+#: core/wpsl-template-filters.php:702
+msgid "Logout"
+msgstr ""
+
+#: options/class-wpsl-options.php:147
+#, fuzzy
+#| msgid "Characteristics"
+msgid "Store statistics"
+msgstr "Caractéristiques"
+
+#: options/class-wpsl-options.php:151
+msgid "Sales"
+msgstr ""
+
+#: options/class-wpsl-options.php:153
+msgid "Tickets"
+msgstr ""
+
+#: options/class-wpsl-options.php:155 options/wpsl-options.php:425
+#: options/wpsl-options.php:437 templates/single/product-tabs.php:33
+msgid "Reviews"
+msgstr ""
+
+#: options/class-wpsl-options.php:165
+msgid "wpStore options"
+msgstr ""
+
+#: options/class-wpsl-options.php:208
+msgid "Reset to default"
+msgstr ""
+
+#: options/class-wpsl-options.php:265
+msgid "Copy option name"
+msgstr ""
+
+#: options/wpsl-options.php:54
+msgid "Store"
+msgstr ""
+
+#: options/wpsl-options.php:55
+#, fuzzy
+#| msgid "Additional information"
+msgid "Base information"
+msgstr "Des informations supplémentaires"
+
+#: options/wpsl-options.php:61
+#, fuzzy
+#| msgid "Adress"
+msgid "Stores addresses"
+msgstr "Adresse"
+
+#: options/wpsl-options.php:66
+msgid "Postal address"
+msgstr ""
+
+#: options/wpsl-options.php:67
+msgid "You can leave this field blank"
+msgstr ""
+
+#: options/wpsl-options.php:68
+msgid "Store address offline"
+msgstr ""
+
+#: options/wpsl-options.php:73
+msgid "This can be useful"
+msgstr ""
+
+#: options/wpsl-options.php:75
+#, php-format
+msgid ""
+"Your theme does not support all plugin features. Try the %s theme from the "
+"developer or learn %s the plugin into the theme."
+msgstr ""
+
+#: options/wpsl-options.php:75
+msgid "how to integrate"
+msgstr ""
+
+#: options/wpsl-options.php:83
+msgid "The output via the shortcode [wpsl-contactform]"
+msgstr ""
+
+#: options/wpsl-options.php:91
+msgid "Currency"
+msgstr ""
+
+#: options/wpsl-options.php:92
+msgid "Base currency of store"
+msgstr ""
+
+#: options/wpsl-options.php:100
+msgid "Currency symbol"
+msgstr ""
+
+#: options/wpsl-options.php:101
+msgid "Replaces the default currency symbol"
+msgstr ""
+
+#: options/wpsl-options.php:108
+#, fuzzy
+#| msgid "Description"
+msgid "Position"
+msgstr "Description"
+
+#: options/wpsl-options.php:109
+msgid "This controls the position of the currency symbol"
+msgstr ""
+
+#: options/wpsl-options.php:114
+msgid "Left with space"
+msgstr ""
+
+#: options/wpsl-options.php:115
+msgid "Right with space"
+msgstr ""
+
+#: options/wpsl-options.php:122
+msgid "Thousand separator"
+msgstr ""
+
+#: options/wpsl-options.php:123
+msgid "This sets the thousand separator of displayed prices"
+msgstr ""
+
+#: options/wpsl-options.php:130
+msgid "Decimal separator"
+msgstr ""
+
+#: options/wpsl-options.php:131
+msgid "This sets the decimal separator of displayed prices"
+msgstr ""
+
+#: options/wpsl-options.php:138
+msgid "Number of decimals"
+msgstr ""
+
+#: options/wpsl-options.php:139
+msgid "This sets the number of decimal points shown in displayed prices"
+msgstr ""
+
+#: options/wpsl-options.php:150
+msgid "Customers will be able to create tickets in personal account"
+msgstr ""
+
+#: options/wpsl-options.php:157
+msgid "Work schedule"
+msgstr ""
+
+#: options/wpsl-options.php:159
+msgid "Work schedule of technical support"
+msgstr ""
+
+#: options/wpsl-options.php:166
+msgid "Phone number on which customers can solve issues with the site"
+msgstr ""
+
+#: options/wpsl-options.php:174
+msgid "Assign an email through which technical support will be provided"
+msgstr ""
+
+#: options/wpsl-options.php:183
+msgid "Prevent the creation of a free products and orders"
+msgstr ""
+
+#: options/wpsl-options.php:192
+msgid ""
+"Technical support is provided only through the internal ticket system in "
+"perconal account"
+msgstr ""
+
+#: options/wpsl-options.php:202
+msgid "Account page"
+msgstr "Mon compte"
+
+#: options/wpsl-options.php:203 options/wpsl-options.php:616
+#: options/wpsl-options.php:648
+msgid "To display the order form, use the shortcode"
+msgstr ""
+
+#: options/wpsl-options.php:214
+msgid "Settings"
+msgstr ""
+
+#: options/wpsl-options.php:215
+msgid "Store settings"
+msgstr ""
+
+#: options/wpsl-options.php:221
+msgid "Performance"
+msgstr ""
+
+#: options/wpsl-options.php:226
+msgid "Disable emoji"
+msgstr ""
+
+#: options/wpsl-options.php:227
+msgid "Option to disable emoticons and reduce the count of http requests"
+msgstr ""
+
+#: options/wpsl-options.php:234
+msgid "Combine js"
+msgstr ""
+
+#: options/wpsl-options.php:235
+msgid ""
+"Merges all js files into one. After activation, ensure non-conflict with "
+"other plugins"
+msgstr ""
+
+#: options/wpsl-options.php:242
+msgid "Allow svg"
+msgstr ""
+
+#: options/wpsl-options.php:243
+msgid "After activation refresh the options page"
+msgstr ""
+
+#: options/wpsl-options.php:252
+msgid "Mobile menu"
+msgstr ""
+
+#: options/wpsl-options.php:254
+msgid "Enables menus on mobile devices"
+msgstr ""
+
+#: options/wpsl-options.php:262
+msgid "Select which parameters users will be able to sort products"
+msgstr ""
+
+#: options/wpsl-options.php:264
+msgid "Call back"
+msgstr ""
+
+#: options/wpsl-options.php:278
+msgid "Law"
+msgstr "Législation"
+
+#: options/wpsl-options.php:285
+#, fuzzy
+#| msgid "Policy the processing of personal data"
+msgid "Personal data processing policy"
+msgstr "La politique de traitement des données personnelles"
+
+#: options/wpsl-options.php:293
+msgid ""
+"Enter the page which contains information about the policy the processing of "
+"personal data"
+msgstr ""
+
+#: options/wpsl-options.php:303
+msgid "Text will be displayed in order form"
+msgstr ""
+
+#: options/wpsl-options.php:305
+msgid ""
+"Attention! In accordance with the law ... you must read and accept the "
+"personal data processing agreement"
+msgstr ""
+
+#: options/wpsl-options.php:315
+#, fuzzy
+#| msgid "All category of products"
+msgid "List of products"
+msgstr "Tous les produits de la catégorie"
+
+#: options/wpsl-options.php:321
+msgid "Page of showcase"
+msgstr ""
+
+#: options/wpsl-options.php:330
+#, fuzzy
+#| msgid "Product description"
+msgid "Products in the row"
+msgstr "Description du produit"
+
+#: options/wpsl-options.php:331 options/wpsl-options.php:339
+msgid "This must be numeric"
+msgstr ""
+
+#: options/wpsl-options.php:332
+msgid "How many products should be shown on the line?"
+msgstr ""
+
+#: options/wpsl-options.php:338
+msgid "Number of rows"
+msgstr ""
+
+#: options/wpsl-options.php:340
+msgid "How many product lines should be shown on the page?"
+msgstr ""
+
+#: options/wpsl-options.php:348
+msgid "Sorting"
+msgstr ""
+
+#: options/wpsl-options.php:350
+msgid "Show the sorting of products above the storefront"
+msgstr ""
+
+#: options/wpsl-options.php:358
+msgid "Sort fields"
+msgstr ""
+
+#: options/wpsl-options.php:360
+#, fuzzy
+#| msgid "Old price"
+msgid "By price"
+msgstr "Ancien prix"
+
+#: options/wpsl-options.php:361
+msgid "Popularity"
+msgstr ""
+
+#: options/wpsl-options.php:362
+#, fuzzy
+#| msgid "Company name"
+msgid "By name"
+msgstr "Nom de la société"
+
+#: options/wpsl-options.php:363
+msgid "By date"
+msgstr ""
+
+#: options/wpsl-options.php:378
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Placeholder image"
+msgstr "Sélectionnez variaton"
+
+#: options/wpsl-options.php:380
+msgid "Will be used if the item has no picture"
+msgstr ""
+
+#: options/wpsl-options.php:394
+msgid "Tabs"
+msgstr ""
+
+#: options/wpsl-options.php:401
+msgid "Transfer attributes of a product to tab"
+msgstr ""
+
+#: options/wpsl-options.php:407
+#, fuzzy
+#| msgid "Count of notifications"
+msgid "Сount of tabs"
+msgstr "Nombre de notifications"
+
+#: options/wpsl-options.php:409
+msgid "Save options and refresh the page"
+msgstr ""
+
+#: options/wpsl-options.php:436 options/wpsl-options.php:475
+msgid "Name of the tab"
+msgstr ""
+
+#: options/wpsl-options.php:445 options/wpsl-options.php:484
+msgid "Icon of the tab"
+msgstr ""
+
+#: options/wpsl-options.php:454
+msgid "Rules for reviews"
+msgstr ""
+
+#: options/wpsl-options.php:460 options/wpsl-options.php:476
+msgid "Tab"
+msgstr ""
+
+#: options/wpsl-options.php:493
+msgid "Fill of the tab"
+msgstr ""
+
+#: options/wpsl-options.php:502
+#, fuzzy
+#| msgid "Best product"
+msgid "Single product"
+msgstr "Meilleur produit"
+
+#: options/wpsl-options.php:508
+msgid "Measurements"
+msgstr ""
+
+#: options/wpsl-options.php:513
+msgid "Weight unit"
+msgstr ""
+
+#: options/wpsl-options.php:515
+msgid "This controls what unit you will define weights in"
+msgstr ""
+
+#: options/wpsl-options.php:522
+msgid "Dimensions unit"
+msgstr ""
+
+#: options/wpsl-options.php:523
+msgid "This controls what unit you will define lengths in"
+msgstr ""
+
+#: options/wpsl-options.php:534
+msgid "Badges"
+msgstr ""
+
+#: options/wpsl-options.php:539
+msgid "Icon \"New\""
+msgstr ""
+
+#: options/wpsl-options.php:549
+msgid ""
+"The number of days from the date the product was published to be considered "
+"new. If you do not want to display the icon, leave the field blank"
+msgstr ""
+
+#: options/wpsl-options.php:556
+msgid "Icon \"Discount\""
+msgstr ""
+
+#: options/wpsl-options.php:557 options/wpsl-options.php:566
+msgid "Set manually on the edit page of an individual product"
+msgstr ""
+
+#: options/wpsl-options.php:565
+msgid "Icon \"Best seller\""
+msgstr ""
+
+#: options/wpsl-options.php:576 templates/single/product-similar.php:22
+msgid "Similar products"
+msgstr ""
+
+#: options/wpsl-options.php:578
+#, fuzzy
+#| msgid "Best product"
+msgid "Output similar products"
+msgstr "Meilleur produit"
+
+#: options/wpsl-options.php:585
+#, fuzzy
+#| msgid "All category of products"
+msgid "Number of similar products"
+msgstr "Tous les produits de la catégorie"
+
+#: options/wpsl-options.php:595
+#, fuzzy
+#| msgid "Best product"
+msgid "Variable products"
+msgstr "Meilleur produit"
+
+#: options/wpsl-options.php:596
+msgid "Display only minimal price"
+msgstr ""
+
+#: options/wpsl-options.php:608 options/wpsl-options.php:614
+#, fuzzy
+#| msgid "Cart"
+msgid "Cart page"
+msgstr "Panier"
+
+#: options/wpsl-options.php:623
+#, fuzzy
+#| msgid "All orders"
+msgid "Minimum order"
+msgstr "Toutes les commandes"
+
+#: options/wpsl-options.php:625
+msgid ""
+"If the cart of products less than the specified amount, order will be "
+"impossible"
+msgstr ""
+
+#: options/wpsl-options.php:631
+msgid "Single-piece product"
+msgstr ""
+
+#: options/wpsl-options.php:632
+msgid "The buyer will not be able to order more than one unit of each item"
+msgstr ""
+
+#: options/wpsl-options.php:633
+msgid "Activate if you sell the piece"
+msgstr "Activez si vous vendez la pièce"
+
+#: options/wpsl-options.php:641 options/wpsl-options.php:646
+#, fuzzy
+#| msgid "Add New Status"
+msgid "Order page"
+msgstr "Ajouter Un Nouveau Statut"
+
+#: options/wpsl-options.php:655
+msgid "Order numeration"
+msgstr ""
+
+#: options/wpsl-options.php:656
+msgid ""
+"Generates the names of the orders. When changing, does not change the "
+"numbering of already created orders"
+msgstr ""
+
+#: options/wpsl-options.php:660
+#, php-format
+msgid "Default. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:661
+#, php-format
+msgid "Numbering from a certain number. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:662
+#, php-format
+msgid "User ID and order number. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:663
+#, php-format
+msgid "Random unique number. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:664
+#, php-format
+msgid "Numbering within a day. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:665
+#, php-format
+msgid "Numbering within a month. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:666
+#, php-format
+msgid "Numbering within a year. %s: %s"
+msgstr ""
+
+#: options/wpsl-options.php:672
+#, fuzzy
+#| msgid "The total sum of the order:"
+msgid "Fields of the order"
+msgstr "Le montant total de la commande:"
+
+#: options/wpsl-options.php:681 options/wpsl-options.php:694
+#: options/wpsl-options.php:707
+msgid "Select the status field"
+msgstr ""
+
+#: options/wpsl-options.php:685 options/wpsl-options.php:698
+#: options/wpsl-options.php:711
+msgid "Not active"
+msgstr ""
+
+#: options/wpsl-options.php:686 options/wpsl-options.php:699
+#: options/wpsl-options.php:712
+#, fuzzy
+#| msgid "Action"
+msgid "Active"
+msgstr "Action"
+
+#: options/wpsl-options.php:687 options/wpsl-options.php:700
+#: options/wpsl-options.php:713
+msgid "Required"
+msgstr ""
+
+#: options/wpsl-options.php:706
+#, fuzzy
+#| msgid "Additional information"
+msgid "Additionaly"
+msgstr "Des informations supplémentaires"
+
+#: options/wpsl-options.php:726
+msgid "Enable"
+msgstr ""
+
+#: options/wpsl-options.php:728
+msgid "Enable coupon support in cart"
+msgstr ""
+
+#: options/wpsl-options.php:739
+msgid "Shipping settings"
+msgstr ""
+
+#: options/wpsl-options.php:750
+msgid "Enable shipping"
+msgstr ""
+
+#: options/wpsl-options.php:752
+msgid "After changing the setting, refresh the page"
+msgstr ""
+
+#: options/wpsl-options.php:761
+#, fuzzy
+#| msgid "All Delivery Types"
+msgid "Default shipping type"
+msgstr "Tous Les Types De Diffusion"
+
+#: options/wpsl-options.php:774
+msgid "Sending email"
+msgstr ""
+
+#: options/wpsl-options.php:780
+msgid "Sender"
+msgstr ""
+
+#: options/wpsl-options.php:785
+#, fuzzy
+#| msgid "Your Name"
+msgid "\"From\" name"
+msgstr "Votre Nom"
+
+#: options/wpsl-options.php:786
+msgid "How the sender name is displayed"
+msgstr ""
+
+#: options/wpsl-options.php:794
+msgid "To administrator"
+msgstr ""
+
+#: options/wpsl-options.php:799 options/wpsl-options.php:814
+msgid "Subject of \"new order\""
+msgstr ""
+
+#: options/wpsl-options.php:802
+#, fuzzy
+#| msgid "Add new order"
+msgid "Received new order"
+msgstr "Ajouter un nouvel ordre"
+
+#: options/wpsl-options.php:809
+msgid "To buyer"
+msgstr ""
+
+#: options/wpsl-options.php:817
+msgid "Your order has been received and is in process our manager"
+msgstr ""
+
+#: options/wpsl-options.php:826
+msgid "Sms"
+msgstr ""
+
+#: options/wpsl-options.php:827
+msgid "Sending SMS"
+msgstr ""
+
+#: options/wpsl-options.php:833
+msgid "Gateway settings"
+msgstr ""
+
+#: options/wpsl-options.php:838
+msgid "Url to send SMS via http"
+msgstr ""
+
+#: options/wpsl-options.php:846 options/wpsl-options.php:854
+#, fuzzy
+#| msgid "Your Name"
+msgid "Your"
+msgstr "Votre Nom"
+
+#: options/wpsl-options.php:848
+msgid ""
+"This can be a password, API ID, or other secret code to send SMS. For "
+"receiving please refer to SMS gateway."
+msgstr ""
+
+#: options/wpsl-options.php:856
+msgid "If the formation of the http request requires login."
+msgstr ""
+
+#: options/wpsl-options.php:864
+msgid "SMS sending"
+msgstr ""
+
+#: options/wpsl-options.php:869
+msgid "SMS to administrator"
+msgstr ""
+
+#: options/wpsl-options.php:871
+msgid "Send to administrator about new order"
+msgstr ""
+
+#: options/wpsl-options.php:878
+msgid "The phone of administrator"
+msgstr ""
+
+#: options/wpsl-options.php:880
+msgid "The cost of 1 SMS at the rates of your SMS gateway"
+msgstr ""
+
+#: options/wpsl-options.php:887
+msgid "SMS to buyer"
+msgstr ""
+
+#: options/wpsl-options.php:889
+msgid "Send SMS to the buyer after ordering"
+msgstr ""
+
+#: options/wpsl-options.php:896
+msgid "Text of SMS"
+msgstr ""
+
+#: options/wpsl-options.php:897
+msgid ""
+"1 SMS = 160 latin or 70 cyrillic characters. The length of the message "
+"includes spaces and punctuation"
+msgstr ""
+
+#: options/wpsl-options.php:899
+#, fuzzy
+#| msgid "Thank you for being with us."
+msgid "Thank you for being with us"
+msgstr "Merci d'être avec nous."
+
+#: options/wpsl-options.php:907
+#, fuzzy
+#| msgid "Description"
+msgid "Verification"
+msgstr "Description"
+
+#: options/wpsl-options.php:909
+msgid "Enable sending a verification code via SMS in order page"
+msgstr ""
+
+#: options/wpsl-options.php:916
+msgid "Password"
+msgstr ""
+
+#: options/wpsl-options.php:918
+msgid "Current password to confirm phone"
+msgstr ""
+
+#: options/wpsl-options.php:929 options/wpsl-options.php:936
+msgid "Payment"
+msgstr ""
+
+#: options/wpsl-options.php:930
+#, fuzzy
+#| msgid "Basket Options"
+msgid "Payment gateways"
+msgstr "Options Du Panier"
+
+#: options/wpsl-options.php:938
+msgid "Enable selection of payment methods"
+msgstr ""
+
+#: options/wpsl-options.php:945 options/wpsl-options.php:947
+msgid "Payment page"
+msgstr ""
+
+#: options/wpsl-options.php:955 options/wpsl-options.php:1021
+#: options/wpsl-options.php:1103
+#, fuzzy
+#| msgid "Get code"
+msgid "Secret code"
+msgstr "Obtenir le code"
+
+#: options/wpsl-options.php:956
+msgid ""
+"This is a secret code that will allow you to receive notifications from the "
+"payment gateway about incoming payments or transfers via HTTPS (HTTP) if it "
+"supports this feature"
+msgstr ""
+
+#: options/wpsl-options.php:966
+msgid "Cash payment"
+msgstr ""
+
+#: options/wpsl-options.php:977 options/wpsl-options.php:1006
+#: options/wpsl-options.php:1086 options/wpsl-options.php:1134
+#: options/wpsl-options.php:1171 options/wpsl-options.php:1200
+msgid "Icon of the payment method"
+msgstr ""
+
+#: options/wpsl-options.php:986 options/wpsl-options.php:1067
+#: options/wpsl-options.php:1113 options/wpsl-options.php:1151
+#: options/wpsl-options.php:1180 options/wpsl-options.php:1209
+msgid "Note the method of payment"
+msgstr ""
+
+#: options/wpsl-options.php:987
+msgid "Payment in cash at self-shipping or courier shipping"
+msgstr ""
+
+#: options/wpsl-options.php:1013
+#, fuzzy
+#| msgid "Account number of YandexMoney"
+msgid "Account number"
+msgstr "Le numéro de compte de YandexMoney"
+
+#: options/wpsl-options.php:1014
+msgid "To integrate the payment system Yandex.Money, enter the account number"
+msgstr ""
+
+#: options/wpsl-options.php:1022 options/wpsl-options.php:1104
+#, fuzzy, php-format
+#| msgid "Count of notifications"
+msgid "%s to authenticate notifications"
+msgstr "Nombre de notifications"
+
+#: options/wpsl-options.php:1022 options/wpsl-options.php:1104
+#, fuzzy
+#| msgid "Get code"
+msgid "Get a secret code"
+msgstr "Obtenir le code"
+
+#: options/wpsl-options.php:1022
+msgid "Notification receiving address"
+msgstr ""
+
+#: options/wpsl-options.php:1029
+msgid "FIO"
+msgstr ""
+
+#: options/wpsl-options.php:1031 options/wpsl-options.php:1040
+#: options/wpsl-options.php:1049 options/wpsl-options.php:1058
+msgid "Should the buyer enter this data?"
+msgstr ""
+
+#: options/wpsl-options.php:1068
+msgid "Instant payment"
+msgstr ""
+
+#: options/wpsl-options.php:1094
+msgid "Purse"
+msgstr ""
+
+#: options/wpsl-options.php:1095
+#, fuzzy
+#| msgid "Account number of YandexMoney"
+msgid "Purse number of Webmoney"
+msgstr "Le numéro de compte de YandexMoney"
+
+#: options/wpsl-options.php:1141
+msgid "Email of seller"
+msgstr ""
+
+#: templates/account/tab-avatar.php:17
+msgid "Online"
+msgstr ""
+
+#: templates/account/tab-avatar.php:19
+msgid "Offline"
+msgstr ""
+
+#: templates/account/tab-login.php:22 templates/account/tab-login.php:25
+#: templates/account/tab-lostpassword.php:22
+#: templates/account/tab-lostpassword.php:25
+msgid "User name or email"
+msgstr ""
+
+#: templates/account/tab-login.php:32 templates/account/tab-login.php:35
+msgid "User password"
+msgstr ""
+
+#: templates/account/tab-login.php:42
+msgid "Remember me"
+msgstr ""
+
+#: templates/account/tab-login.php:58
+msgid "Log in"
+msgstr ""
+
+#: templates/account/tab-lostpassword.php:38
+#, fuzzy
+#| msgid "Add new order"
+msgid "Send new password"
+msgstr "Ajouter un nouvel ordre"
+
+#: templates/account/tab-orders.php:28
+msgid "You have no orders"
+msgstr ""
+
+#: templates/account/tab-orders.php:29
+msgid "After making the first purchase, you will be able to follow your orders"
+msgstr ""
+
+#: templates/account/tab-orders.php:34
+msgid "To receive order details, select one from the list"
+msgstr ""
+
+#: templates/account/tab-profile.php:58 templates/account/tab-profile.php:61
+msgid "ZIP or postal code"
+msgstr ""
+
+#: templates/account/tab-profile.php:68 templates/account/tab-profile.php:71
+msgid "About"
+msgstr "À propos"
+
+#: templates/account/tab-registration.php:24
+#: templates/account/tab-registration.php:27
+msgid "User name"
+msgstr ""
+
+#: templates/account/tab-registration.php:34
+#: templates/account/tab-registration.php:37
+msgid "User email"
+msgstr ""
+
+#: templates/account/tab-reviews.php:21
+msgid "Review"
+msgstr ""
+
+#: templates/account/tab-reviews.php:28
+msgid "Leave a review about this product!"
+msgstr ""
+
+#: templates/account/tab-reviews.php:36
+msgid "You have no reviews"
+msgstr ""
+
+#: templates/account/tab-reviews.php:37
+msgid "Evaluate the purchased products!"
+msgstr ""
+
+#: templates/account/tab-support.php:33
+msgid "There are no support tickets"
+msgstr ""
+
+#: templates/account/tab-support.php:34
+msgid ""
+"From here you can ask for support’s help & preview support tickets history"
+msgstr ""
+
+#: templates/account/tab-support.php:39
+msgid "To receive ticket details, select one from the list"
+msgstr ""
+
+#: templates/account/tab-ticket.php:32
+msgid "On a free theme"
+msgstr ""
+
+#: templates/account/tab-ticket.php:45 templates/account/tab-ticket.php:48
+msgid "Ticket title"
+msgstr ""
+
+#: templates/account/tab-ticket.php:55
+msgid "Select № of order"
+msgstr ""
+
+#: templates/account/tab-ticket.php:69 templates/account/tab-ticket.php:72
+msgid "Ticket text"
+msgstr ""
+
+#: templates/cart/cart-mini.php:26
+#, fuzzy
+#| msgid "Go to basket"
+msgid "Go to cart"
+msgstr "Aller au panier"
+
+#: templates/cart/cart.php:29
+msgid "Quantity"
+msgstr ""
+
+#: templates/cart/cart.php:50 templates/cart/cart.php:53
+#: templates/cart/cart.php:55
+#, fuzzy
+#| msgid "Promocode"
+msgid "Coupon code"
+msgstr "Code promo"
+
+#: templates/cart/cart.php:65
+#, fuzzy
+#| msgid "Go to basket"
+msgid "Proceed to checkout"
+msgstr "Aller au panier"
+
+#: templates/cart/proceed-to-sponsoring-button.php:24
+#, fuzzy
+#| msgid "Bank transfer"
+msgid "Make a money transfer"
+msgstr "Virement"
+
+#: templates/email/admin-order-received.php:26
+#, php-format
+msgid "New order with number №%s"
+msgstr ""
+
+#: templates/email/admin-order-received.php:27
+#: templates/email/admin-payment-received.php:27
+msgid "View details"
+msgstr ""
+
+#: templates/email/admin-order-received.php:28
+#: templates/email/customer-payment-received.php:27
+#, fuzzy
+#| msgid "All category of products"
+msgid "List of products in order"
+msgstr "Tous les produits de la catégorie"
+
+#: templates/email/admin-payment-received.php:26
+#: templates/email/customer-payment-received.php:26
+#, php-format
+msgid "Received the payment the order number №%s"
+msgstr ""
+
+#: templates/email/customer-order-received.php:26
+#, php-format
+msgid "List of products in order №%s:"
+msgstr ""
+
+#: templates/email/customer-order-received.php:30
+msgid "Links for payment"
+msgstr ""
+
+#: templates/email/email.php:47
+msgid "Yours faithfully"
+msgstr ""
+
+#: templates/loop/no-products-found.php:19
+#: templates/loop/no-products-found.php:20
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: templates/loop/product-price-variable.php:20
+#: templates/single/price-variable.php:24
+msgid "from"
+msgstr ""
+
+#: templates/loop/product-sorting.php:20
+msgid "Sort by"
+msgstr ""
+
+#: templates/order/order-contact.php:28
+msgid "Your Name"
+msgstr "Votre Nom"
+
+#: templates/order/order-contact.php:32 templates/order/order-contact.php:42
+#: templates/order/order-contact.php:82 templates/order/order-pay.php:30
+#: templates/order/order-shipping.php:31
+msgid "The field must be filled"
+msgstr ""
+
+#: templates/order/order-contact.php:38 templates/order/order-contact.php:40
+msgid "Your E-mail"
+msgstr "Votre E-mail"
+
+#: templates/order/order-contact.php:48
+msgid "Your Phone"
+msgstr "Votre Téléphone"
+
+#: templates/order/order-contact.php:58
+msgid "Get code"
+msgstr "Obtenir le code"
+
+#: templates/order/order-contact.php:60
+#, fuzzy
+#| msgid "Confirmation code from SMS"
+msgid "Code from SMS"
+msgstr "Code de Confirmation par SMS"
+
+#: templates/order/order-contact.php:68 templates/order/order-contact.php:70
+msgid "Additional information"
+msgstr "Des informations supplémentaires"
+
+#: templates/order/order-contact.php:78
+msgid "Confirmation code from SMS"
+msgstr "Code de Confirmation par SMS"
+
+#: templates/order/order-form.php:25
+msgid "Leave your contact details for ordering"
+msgstr ""
+
+#: templates/order/order-form.php:33
+msgid "Shipping details"
+msgstr ""
+
+#: templates/order/order-form.php:42
+#, fuzzy
+#| msgid "Basket Options"
+msgid "Payment details"
+msgstr "Options Du Panier"
+
+#: templates/order/order-form.php:52
+#, fuzzy
+#| msgid "I have read and agree to"
+msgid "I have read and agree to the website"
+msgstr "J'ai lu et j'accepte"
+
+#: templates/order/order-form.php:52
+msgid "terms and conditions"
+msgstr ""
+
+#: templates/order/order-pay.php:27 templates/order/order-pay.php:29
+msgid "Select payment methods"
+msgstr ""
+
+#: templates/order/order-sended.php:23
+#, fuzzy
+#| msgid "Your order code is #"
+msgid "Your order is in processing"
+msgstr "Le code de votre commande est #"
+
+#: templates/order/order-shipping.php:28 templates/order/order-shipping.php:30
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select shipping type"
+msgstr "Sélectionnez variaton"
+
+#: templates/payment/payment-empty.php:23
+msgid "Order not found"
+msgstr ""
+
+#: templates/payment/payment-successful.php:23
+#, php-format
+msgid "The order with №%s has been successfully paid"
+msgstr ""
+
+#: templates/payment/payment.php:26
+#, fuzzy
+#| msgid "Your order code is #"
+msgid "Your order code is №"
+msgstr "Le code de votre commande est #"
+
+#: templates/payment/payment.php:29
+msgid "The service provides the payment system"
+msgstr ""
+
+#: templates/payment/payment.php:30
+msgid "The amount to be paid on order"
+msgstr ""
+
+#: templates/payment/payment.php:32
+msgid "You will be redirected to the payment gateway"
+msgstr ""
+
+#: templates/payment/payment.php:34
+msgid ""
+"Please note: if you waive the purchase, for a refund you have to contact the "
+"store."
+msgstr ""
+
+#: templates/single/price-auction.php:24
+msgid "Current price"
+msgstr ""
+
+#: templates/single/price-sponsorship.php:20
+msgid "Project goal"
+msgstr ""
+
+#: templates/single/price-variable.php:20
+msgid "Prices"
+msgstr "Prix"
+
+#: templates/single/product-reviews.php:42
+#: templates/single/product-reviews.php:47
+#, fuzzy
+#| msgid "Your Name"
+msgid "Your assessment"
+msgstr "Votre Nom"
+
+#: templates/single/product-reviews.php:52
+msgid "Advantages"
+msgstr ""
+
+#: templates/single/product-reviews.php:62
+msgid "Disadvantages"
+msgstr ""
+
+#: templates/single/product-reviews.php:75
+#, fuzzy
+#| msgid "Your Name"
+msgid "Your comment"
+msgstr "Votre Nom"
+
+#: templates/single/product-reviews.php:127
+msgid "Average assessment"
+msgstr ""
+
+#: templates/single/product-reviews.php:167
+msgid "Add review"
+msgstr ""
+
+#: templates/single/product-side-atts.php:19
+#: templates/single/product-tabs.php:24
+msgid "Characteristics"
+msgstr "Caractéristiques"
+
+#: templates/single/product-side-atts.php:56
+msgid "Sizes"
+msgstr ""
+
+#: templates/single/product-side-price.php:20
+msgid "Old price"
+msgstr "Ancien prix"
+
+#: templates/widgets/product-filter.php:44
+#, fuzzy
+#| msgid "Select variaton"
+msgid "Select all"
+msgstr "Sélectionnez variaton"
+
+#: templates/widgets/product-filter.php:44
+msgid "Reset"
+msgstr ""

@@ -1,0 +1,4259 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpsl-ru_RU\n"
+"POT-Creation-Date: 2019-09-24 12:33+0300\n"
+"PO-Revision-Date: 2019-09-24 12:33+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: _e;__;_n;esc_attr_e;_x:1,2c;_n:1,2;_nx:1,2,4c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets/js\n"
+
+#: addons/wpsl-addons.php:20
+msgid "Addons to the plugin wpStore"
+msgstr "Расширения к плагину wpStore"
+
+#: addons/wpsl-addons.php:20
+msgid "Marketplace"
+msgstr "Маркетплейс"
+
+#: addons/wpsl-addons.php:32
+msgid ""
+"Addon for wpStore allows you to deploy a system of appointment to a "
+"specialist or booking time for any event"
+msgstr ""
+"Аддон для wpStore позволяет развернуть систему назначения к специалисту или "
+"время бронирования для любого события"
+
+#: addons/wpsl-addons.php:36 addons/wpsl-addons.php:61
+#: core/wpsl-general-functions.php:862
+msgid "Free"
+msgstr "Бесплатно"
+
+#: addons/wpsl-addons.php:40
+msgid ""
+"The addon allows you to display dynamic notifications about promotions, "
+"news, and other special conditions of your online store"
+msgstr ""
+"Аддон позволяет отображать динамические уведомления о рекламных акциях, "
+"новостях и других специальных условиях вашего Интернет-магазина"
+
+#: addons/wpsl-addons.php:61 ajax/class-wpsl-ajax-frontend.php:541
+#: core/class-wpsl-constructor-email.php:195
+msgid "Download"
+msgstr "Скачать"
+
+#: addons/wpsl-addons.php:61 core/wpsl-general-functions.php:653
+#: core/wpsl-general-functions.php:654
+msgid "Buy"
+msgstr "Купить"
+
+#: addons/wpsl-addons.php:70 admin/wpsl-post-types-management.php:28
+#: admin/wpsl-post-types-management.php:274
+#: admin/wpsl-post-types-management.php:321
+#: ajax/class-wpsl-ajax-frontend.php:583
+#: core/class-wpsl-constructor-email.php:217
+#: core/class-wpsl-product-variations.php:505
+#: core/class-wpsl-product-variations.php:550
+#: core/class-wpsl-product-variations.php:729
+#: core/class-wpsl-product-variations.php:771
+#: core/class-wpsl-product-variations.php:799
+#: core/wpsl-import-functions.php:559 templates/cart/cart.php:28
+#: templates/single/price-external.php:20 templates/single/price-simple.php:20
+#: templates/widgets/product-filter.php:24
+msgid "Price"
+msgstr "Цена"
+
+#: addons/wpsl-addons.php:73
+msgid "WordPress version"
+msgstr "Версия WordPress"
+
+#: admin/wpsl-add-items-in-menu.php:23 core/class-wpsl-install.php:195
+#: options/wpsl-options.php:263 options/wpsl-options.php:602
+msgid "Cart"
+msgstr "Корзина"
+
+#: admin/wpsl-add-items-in-menu.php:24
+msgid "Login / Logout"
+msgstr "Войти / Выйти"
+
+#: admin/wpsl-add-items-in-menu.php:25
+msgid "My account"
+msgstr "Личный кабинет"
+
+#: admin/wpsl-add-items-in-menu.php:65
+msgid "Help"
+msgstr "Помощь"
+
+#: admin/wpsl-add-items-in-menu.php:69
+msgid "For work plugin, please do not change the value of hashtags"
+msgstr "Для работы плагина, пожалуйста, не меняйте значения хэштегов"
+
+#: admin/wpsl-add-items-in-menu.php:75
+msgid "Add"
+msgstr "Добавить"
+
+#: admin/wpsl-add-items-in-menu.php:89 options/class-wpsl-options.php:165
+msgid "wpStore"
+msgstr "wpStore"
+
+#: admin/wpsl-admin.php:22
+#, php-format
+msgid ""
+"For the plugin to work correctly, the recommended width and height of the "
+"thumbnail must be at least 100 pixels. %s"
+msgstr ""
+"Для корректной работы плагина, рекомендуемая ширина и высота миниатюры "
+"должны быть не менее 100 пикселей. %s"
+
+#: admin/wpsl-admin.php:22
+msgid "Go to options"
+msgstr "Перейти к опциям"
+
+#: admin/wpsl-admin.php:59 ajax/class-wpsl-ajax-frontend.php:641
+#: templates/single/product-reviews.php:72
+#: templates/single/product-reviews.php:195
+msgid "Comment"
+msgstr "Комментарий"
+
+#: admin/wpsl-admin.php:64 admin/wpsl-admin.php:100
+#: templates/single/product-reviews.php:65
+#: templates/single/product-reviews.php:67
+#: templates/single/product-reviews.php:190
+msgid "Disadvantages of product"
+msgstr "Недостатки товара"
+
+#: admin/wpsl-admin.php:69 admin/wpsl-admin.php:104
+#: templates/single/product-reviews.php:55
+#: templates/single/product-reviews.php:57
+#: templates/single/product-reviews.php:185
+msgid "Advantages of product"
+msgstr "Преимущества товара"
+
+#: admin/wpsl-admin.php:74 admin/wpsl-admin.php:108
+msgid "Assessment"
+msgstr "Оценка"
+
+#: admin/wpsl-admin.php:86
+msgid "Comment Metadata"
+msgstr "Данные комментария"
+
+#: admin/wpsl-csv-exporter.php:28 admin/wpsl-csv-exporter.php:88
+msgid "Export as CSV"
+msgstr "Экспорт в CSV"
+
+#: admin/wpsl-csv-exporter.php:28 admin/wpsl-csv-exporter.php:88
+#: admin/wpsl-csv-importer.php:10 ajax/class-wpsl-ajax-admin.php:313
+msgid "Import"
+msgstr "Импорт"
+
+#: admin/wpsl-csv-importer.php:18
+msgid "Import form"
+msgstr "Форма импорта"
+
+#: admin/wpsl-csv-importer.php:20
+msgid "Load file"
+msgstr "Загрузить файл"
+
+#: admin/wpsl-duplicate-product.php:28
+msgid "There is nothing to duplicate!"
+msgstr "Нет ничего для дублирования!"
+
+#: admin/wpsl-duplicate-product.php:104
+msgid "Error creating post, can\"t find original post with ID: "
+msgstr "Ошибка создания поста, не можем найти оригинальный пост с ID: "
+
+#: admin/wpsl-duplicate-product.php:118
+msgid "Duplicate"
+msgstr "Дублировать"
+
+#: admin/wpsl-media-library.php:39
+msgid "Digital products"
+msgstr "Цифровые товары"
+
+#: admin/wpsl-permalinks.php:16
+msgid "These settings control the permalinks used specifically for products."
+msgstr "Эти параметры управляют постоянными ссылками, для товаров."
+
+#: admin/wpsl-permalinks.php:30 admin/wpsl-permalinks.php:102
+msgid "Without slug"
+msgstr "Без слага"
+
+#: admin/wpsl-permalinks.php:34 admin/wpsl-permalinks.php:98
+msgid "Custom slug"
+msgstr "Пользовательский слаг"
+
+#: admin/wpsl-permalinks.php:38
+msgid "Without slug with category"
+msgstr "Без слага с категорией"
+
+#: admin/wpsl-permalinks.php:42
+msgid "Without slug with categories"
+msgstr "Без слага с категориями"
+
+#: admin/wpsl-permalinks.php:46
+msgid "Without slug with seller"
+msgstr "Без слага с продавцом"
+
+#: admin/wpsl-permalinks.php:51 admin/wpsl-permalinks.php:111
+msgid "Custom base"
+msgstr "Пользовательская база"
+
+#: admin/wpsl-permalinks.php:53 admin/wpsl-permalinks.php:113
+msgid "You can use any base slug or completely abandon it"
+msgstr ""
+"Вы можете использовать любой слаг базы или же полносью отказаться от него"
+
+#: admin/wpsl-permalinks.php:86
+msgid ""
+"These settings control the permalinks used specifically for category of "
+"products."
+msgstr "Эти настройки управляют постоянными ссылками для категории товаров."
+
+#: admin/wpsl-permalinks.php:106
+msgid "Without slug with category hierarchy"
+msgstr "Без слага с иерархией категорией"
+
+#: admin/wpsl-permalinks.php:144
+msgid "Permalinks of single products"
+msgstr "Структура ссылок для товаров"
+
+#: admin/wpsl-permalinks.php:150
+msgid "Permalinks of categories products"
+msgstr "Структура ссылок для категорий товаров"
+
+#: admin/wpsl-post-types-adding.php:34 admin/wpsl-post-types-adding.php:35
+#: admin/wpsl-post-types-adding.php:45 ajax/class-wpsl-ajax-frontend.php:125
+#: options/class-wpsl-options.php:149 options/wpsl-options.php:368
+msgid "Products"
+msgstr "Товары"
+
+#: admin/wpsl-post-types-adding.php:36
+msgid "Add product"
+msgstr "Добавить товар"
+
+#: admin/wpsl-post-types-adding.php:37
+msgid "Add new product"
+msgstr "Добавить новый товар"
+
+#: admin/wpsl-post-types-adding.php:38
+msgid "Edit product"
+msgstr "Редактировать товар"
+
+#: admin/wpsl-post-types-adding.php:39 core/wpsl-template-actions.php:82
+msgid "New product"
+msgstr "Новый товар"
+
+#: admin/wpsl-post-types-adding.php:40
+msgid "All products"
+msgstr "Все товары"
+
+#: admin/wpsl-post-types-adding.php:41
+msgid "Viewing product"
+msgstr "Просмотреть товар"
+
+#: admin/wpsl-post-types-adding.php:42
+msgid "Search product"
+msgstr "Найти товар"
+
+#: admin/wpsl-post-types-adding.php:43
+msgid "Product not found"
+msgstr "Товар не найден"
+
+#: admin/wpsl-post-types-adding.php:44
+msgid "In trash no product"
+msgstr "В корзине товаров нет"
+
+#: admin/wpsl-post-types-adding.php:73 admin/wpsl-post-types-metaboxes.php:150
+msgid "Variations"
+msgstr "Вариации"
+
+#: admin/wpsl-post-types-adding.php:100 admin/wpsl-post-types-adding.php:101
+#: admin/wpsl-post-types-adding.php:102 admin/wpsl-post-types-adding.php:115
+msgid "Delivery types"
+msgstr "Типы доставки"
+
+#: admin/wpsl-post-types-adding.php:103
+msgid "Parent Delivery Type:"
+msgstr "Родительский тип:"
+
+#: admin/wpsl-post-types-adding.php:104
+msgid "All Delivery Types"
+msgstr "Доставки"
+
+#: admin/wpsl-post-types-adding.php:105
+msgid "View Delivery Types"
+msgstr "Просмотр типа"
+
+#: admin/wpsl-post-types-adding.php:106
+msgid "Add New Delivery Type"
+msgstr "Добавить новый тип"
+
+#: admin/wpsl-post-types-adding.php:107
+msgid "New Delivery Type"
+msgstr "Новый тип"
+
+#: admin/wpsl-post-types-adding.php:108
+msgid "Edit Delivery Type"
+msgstr "Редактировать тип"
+
+#: admin/wpsl-post-types-adding.php:109
+msgid "Update Delivery Type"
+msgstr "Обновить тип"
+
+#: admin/wpsl-post-types-adding.php:110
+msgid "Search delivery type"
+msgstr "Поиск типов"
+
+#: admin/wpsl-post-types-adding.php:111
+msgid "No delivery types found"
+msgstr "Типы доставки не найдены"
+
+#: admin/wpsl-post-types-adding.php:112
+msgid "No delivery types found in Trash"
+msgstr "Нет удаленных типов доставки"
+
+#: admin/wpsl-post-types-adding.php:114 core/class-wpsl-order.php:232
+msgid "Delivery"
+msgstr "Доставка"
+
+#: admin/wpsl-post-types-adding.php:145 admin/wpsl-post-types-adding.php:147
+#: admin/wpsl-post-types-adding.php:158 admin/wpsl-post-types-adding.php:159
+#: options/class-wpsl-options.php:150
+msgid "Orders"
+msgstr "Заказы"
+
+#: admin/wpsl-post-types-adding.php:146 admin/wpsl-post-types-metaboxes.php:412
+msgid "Order"
+msgstr "Заказ"
+
+#: admin/wpsl-post-types-adding.php:148
+msgid "All orders"
+msgstr "Все заказы"
+
+#: admin/wpsl-post-types-adding.php:149
+msgid "View orders"
+msgstr "Просмотр заказов"
+
+#: admin/wpsl-post-types-adding.php:150
+msgid "Add new order"
+msgstr "Добавить новый заказ"
+
+#: admin/wpsl-post-types-adding.php:151
+msgid "New order"
+msgstr "Новый заказ"
+
+#: admin/wpsl-post-types-adding.php:152
+msgid "Edit order"
+msgstr "Редактировать"
+
+#: admin/wpsl-post-types-adding.php:153
+msgid "Update order"
+msgstr "Обновить заказ"
+
+#: admin/wpsl-post-types-adding.php:154
+msgid "Search order"
+msgstr "Поиск заказов"
+
+#: admin/wpsl-post-types-adding.php:155
+msgid "No orders found"
+msgstr "Заказы не найдены"
+
+#: admin/wpsl-post-types-adding.php:156
+msgid "No orders found in trash"
+msgstr "Заказы в корзине не найдены"
+
+#: admin/wpsl-post-types-adding.php:203 admin/wpsl-post-types-adding.php:218
+msgid "Promocodes"
+msgstr "Промокоды"
+
+#: admin/wpsl-post-types-adding.php:204 admin/wpsl-post-types-adding.php:205
+#: admin/wpsl-post-types-adding.php:217
+msgid "Promocode"
+msgstr "Промокод"
+
+#: admin/wpsl-post-types-adding.php:206
+msgid "Parent promocode"
+msgstr "Родительский промокод"
+
+#: admin/wpsl-post-types-adding.php:207
+msgid "All promocodes"
+msgstr "Все промокоды"
+
+#: admin/wpsl-post-types-adding.php:208
+msgid "View promocodes"
+msgstr "Просмотр промокода"
+
+#: admin/wpsl-post-types-adding.php:209
+msgid "Add new promocode"
+msgstr "Добавить новый промокод"
+
+#: admin/wpsl-post-types-adding.php:210
+msgid "New promocode"
+msgstr "Новый промокод"
+
+#: admin/wpsl-post-types-adding.php:211
+msgid "Edit promocode"
+msgstr "Редактировать промокод"
+
+#: admin/wpsl-post-types-adding.php:212
+msgid "Update promocode"
+msgstr "Обновить промокод"
+
+#: admin/wpsl-post-types-adding.php:213
+msgid "Search promocode"
+msgstr "Поиск промокода"
+
+#: admin/wpsl-post-types-adding.php:214
+msgid "No promocode found"
+msgstr "Промокод не найден"
+
+#: admin/wpsl-post-types-adding.php:215
+msgid "No promocode found in trash"
+msgstr "Промокод в корзине не найден"
+
+#: admin/wpsl-post-types-adding.php:248 admin/wpsl-post-types-adding.php:263
+#: admin/wpsl-post-types-management.php:610
+msgid "Support tickets"
+msgstr "Заявки на поддержку"
+
+#: admin/wpsl-post-types-adding.php:249 admin/wpsl-post-types-adding.php:250
+#: admin/wpsl-post-types-adding.php:262
+msgid "Support ticket"
+msgstr "Заявка"
+
+#: admin/wpsl-post-types-adding.php:251
+msgid "Parent ticket"
+msgstr "Родительская заявка"
+
+#: admin/wpsl-post-types-adding.php:252
+msgid "All support tickets"
+msgstr "Все заявки"
+
+#: admin/wpsl-post-types-adding.php:253
+msgid "View support tickets"
+msgstr "Просмотреть заявки"
+
+#: admin/wpsl-post-types-adding.php:254
+msgid "Add new support ticket"
+msgstr "Добавить новую заявку"
+
+#: admin/wpsl-post-types-adding.php:255
+msgid "New support ticket"
+msgstr "Новая заявка"
+
+#: admin/wpsl-post-types-adding.php:256
+msgid "Edit support ticket"
+msgstr "Редактировать заявку"
+
+#: admin/wpsl-post-types-adding.php:257
+msgid "Update support ticket"
+msgstr "Обновить заявку"
+
+#: admin/wpsl-post-types-adding.php:258
+msgid "Search support ticket"
+msgstr "Поиск заявки"
+
+#: admin/wpsl-post-types-adding.php:259
+msgid "Support ticket is not found"
+msgstr "Заявка не найдена"
+
+#: admin/wpsl-post-types-adding.php:260
+msgid "Support ticket is not found in trash"
+msgstr "В корзине заявки не найдены"
+
+#: admin/wpsl-post-types-adding.php:292 admin/wpsl-post-types-adding.php:302
+#: admin/wpsl-post-types-management.php:29 ajax/class-wpsl-ajax-admin.php:349
+msgid "Categories"
+msgstr "Категории"
+
+#: admin/wpsl-post-types-adding.php:293 core/wpsl-import-functions.php:525
+msgid "Category"
+msgstr "Категория"
+
+#: admin/wpsl-post-types-adding.php:294
+msgid "Search category"
+msgstr "Поиск категории"
+
+#: admin/wpsl-post-types-adding.php:295
+msgid "All categories"
+msgstr "Все категории"
+
+#: admin/wpsl-post-types-adding.php:296
+msgid "The parent category of the product"
+msgstr "Родительская категория товара"
+
+#: admin/wpsl-post-types-adding.php:297 admin/wpsl-post-types-adding.php:298
+msgid "Category parent"
+msgstr "Родительская категория"
+
+#: admin/wpsl-post-types-adding.php:299
+msgid "Update the category"
+msgstr "Обновить категорию"
+
+#: admin/wpsl-post-types-adding.php:300
+msgid "Add new category"
+msgstr "Добавить новую категорию"
+
+#: admin/wpsl-post-types-adding.php:301
+msgid "The name of the new category of products"
+msgstr "Название новой категории товаров"
+
+#: admin/wpsl-post-types-adding.php:323 admin/wpsl-post-types-adding.php:333
+#: admin/wpsl-post-types-management.php:30
+msgid "Tags"
+msgstr "Метки"
+
+#: admin/wpsl-post-types-adding.php:324
+msgid "Tag of product"
+msgstr "Метка товара"
+
+#: admin/wpsl-post-types-adding.php:325
+msgid "Search tag of product"
+msgstr "Поиск метки товара"
+
+#: admin/wpsl-post-types-adding.php:326
+msgid "All tags of products"
+msgstr "Все метки товаров"
+
+#: admin/wpsl-post-types-adding.php:327
+msgid "The parent tag of the product"
+msgstr "Родительская метка товара"
+
+#: admin/wpsl-post-types-adding.php:328 admin/wpsl-post-types-adding.php:329
+msgid "Tag parent"
+msgstr "Родительская метка"
+
+#: admin/wpsl-post-types-adding.php:330
+msgid "Update the tag"
+msgstr "Обновить метку"
+
+#: admin/wpsl-post-types-adding.php:331
+msgid "Add new tag"
+msgstr "Добавить новую метку"
+
+#: admin/wpsl-post-types-adding.php:332
+msgid "The name of the new tag of products"
+msgstr "Название новой метки товаров"
+
+#: admin/wpsl-post-types-adding.php:354 admin/wpsl-post-types-adding.php:356
+msgid "Statuses"
+msgstr "Статусы"
+
+#: admin/wpsl-post-types-adding.php:355
+msgid "Status"
+msgstr "Статус"
+
+#: admin/wpsl-post-types-adding.php:357
+msgid "All Statuses"
+msgstr "Все статусы"
+
+#: admin/wpsl-post-types-adding.php:358
+msgid "Parent Status"
+msgstr "Родительский статус"
+
+#: admin/wpsl-post-types-adding.php:359
+msgid "Parent Status:"
+msgstr "Родительский статус:"
+
+#: admin/wpsl-post-types-adding.php:360
+msgid "New Status Name"
+msgstr "Название нового статуса"
+
+#: admin/wpsl-post-types-adding.php:361
+msgid "Add New Status"
+msgstr "Добавить статус"
+
+#: admin/wpsl-post-types-adding.php:362
+msgid "Edit Status"
+msgstr "Редактировать"
+
+#: admin/wpsl-post-types-adding.php:363
+msgid "Update Status"
+msgstr "Обновить"
+
+#: admin/wpsl-post-types-adding.php:364
+msgid "Separate statuses with commas"
+msgstr "Отделяйте статусы запятыми"
+
+#: admin/wpsl-post-types-adding.php:365
+msgid "Search statuses"
+msgstr "Поиск статусов"
+
+#: admin/wpsl-post-types-adding.php:366
+msgid "Add or remove statuses"
+msgstr "Добавить или удалить статус"
+
+#: admin/wpsl-post-types-adding.php:367
+msgid "Choose from the most used statuses"
+msgstr "Выберите самые часто используемые статусы"
+
+#: admin/wpsl-post-types-adding.php:383
+msgid "Approved"
+msgstr "Принят"
+
+#: admin/wpsl-post-types-adding.php:384
+msgid "The order is received and is waiting for processing by the moderator"
+msgstr "Заказ получен и ожидает обработки модератором"
+
+#: admin/wpsl-post-types-adding.php:388
+msgid "Processing"
+msgstr "На исполнении"
+
+#: admin/wpsl-post-types-adding.php:389
+msgid ""
+"Your order is checked by the moderator and transferred for a complete set"
+msgstr "Ваш заказ проверен модератором и передан на комплектацию"
+
+#: admin/wpsl-post-types-adding.php:393
+msgid "Completed"
+msgstr "Выполнен"
+
+#: admin/wpsl-post-types-adding.php:394
+msgid ""
+"Your order is completed. Thank you for your purchase! Waiting for you again!"
+msgstr "Ваш заказ выполнен. Спасибо за покупку! Ждём вас снова!"
+
+#: admin/wpsl-post-types-adding.php:398
+msgid "Cancelled"
+msgstr "Отказались"
+
+#: admin/wpsl-post-types-adding.php:399
+msgid ""
+"The order was either canceled by you or the order was not purchased within "
+"the specified period"
+msgstr ""
+"Заказ был либо отменен вами, либо заказ не был приобретен в указанный период"
+
+#: admin/wpsl-post-types-adding.php:404
+msgid "Not paid"
+msgstr "Не оплачено"
+
+#: admin/wpsl-post-types-adding.php:405
+msgid "We expect payment of products"
+msgstr "Ожидаем оплаты товаров"
+
+#: admin/wpsl-post-types-adding.php:409
+msgid "Pend"
+msgstr "Оплачено"
+
+#: admin/wpsl-post-types-adding.php:410
+msgid "The money went to the account of seller"
+msgstr "Деньги поступили на счет продавца"
+
+#: admin/wpsl-post-types-adding.php:415
+msgid "Order picking"
+msgstr "Комплектация заказа"
+
+#: admin/wpsl-post-types-adding.php:416
+msgid ""
+"At this stage, we reserve the products for your order and prepare it for "
+"shipment"
+msgstr ""
+"На этом этапе мы резервируем товары под ваш заказ и готовим их к отправке"
+
+#: admin/wpsl-post-types-adding.php:420
+msgid "Order shipped"
+msgstr "Заказ отправлен"
+
+#: admin/wpsl-post-types-adding.php:421
+msgid ""
+"The products in your order have been handed over to the courier, shipping "
+"company or postal service"
+msgstr ""
+"Товары вашего заказа были переданы курьеру, транспортной компании или "
+"почтовой службе"
+
+#: admin/wpsl-post-types-adding.php:425
+msgid "Delivered"
+msgstr "Доставлено"
+
+#: admin/wpsl-post-types-adding.php:426
+msgid "The products are delivered to the point of receipt of the order"
+msgstr "Товар доставлен в пункт получения заказа"
+
+#: admin/wpsl-post-types-management.php:26 core/wpsl-template-actions.php:168
+msgid "Stock"
+msgstr "Запасы"
+
+#: admin/wpsl-post-types-management.php:27
+#: admin/wpsl-post-types-metaboxes.php:87
+#: core/class-wpsl-product-variations.php:32 core/wpsl-import-functions.php:529
+#: templates/single/product-side-atts.php:36
+msgid "Sku"
+msgstr "Артикул"
+
+#: admin/wpsl-post-types-management.php:31 core/wpsl-import-functions.php:528
+msgid "Hit"
+msgstr "Хит"
+
+#: admin/wpsl-post-types-management.php:32 templates/account/tab-reviews.php:19
+msgid "Date"
+msgstr "Дата"
+
+#: admin/wpsl-post-types-management.php:148 options/wpsl-options.php:262
+#: templates/widgets/product-filter.php:52
+msgid "Filter"
+msgstr "Фильтр"
+
+#: admin/wpsl-post-types-management.php:221
+msgid "All category of product"
+msgstr "Все категории товаров"
+
+#: admin/wpsl-post-types-management.php:239
+msgid "All status of order"
+msgstr "Все статусы заказов"
+
+#: admin/wpsl-post-types-management.php:259
+msgid "Shipping types"
+msgstr "Типы доставки"
+
+#: admin/wpsl-post-types-management.php:259
+#: admin/wpsl-post-types-management.php:341
+#: admin/wpsl-post-types-metaboxes.php:479 options/wpsl-options.php:733
+#: options/wpsl-options.php:740
+msgid "Shipping"
+msgstr "Доставка"
+
+#: admin/wpsl-post-types-management.php:261 options/wpsl-options.php:716
+msgid "Coupons"
+msgstr "Купоны"
+
+#: admin/wpsl-post-types-management.php:318
+#: core/class-wpsl-constructor-email.php:214 templates/cart/cart.php:26
+msgid "Photo"
+msgstr "Фото"
+
+#: admin/wpsl-post-types-management.php:319
+#: core/class-wpsl-constructor-email.php:215
+#: core/class-wpsl-product-attributes-common.php:63
+#: core/class-wpsl-product-attributes-common.php:64
+#: core/class-wpsl-product-attributes-common.php:180
+#: core/class-wpsl-product-attributes-common.php:194
+#: core/class-wpsl-product-attributes-single.php:503
+#: core/class-wpsl-product-attributes-single.php:516
+#: core/widgets/class-wpsl-widget-category.php:46
+#: core/widgets/class-wpsl-widget-filter.php:43
+#: core/widgets/class-wpsl-widget-payment.php:102
+#: core/widgets/class-wpsl-widget-search.php:42
+msgid "Title"
+msgstr "Наименование"
+
+#: admin/wpsl-post-types-management.php:320
+#: ajax/class-wpsl-ajax-frontend.php:584
+#: core/class-wpsl-constructor-email.php:216
+msgid "Quo"
+msgstr "Количество"
+
+#: admin/wpsl-post-types-management.php:322
+#: core/class-wpsl-constructor-email.php:218
+msgid "Summ"
+msgstr "Сумма"
+
+#: admin/wpsl-post-types-management.php:353
+msgid "Total price"
+msgstr "Итоговая стоимость"
+
+#: admin/wpsl-post-types-management.php:390
+msgid "You must create new statuses and attach them to the type"
+msgstr ""
+"Вы должны создать новый статус и прикрепить его к одному из типов статуса"
+
+#: admin/wpsl-post-types-management.php:466
+msgid "Order Code"
+msgstr "Код заказа"
+
+#: admin/wpsl-post-types-management.php:467
+msgid "Customer"
+msgstr "Заказчик"
+
+#: admin/wpsl-post-types-management.php:469
+#: ajax/class-wpsl-ajax-frontend.php:560
+msgid "Summa"
+msgstr "Сумма"
+
+#: admin/wpsl-post-types-management.php:532
+#: admin/wpsl-post-types-management.php:550
+msgid "Status type"
+msgstr "Тип статуса"
+
+#: admin/wpsl-post-types-management.php:540
+#: admin/wpsl-post-types-management.php:560
+msgid "Groups status type"
+msgstr "Группы типов статуса"
+
+#: admin/wpsl-post-types-management.php:554
+msgid "Select type status"
+msgstr "Выберите тип статуса"
+
+#: admin/wpsl-post-types-management.php:610 core/wpsl-template-filters.php:216
+#: options/wpsl-options.php:154
+msgid "Support"
+msgstr "Техподдержка"
+
+#: admin/wpsl-post-types-metaboxes.php:29
+#: admin/wpsl-post-types-metaboxes.php:65
+#: admin/wpsl-post-types-metaboxes.php:369
+#: admin/wpsl-post-types-metaboxes.php:506
+msgid "General"
+msgstr "Основное"
+
+#: admin/wpsl-post-types-metaboxes.php:36
+#: admin/wpsl-post-types-metaboxes.php:349 options/wpsl-options.php:496
+msgid "Product card"
+msgstr "Карточка товара"
+
+#: admin/wpsl-post-types-metaboxes.php:46
+msgid "Digital"
+msgstr "Цифровой"
+
+#: admin/wpsl-post-types-metaboxes.php:53
+msgid "Bestseller"
+msgstr "Хит продаж"
+
+#: admin/wpsl-post-types-metaboxes.php:71
+#, php-format
+msgid "Base price (%s)"
+msgstr "Базовая цена (%s)"
+
+#: admin/wpsl-post-types-metaboxes.php:79
+#, php-format
+msgid "Sale price (%s)"
+msgstr "Цена распродажи (%s)"
+
+#: admin/wpsl-post-types-metaboxes.php:88
+msgid "Sku is a unique identifier of the product"
+msgstr "Артикул — это уникальный идентификатор товара"
+
+#: admin/wpsl-post-types-metaboxes.php:94
+msgid "Stock status"
+msgstr "Статус наличия"
+
+#: admin/wpsl-post-types-metaboxes.php:98
+msgid "Controls how the product will be displayed in the frontend"
+msgstr "Контролирует, как товар будет отображаться во фронтенде"
+
+#: admin/wpsl-post-types-metaboxes.php:104
+msgid "Downloadable files"
+msgstr "Скачиваемые файлы"
+
+#: admin/wpsl-post-types-metaboxes.php:107
+msgid "Buyer receives one-time download link"
+msgstr "Покупатель получит одноразовую ссылку на скачивание"
+
+#: admin/wpsl-post-types-metaboxes.php:112
+msgid "Product URL"
+msgstr "URL товара"
+
+#: admin/wpsl-post-types-metaboxes.php:115
+msgid "Enter an external link to the product"
+msgstr "Введите внешнюю ссылку на товар"
+
+#: admin/wpsl-post-types-metaboxes.php:122
+msgid "Gallery of product"
+msgstr "Галерея товара"
+
+#: admin/wpsl-post-types-metaboxes.php:133 ajax/class-wpsl-ajax-admin.php:349
+#: core/wpsl-import-functions.php:563 options/wpsl-options.php:394
+msgid "Attributes"
+msgstr "Характеристики"
+
+#: admin/wpsl-post-types-metaboxes.php:156
+msgid "Product variations"
+msgstr "Вариации товара"
+
+#: admin/wpsl-post-types-metaboxes.php:167
+msgid "Project"
+msgstr "Проект"
+
+#: admin/wpsl-post-types-metaboxes.php:173
+msgid "Goal"
+msgstr "Цель"
+
+#: admin/wpsl-post-types-metaboxes.php:174
+msgid "The amount needed to complete your project"
+msgstr "Сумма, необходимая для завершения проекта"
+
+#: admin/wpsl-post-types-metaboxes.php:181
+msgid "Investments"
+msgstr "Инвестиции"
+
+#: admin/wpsl-post-types-metaboxes.php:182
+msgid "How much money is collected at the moment"
+msgstr "Сколько денег собрано на данный момент"
+
+#: admin/wpsl-post-types-metaboxes.php:189
+msgid "Minimum sponsor fee"
+msgstr "Минимальный взнос спонсора"
+
+#: admin/wpsl-post-types-metaboxes.php:197
+msgid "Date of completion"
+msgstr "Дата завершения"
+
+#: admin/wpsl-post-types-metaboxes.php:198
+msgid ""
+"If the field is empty, the duration of the investment collection is unlimited"
+msgstr "Если поле пусто, продолжительность сбора инвестиций не ограничена"
+
+#: admin/wpsl-post-types-metaboxes.php:208
+msgid "Auction"
+msgstr "Аукцион"
+
+#: admin/wpsl-post-types-metaboxes.php:214
+msgid "Start price"
+msgstr "Стартовая цена"
+
+#: admin/wpsl-post-types-metaboxes.php:215
+msgid "The price at which the auction will start"
+msgstr "Цена с которой начнётся аукцион"
+
+#: admin/wpsl-post-types-metaboxes.php:222
+msgid "Bid increment"
+msgstr "Шаг ставки"
+
+#: admin/wpsl-post-types-metaboxes.php:223
+msgid "The minimum step bid"
+msgstr "Минимальный шаг ставки"
+
+#: admin/wpsl-post-types-metaboxes.php:230
+msgid "Reserve price"
+msgstr "Резервная цена"
+
+#: admin/wpsl-post-types-metaboxes.php:231
+msgid "Price below which you are not required to sell the product"
+msgstr "Цена, при ставках ниже которой вы не обязаны продавать товар"
+
+#: admin/wpsl-post-types-metaboxes.php:238
+msgid "The blitz price"
+msgstr "Блиц цена"
+
+#: admin/wpsl-post-types-metaboxes.php:239
+msgid ""
+"Price for which the seller is ready to sell the goods without waiting for "
+"the end of the auction"
+msgstr ""
+"Цена, за которую продавец готов продать товар, не дожидаясь окончания "
+"аукциона"
+
+#: admin/wpsl-post-types-metaboxes.php:246
+msgid "Ending date"
+msgstr "Дата окончания"
+
+#: admin/wpsl-post-types-metaboxes.php:247
+#: admin/wpsl-post-types-metaboxes.php:546
+msgid "Set the end date of auction product"
+msgstr "Установите дату окончания аукциона"
+
+#: admin/wpsl-post-types-metaboxes.php:257 core/wpsl-import-functions.php:561
+msgid "Dimensions"
+msgstr "Размеры"
+
+#: admin/wpsl-post-types-metaboxes.php:263 core/wpsl-import-functions.php:537
+#: templates/single/product-side-atts.php:85
+msgid "Weight"
+msgstr "Вес"
+
+#: admin/wpsl-post-types-metaboxes.php:271 core/wpsl-import-functions.php:538
+#: templates/single/product-side-atts.php:64
+msgid "Length"
+msgstr "Длина"
+
+#: admin/wpsl-post-types-metaboxes.php:279 core/wpsl-import-functions.php:539
+#: templates/single/product-side-atts.php:71
+msgid "Width"
+msgstr "Ширина"
+
+#: admin/wpsl-post-types-metaboxes.php:287 core/wpsl-import-functions.php:540
+#: templates/single/product-side-atts.php:78
+msgid "Height"
+msgstr "Высота"
+
+#: admin/wpsl-post-types-metaboxes.php:298
+msgid "More"
+msgstr "Дополнительно"
+
+#: admin/wpsl-post-types-metaboxes.php:304
+msgid "A note to the product"
+msgstr "Примечание к товару"
+
+#: admin/wpsl-post-types-metaboxes.php:305
+msgid ""
+"Additional information about the product. Displayed on the individual "
+"product page"
+msgstr "Дополнительная информация о товаре. Отображается на карточке товара"
+
+#: admin/wpsl-post-types-metaboxes.php:315
+msgid "SEO"
+msgstr "СЕО"
+
+#: admin/wpsl-post-types-metaboxes.php:321
+msgid "Title of product"
+msgstr "Заголовок страницы"
+
+#: admin/wpsl-post-types-metaboxes.php:322
+msgid "Most search engines see only 60 characters"
+msgstr "Большинство поисковых систем видят лишь 60 символов"
+
+#: admin/wpsl-post-types-metaboxes.php:329
+msgid "Meta keywords"
+msgstr "Мета ключевые слова"
+
+#: admin/wpsl-post-types-metaboxes.php:330
+msgid "A list of keywords separated by commas"
+msgstr "Список ключевых слов через запятую"
+
+#: admin/wpsl-post-types-metaboxes.php:337
+msgid "Meta description"
+msgstr "Мета-описание"
+
+#: admin/wpsl-post-types-metaboxes.php:338
+msgid "The recommended length is 160 characters"
+msgstr "Рекомендуемая длина - 160 символов"
+
+#: admin/wpsl-post-types-metaboxes.php:375
+msgid "Shipping price"
+msgstr "Цена доставки"
+
+#: admin/wpsl-post-types-metaboxes.php:376
+msgid "Fixed shipping cost"
+msgstr "Фиксированная стоимость доставки"
+
+#: admin/wpsl-post-types-metaboxes.php:388
+msgid "Details of shipping"
+msgstr "Детали доставки"
+
+#: admin/wpsl-post-types-metaboxes.php:433
+msgid "Client"
+msgstr "Клиент"
+
+#: admin/wpsl-post-types-metaboxes.php:439
+#: ajax/class-wpsl-ajax-frontend.php:582 ajax/class-wpsl-ajax-frontend.php:639
+#: core/class-wpsl-product-attributes-common.php:57
+#: core/wpsl-import-functions.php:522 options/wpsl-options.php:675
+#: templates/account/tab-profile.php:28 templates/account/tab-profile.php:31
+msgid "Name"
+msgstr "Имя"
+
+#: admin/wpsl-post-types-metaboxes.php:440
+#: admin/wpsl-post-types-metaboxes.php:443
+msgid "The name of the buyer"
+msgstr "Имя покупателя"
+
+#: admin/wpsl-post-types-metaboxes.php:447
+#: ajax/class-wpsl-ajax-frontend.php:640 options/wpsl-options.php:179
+#: options/wpsl-options.php:768 options/wpsl-options.php:1054
+#: templates/account/tab-profile.php:18 templates/account/tab-profile.php:21
+msgid "Email"
+msgstr "Email"
+
+#: admin/wpsl-post-types-metaboxes.php:448
+#: admin/wpsl-post-types-metaboxes.php:451
+msgid "The email of the buyer"
+msgstr "Email покупателя"
+
+#: admin/wpsl-post-types-metaboxes.php:455 options/wpsl-options.php:171
+#: options/wpsl-options.php:688 options/wpsl-options.php:1036
+#: templates/account/tab-profile.php:38 templates/account/tab-profile.php:41
+#: templates/order/order-contact.php:50
+msgid "Phone"
+msgstr "Телефон"
+
+#: admin/wpsl-post-types-metaboxes.php:456
+#: admin/wpsl-post-types-metaboxes.php:459
+msgid "The phone of the buyer"
+msgstr "Телефон покупателя"
+
+#: admin/wpsl-post-types-metaboxes.php:463 options/wpsl-options.php:1045
+#: templates/account/tab-profile.php:48 templates/account/tab-profile.php:51
+msgid "Address"
+msgstr "Адрес"
+
+#: admin/wpsl-post-types-metaboxes.php:464
+#: admin/wpsl-post-types-metaboxes.php:467
+msgid "Where to send products"
+msgstr "Куда отправлять товары"
+
+#: admin/wpsl-post-types-metaboxes.php:471
+msgid "Type of payment"
+msgstr "Тип оплаты"
+
+#: admin/wpsl-post-types-metaboxes.php:472
+msgid "How the order will be paid"
+msgstr "Как будет оплачен заказ"
+
+#: admin/wpsl-post-types-metaboxes.php:480
+msgid "How to deliver products"
+msgstr "Как доставить товары"
+
+#: admin/wpsl-post-types-metaboxes.php:491
+msgid "Order detail"
+msgstr "Детали заказа"
+
+#: admin/wpsl-post-types-metaboxes.php:512
+msgid "Discount type"
+msgstr "Тип скидки"
+
+#: admin/wpsl-post-types-metaboxes.php:517
+msgid "Percentage cart discount"
+msgstr "Процентная скидка на корзину"
+
+#: admin/wpsl-post-types-metaboxes.php:518
+msgid "Fixed cart discount"
+msgstr "Фиксированная скидка на сумму корзины"
+
+#: admin/wpsl-post-types-metaboxes.php:520
+msgid "Percentage on the quantity of products"
+msgstr "Процентная скидка на количество товара"
+
+#: admin/wpsl-post-types-metaboxes.php:521
+msgid "Fixed on the quantity of products"
+msgstr "Фиксированная скидка на количество товара"
+
+#: admin/wpsl-post-types-metaboxes.php:526
+msgid "Coupon amount"
+msgstr "Величина купона"
+
+#: admin/wpsl-post-types-metaboxes.php:527
+msgid ""
+"Discount coupon. You can use formulas, for example: 5000:20,3000:10,1500:5"
+msgstr ""
+"Скидка по купону. Вы можете использовать формулы, например: "
+"5000:20,3000:10,1500:5"
+
+#: admin/wpsl-post-types-metaboxes.php:534
+#: core/class-wpsl-constructor-forms.php:70
+#: core/class-wpsl-product-variations.php:86
+msgid "Apply"
+msgstr "Применить"
+
+#: admin/wpsl-post-types-metaboxes.php:535
+msgid "How to apply discount"
+msgstr "Как применить скидку"
+
+#: admin/wpsl-post-types-metaboxes.php:539
+msgid "At request"
+msgstr "По требованию"
+
+#: admin/wpsl-post-types-metaboxes.php:540
+msgid "Automatically"
+msgstr "Автоматически"
+
+#: admin/wpsl-post-types-metaboxes.php:545
+msgid "Coupon expiry date"
+msgstr "Дата окончания купона"
+
+#: admin/wpsl-post-types-metaboxes.php:553
+msgid "Send coupon"
+msgstr "Отправить купон"
+
+#: admin/wpsl-post-types-metaboxes.php:554
+msgid ""
+"Specifies how to receive the coupon. The setting is not used if the coupon "
+"is applied automatically"
+msgstr ""
+"Задаёт способ получения купона. Настройка не используется, если купон "
+"применяется автоматически"
+
+#: admin/wpsl-post-types-metaboxes.php:558
+msgid "Do not send coupon"
+msgstr "Не отправлять купон"
+
+#: admin/wpsl-post-types-metaboxes.php:559
+msgid "Send a coupon after the first order"
+msgstr "Отправить купон после первого заказа"
+
+#: admin/wpsl-post-types-metaboxes.php:568
+msgid "Usage restriction"
+msgstr "Ограничения использования"
+
+#: admin/wpsl-post-types-metaboxes.php:574
+msgid "Minimum spend"
+msgstr "Минимальный расход"
+
+#: admin/wpsl-post-types-metaboxes.php:575
+msgid "Set the minimum total cart (subtotal) amount required to use the coupon"
+msgstr ""
+"Установите минимальную общую сумму корзины, необходимую для использования "
+"купона"
+
+#: admin/wpsl-post-types-metaboxes.php:582
+msgid "Maximum spend"
+msgstr "Максимальный расход"
+
+#: admin/wpsl-post-types-metaboxes.php:583
+msgid "Set the maximum total cart (subtotal) amount required to use the coupon"
+msgstr ""
+"Установите максимальную общую сумму корзины, необходимую для использования "
+"купона"
+
+#: admin/wpsl-post-types-metaboxes.php:591
+msgid "Individual use"
+msgstr "Индивидуальное использование"
+
+#: admin/wpsl-post-types-metaboxes.php:592
+msgid ""
+"Check this box if the coupon cannot be used in conjunction with other coupons"
+msgstr "Отметьте если купон нельзя использовать вместе с другими купонами"
+
+#: admin/wpsl-post-types-metaboxes.php:598
+msgid "Exclude sale items"
+msgstr "Исключить товары со скидкой"
+
+#: admin/wpsl-post-types-metaboxes.php:599
+msgid ""
+"Check this box if the coupon should not apply to items with discount. Option "
+"to exclude discounted products from the calculation of the total discount "
+"regardless of the \"Type of discount\""
+msgstr ""
+"Установите этот флажок, если купон не должен применяться к товарам со "
+"скидкой. Опция исключает товары со скидкой из подсчёта общей скидки "
+"независимо от \"Типа скидки\""
+
+#: admin/wpsl-post-types-metaboxes.php:606
+msgid "User limits"
+msgstr "Ограничения пользователей"
+
+#: admin/wpsl-post-types-metaboxes.php:607
+msgid "Apply the coupon only to the specified group of users"
+msgstr "Применять купон только к указанной группе пользователей"
+
+#: admin/wpsl-post-types-metaboxes.php:611
+msgid "All users"
+msgstr "Все пользователи"
+
+#: admin/wpsl-post-types-metaboxes.php:620
+msgid "Usage limits"
+msgstr "Лимиты использования"
+
+#: admin/wpsl-post-types-metaboxes.php:626
+msgid "Usage limit per coupon"
+msgstr "Лимит использования на купон"
+
+#: admin/wpsl-post-types-metaboxes.php:627
+msgid "How many times this coupon can be used before it is void"
+msgstr ""
+"Сколько раз данный купон может быть использован, прежде чем он будет "
+"аннулирован"
+
+#: admin/wpsl-post-types-metaboxes.php:634
+msgid "Usage limit per user"
+msgstr "Лимит использования на одного пользователя"
+
+#: admin/wpsl-post-types-metaboxes.php:635
+msgid ""
+"How many times this coupon can be used by an individual user. Uses billing "
+"email for guests, and user ID for logged in users"
+msgstr ""
+"Сколько раз данный купон может быть использован отдельным пользователем. "
+"Отслеживается по ID пользователя для зарегистрированных покупателей и по "
+"Email для незарегистрированных"
+
+#: admin/wpsl-post-types-metaboxes.php:646
+msgid "Coupon data"
+msgstr "Данные купона"
+
+#: ajax/class-wpsl-ajax-admin.php:57 ajax/class-wpsl-ajax-frontend.php:419
+#: core/class-wpsl-include-js-css.php:30
+msgid "Saved"
+msgstr "Сохранено"
+
+#: ajax/class-wpsl-ajax-admin.php:76
+msgid "SMS sending is works!"
+msgstr "СМС отправка работает!"
+
+#: ajax/class-wpsl-ajax-admin.php:98 ajax/class-wpsl-ajax-admin.php:99
+#: core/class-wpsl-product-attributes-common.php:146
+#: core/class-wpsl-product-attributes-common.php:147
+msgid "Yes"
+msgstr "Да"
+
+#: ajax/class-wpsl-ajax-admin.php:98 ajax/class-wpsl-ajax-admin.php:99
+#: core/class-wpsl-product-attributes-common.php:146
+#: core/class-wpsl-product-attributes-common.php:147
+msgid "No"
+msgstr "Нет"
+
+#: ajax/class-wpsl-ajax-admin.php:106
+#: core/class-wpsl-product-attributes-common.php:154
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+#: core/theme-support/twentyfifteen.php:34
+msgid "Edit"
+msgstr "Редактировать"
+
+#: ajax/class-wpsl-ajax-admin.php:107 core/class-wpsl-constructor-forms.php:96
+#: core/class-wpsl-constructor-metaboxes.php:142
+#: core/class-wpsl-product-attributes-common.php:155
+#: core/class-wpsl-product-attributes-single.php:191
+#: core/class-wpsl-product-attributes-single.php:457
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+msgid "Delete"
+msgstr "Удалить"
+
+#: ajax/class-wpsl-ajax-admin.php:257
+msgid "Files not found"
+msgstr "Файл не найден"
+
+#: ajax/class-wpsl-ajax-admin.php:288
+msgid "Binding a column to a field"
+msgstr "Привязка столбца к полю"
+
+#: ajax/class-wpsl-ajax-admin.php:289
+msgid ""
+"Select the columns of the CSV file to assign the product field, or to ignore "
+"them."
+msgstr ""
+"Выберите столбцы CSV-файла, чтобы назначить поле товара или игнорировать их."
+
+#: ajax/class-wpsl-ajax-admin.php:295
+msgid "Column"
+msgstr "Колонка"
+
+#: ajax/class-wpsl-ajax-admin.php:296
+msgid "Set field"
+msgstr "Установить поле"
+
+#: ajax/class-wpsl-ajax-admin.php:304
+msgid "ID of attachment"
+msgstr "ID вложения"
+
+#: ajax/class-wpsl-ajax-admin.php:308
+msgid "Delimetr"
+msgstr "Разделитель"
+
+#: ajax/class-wpsl-ajax-admin.php:349
+msgid "Line"
+msgstr "Линия"
+
+#: ajax/class-wpsl-ajax-admin.php:349 templates/account/tab-reviews.php:20
+#: templates/cart/cart.php:27
+msgid "Product"
+msgstr "Товар"
+
+#: ajax/class-wpsl-ajax-admin.php:349
+msgid "Total time"
+msgstr "Всего времени"
+
+#: ajax/class-wpsl-ajax-admin.php:516
+msgid "The product exists, the data is updated"
+msgstr "Товар существует, данные обновлены"
+
+#: ajax/class-wpsl-ajax-admin.php:518
+msgid "The product is successfully created"
+msgstr "Товар успешно создан"
+
+#: ajax/class-wpsl-ajax-frontend.php:97
+#, php-format
+msgid "Your verification code: %s"
+msgstr "Ваш код подтверждения: %s"
+
+#: ajax/class-wpsl-ajax-frontend.php:99
+msgid ""
+"The password is not sent. Check that the phone number is entered correctly."
+msgstr ""
+"Пароль не отправляется. Убедитесь, что номер телефона введен правильно."
+
+#: ajax/class-wpsl-ajax-frontend.php:153
+msgid "Nothing found, try another query"
+msgstr "Ничего не найдено, попробуйте другой запрос"
+
+#: ajax/class-wpsl-ajax-frontend.php:283 ajax/class-wpsl-ajax-frontend.php:370
+#, php-format
+msgid "Found: %d"
+msgstr "Найдено: %d"
+
+#: ajax/class-wpsl-ajax-frontend.php:284 ajax/class-wpsl-ajax-frontend.php:371
+msgid "Show"
+msgstr "Показать"
+
+#: ajax/class-wpsl-ajax-frontend.php:398
+msgid "Email field must be filled"
+msgstr "Поле email должно быть заполнено"
+
+#: ajax/class-wpsl-ajax-frontend.php:401
+msgid "Invalid email format"
+msgstr "Неправильный формат электронной почты"
+
+#: ajax/class-wpsl-ajax-frontend.php:421
+msgid "This email is busy"
+msgstr "Этот email занят"
+
+#: ajax/class-wpsl-ajax-frontend.php:433
+msgid "Select product"
+msgstr "Выберите товар"
+
+#: ajax/class-wpsl-ajax-frontend.php:436
+msgid "Ticket for the whole order"
+msgstr "Заявка по всему заказу"
+
+#: ajax/class-wpsl-ajax-frontend.php:471
+msgid ""
+"Your ticket has been successfully sent. Wait for the operator\"s response"
+msgstr "Ваша заявка успешно отправлена. Дождитесь ответа оператора"
+
+#: ajax/class-wpsl-ajax-frontend.php:506
+msgid "You"
+msgstr "Вы"
+
+#: ajax/class-wpsl-ajax-frontend.php:506
+msgid "Operator"
+msgstr "Оператор"
+
+#: ajax/class-wpsl-ajax-frontend.php:516
+msgid "Text"
+msgstr "Текст"
+
+#: ajax/class-wpsl-ajax-frontend.php:521
+#: core/class-wpsl-constructor-forms.php:193
+#: core/class-wpsl-include-js-css.php:24 core/class-wpsl-include-js-css.php:77
+#: templates/account/tab-registration.php:50
+#: templates/account/tab-ticket.php:85
+msgid "Send"
+msgstr "Отправить"
+
+#: ajax/class-wpsl-ajax-frontend.php:559
+msgid "Date of order"
+msgstr "Дата заказа"
+
+#: ajax/class-wpsl-ajax-frontend.php:580
+msgid "Details of order"
+msgstr "Детали заказа"
+
+#: ajax/class-wpsl-ajax-frontend.php:593
+msgid "Regenerate download link"
+msgstr "Получить ссылку для скачивания"
+
+#: ajax/class-wpsl-ajax-frontend.php:625 ajax/class-wpsl-ajax-frontend.php:674
+msgid "Enter your name"
+msgstr "Введите ваше имя"
+
+#: ajax/class-wpsl-ajax-frontend.php:628 ajax/class-wpsl-ajax-frontend.php:677
+#: core/wpsl-template-filters.php:570 core/wpsl-template-filters.php:573
+#: core/wpsl-template-filters.php:575
+msgid "Enter your email"
+msgstr "Укажите ваш e-mail"
+
+#: ajax/class-wpsl-ajax-frontend.php:631
+msgid "Enter your message"
+msgstr "Введите текст вашего сообщения"
+
+#: ajax/class-wpsl-ajax-frontend.php:637
+msgid "Request from contact form"
+msgstr "Запрос из контактной формы"
+
+#: ajax/class-wpsl-ajax-frontend.php:638
+msgid "Received an application from the site with a request to call back"
+msgstr "Поступила заявка с сайта с просьбой перезвонить"
+
+#: ajax/class-wpsl-ajax-frontend.php:643
+msgid "From"
+msgstr "От"
+
+#: ajax/class-wpsl-ajax-frontend.php:647
+msgid "The message was successfully sent to admin"
+msgstr "Сообщение было успешно отправлено администратору"
+
+#: ajax/class-wpsl-ajax-frontend.php:649
+msgid "Something went wrong. Click \"Submit\" again"
+msgstr "Что-то пошло не так. Нажмите кнопку \"Отправить\" ещё раз"
+
+#: ajax/class-wpsl-ajax-frontend.php:655 ajax/class-wpsl-ajax-frontend.php:724
+msgid "No spam"
+msgstr "Нет спаму"
+
+#: ajax/class-wpsl-ajax-frontend.php:680
+msgid "Enter your assessment"
+msgstr "Введите вашу оценку"
+
+#: ajax/class-wpsl-ajax-frontend.php:683
+msgid "Enter product advantages"
+msgstr "Введите преимущества товара"
+
+#: ajax/class-wpsl-ajax-frontend.php:686
+msgid "Enter product disadvantages"
+msgstr "Введите недостатки товара"
+
+#: ajax/class-wpsl-ajax-frontend.php:713
+msgid "Something went wrong, send review again"
+msgstr "Что-то пошло не так, отправьте отзыв снова"
+
+#: ajax/class-wpsl-ajax-frontend.php:715
+msgid "Review was sended"
+msgstr "Отзыв был отравлен"
+
+#: ajax/class-wpsl-ajax-frontend.php:795
+msgid "Your bet is made"
+msgstr "Ваша ставка сделана"
+
+#: ajax/class-wpsl-ajax-frontend.php:797
+msgid "A link to confirm your bet has been sent to your e-mail"
+msgstr "На вашу почту была отправлена ссылка для подтверждения ставки"
+
+#: ajax/class-wpsl-ajax-frontend.php:799
+msgid "Go to the mail service"
+msgstr "Перейти к почтовой службе"
+
+#: ajax/class-wpsl-ajax-frontend.php:801
+msgid "You have placed a bid on the purchase of the auction product"
+msgstr "Вы отправили заявку на покупку аукционного продукта"
+
+#: ajax/class-wpsl-ajax-frontend.php:802
+msgid "Confirm bid"
+msgstr "Подтвердить ставку"
+
+#: ajax/class-wpsl-ajax-frontend.php:803
+msgid "Bid confirmation"
+msgstr "Подтверждение ставки"
+
+#: ajax/class-wpsl-ajax-frontend.php:813
+msgid "Your bid cannot be lower than the current price"
+msgstr "Ваша ставка не может быть ниже текущей цены"
+
+#: core/class-wpsl-cart.php:173
+msgid "Please enter required data!"
+msgstr "Пожалуйста, введите необходимые данные!"
+
+#: core/class-wpsl-cart.php:179
+msgid "Please enter required email!"
+msgstr "Пожалуйста, введите электронную почту!"
+
+#: core/class-wpsl-cart.php:183
+msgid "Please specify correct E-mail!"
+msgstr "Пожалуйста, укажите корректный E-mail!"
+
+#: core/class-wpsl-cart.php:187
+msgid "Please specify correct phone!"
+msgstr "Пожалуйста, укажите корректный номер телефона!"
+
+#: core/class-wpsl-cart.php:191 templates/cart/cart-empty.php:23
+msgid "Cart is empty"
+msgstr "Корзина пуста"
+
+#: core/class-wpsl-cart.php:358
+msgid "Remove from cart"
+msgstr "Удалить из корзины"
+
+#: core/class-wpsl-cart.php:390
+msgid "Merchandise total"
+msgstr "Товаров на сумму"
+
+#: core/class-wpsl-cart.php:393
+msgid "Discount total"
+msgstr "Величина скидки"
+
+#: core/class-wpsl-cart.php:397
+msgid "Subtotal"
+msgstr "Подытог"
+
+#: core/class-wpsl-constructor-email.php:105
+msgid ""
+"Support to resolve issues on availability, payment and receipt of products"
+msgstr "Поддержка для решения вопросов по наличию, оплате и получению товаров"
+
+#: core/class-wpsl-constructor-email.php:136
+msgid "You can find information about your order in your personal account"
+msgstr "Вы можете найти информацию о вашем заказе в личном кабинете"
+
+#: core/class-wpsl-constructor-email.php:137
+msgid "Login to account"
+msgstr "Войти в аккаунт"
+
+#: core/class-wpsl-constructor-email.php:147
+msgid "This letter is generated automatically, do not answer it."
+msgstr ""
+"Это письмо было сгенерировано автоматически, пожалуйста, не отвечайте на "
+"него."
+
+#: core/class-wpsl-constructor-email.php:151
+msgid ""
+"If you need to contact technical support, please send a request to email"
+msgstr "Если вам необходима техническая поддержка, отправьте запрос по email"
+
+#: core/class-wpsl-constructor-email.php:159
+msgid ""
+"Technical support is provided through the system of internal tickets in your "
+"account."
+msgstr ""
+"Техническая поддержка осуществляется через систему внутренних тикетов в "
+"личном кабинете."
+
+#: core/class-wpsl-constructor-email.php:161
+msgid "Go to account"
+msgstr "В личный кабинет"
+
+#: core/class-wpsl-constructor-email.php:197
+msgid "Link to the file is not found. Contact technical support for assistance"
+msgstr ""
+"Ссылка на файл не найдена. Обратитесь за помощью в техническую поддержку"
+
+#: core/class-wpsl-constructor-email.php:284
+#: core/class-wpsl-constructor-email.php:285 templates/cart/cart-mini.php:25
+#: templates/cart/cart.php:30
+msgid "Total"
+msgstr "Итого"
+
+#: core/class-wpsl-constructor-forms.php:84
+#: core/class-wpsl-constructor-metaboxes.php:130
+#: core/class-wpsl-constructor-metaboxes.php:139
+msgid "URL"
+msgstr "УРЛ"
+
+#: core/class-wpsl-constructor-forms.php:95
+#: core/class-wpsl-constructor-metaboxes.php:141
+msgid "Upload"
+msgstr "Загрузить"
+
+#: core/class-wpsl-constructor-forms.php:119
+#: core/wpsl-general-functions.php:992
+msgid "Very poor"
+msgstr "Очень плохо"
+
+#: core/class-wpsl-constructor-forms.php:120
+#: core/wpsl-general-functions.php:993
+msgid "Not that bad"
+msgstr "Не плохо"
+
+#: core/class-wpsl-constructor-forms.php:121
+#: core/wpsl-general-functions.php:994
+msgid "Average"
+msgstr "Средне"
+
+#: core/class-wpsl-constructor-forms.php:122
+#: core/wpsl-general-functions.php:995
+msgid "Good"
+msgstr "Хорошо"
+
+#: core/class-wpsl-constructor-forms.php:123
+#: core/wpsl-general-functions.php:996
+msgid "Perfect"
+msgstr "Отлично"
+
+#: core/class-wpsl-delivery.php:40 options/wpsl-options.php:754
+msgid "Shipping type"
+msgstr "Тип доставки"
+
+#: core/class-wpsl-discount.php:255
+#, php-format
+msgid "Coupon \"%s\" does not exist!"
+msgstr "Купон \"%s\" не существует!"
+
+#: core/class-wpsl-discount.php:264
+#, php-format
+msgid "The coupon is not active yet. Until the early remained: %s"
+msgstr "Купон пока не активен. До начала осталось %s"
+
+#: core/class-wpsl-discount.php:271
+msgid "This coupon has expired"
+msgstr "Срок действия купона истек"
+
+#: core/class-wpsl-discount.php:278
+#, php-format
+msgid "The minimum amount to apply the discount is %s"
+msgstr "Минимальная сумма для применения скидки составляет %s"
+
+#: core/class-wpsl-discount.php:285
+#, php-format
+msgid "The maximum amount to apply the discount is %s"
+msgstr "Максимальная сумма для применения скидки составляет %s"
+
+#: core/class-wpsl-discount.php:292
+msgid "Coupon usage limit has been reached"
+msgstr "Лимит использования купона достигнут"
+
+#: core/class-wpsl-discount.php:301
+msgid "Coupon code already applied!"
+msgstr "Купон уже использован!"
+
+#: core/class-wpsl-discount.php:304
+msgid "Sorry, this coupon is not applicable to your cart contents"
+msgstr "К сожалению, этот купон не применим к содержимому вашей корзины"
+
+#: core/class-wpsl-discount.php:365
+msgid "Discount for next order"
+msgstr "Скидка для следующего заказа"
+
+#: core/class-wpsl-discount.php:368
+#, php-format
+msgid ""
+"Thank you for your order.\n"
+"\t\t\t\t\n"
+"\t\t\t\tGet a discount coupon for your next purchase: %s"
+msgstr ""
+"Зпасибо за ваш заказ.\n"
+"\t\t\t\t\n"
+"\t\t\t\tПолучите скидочный купон для следующего заказа: %s"
+
+#: core/class-wpsl-featured-images.php:80 core/class-wpsl-terms-images.php:63
+#: core/class-wpsl-terms-images.php:90
+msgid "Image"
+msgstr "Картинка"
+
+#: core/class-wpsl-featured-images.php:146
+msgid "Browse or upload an image"
+msgstr "Просмотреть или загрузить изображение"
+
+#: core/class-wpsl-featured-images.php:148
+msgid "Set thumbnail"
+msgstr "Установить миниатюру"
+
+#: core/class-wpsl-include-js-css.php:23
+msgid "Work"
+msgstr "Работа"
+
+#: core/class-wpsl-include-js-css.php:25 core/class-wpsl-include-js-css.php:78
+msgid "Sending"
+msgstr "Отправка"
+
+#: core/class-wpsl-include-js-css.php:26
+#: core/class-wpsl-product-attributes-common.php:126
+msgid "Save attribute"
+msgstr "Сохранить характеристику"
+
+#: core/class-wpsl-include-js-css.php:27
+#: core/class-wpsl-product-attributes-common.php:126
+msgid "Add new attribute"
+msgstr "Добавить новую характеристику"
+
+#: core/class-wpsl-include-js-css.php:28
+msgid "You have not selected where to download the attributes"
+msgstr "Вы не выбрали характеристики для загрузки"
+
+#: core/class-wpsl-include-js-css.php:31
+msgid "This image is already in the gallery"
+msgstr "Это изображение уже есть в галерее"
+
+#: core/class-wpsl-include-js-css.php:32
+msgid "Are you sure?"
+msgstr "Вы уверены?"
+
+#: core/class-wpsl-include-js-css.php:33
+msgid "Please select a file to import"
+msgstr "Пожалуйста, выберите файл импорта"
+
+#: core/class-wpsl-include-js-css.php:34
+msgid "The file is sent. The import process is in progress..."
+msgstr "Файл отправлен. Запущен процесс импорта..."
+
+#: core/class-wpsl-include-js-css.php:35
+msgid "Error ajax request"
+msgstr "Ошибка ajax запроса"
+
+#: core/class-wpsl-include-js-css.php:36
+msgid "Name of attribute"
+msgstr "Название характеристики"
+
+#: core/class-wpsl-include-js-css.php:37
+msgid "Mesuare of attribute"
+msgstr "Единица измерения характеристики"
+
+#: core/class-wpsl-include-js-css.php:79
+msgid "of"
+msgstr "из"
+
+#: core/class-wpsl-install.php:43
+msgid "Store manager"
+msgstr "Заведующий магазином"
+
+#: core/class-wpsl-install.php:96
+msgid "Sales consultant"
+msgstr "Продавец-консультант"
+
+#: core/class-wpsl-install.php:137
+msgid "Seller cashier"
+msgstr "Продавец-кассир"
+
+#: core/class-wpsl-install.php:208 templates/order/order-form.php:59
+msgid "Checkout order"
+msgstr "Оформить заказ"
+
+#: core/class-wpsl-install.php:222
+msgid "Order payment"
+msgstr "Оплата заказа"
+
+#: core/class-wpsl-install.php:236 options/wpsl-options.php:260
+msgid "Account"
+msgstr "Личный кабинет"
+
+#: core/class-wpsl-install.php:249 options/wpsl-options.php:309
+msgid "Storefront"
+msgstr "Витрина"
+
+#: core/class-wpsl-install.php:262
+msgid "In-Store Pickup"
+msgstr "Самовывоз"
+
+#: core/class-wpsl-install.php:281 core/wpsl-general-functions.php:675
+msgid "Simple product"
+msgstr "Простой товар"
+
+#: core/class-wpsl-install.php:282
+msgid "Product description"
+msgstr "Описание товара"
+
+#: core/class-wpsl-payment.php:35 core/widgets/class-wpsl-widget-payment.php:37
+msgid "Cash"
+msgstr "Наличными"
+
+#: core/class-wpsl-payment.php:41 core/widgets/class-wpsl-widget-payment.php:57
+#: options/wpsl-options.php:993
+msgid "Yandex.Money"
+msgstr "Яндекс.Деньги"
+
+#: core/class-wpsl-payment.php:47 core/widgets/class-wpsl-widget-payment.php:61
+#: options/wpsl-options.php:1074
+msgid "WebMoney"
+msgstr "WebMoney"
+
+#: core/class-wpsl-payment.php:53 core/widgets/class-wpsl-widget-payment.php:65
+#: options/wpsl-options.php:1121
+msgid "PayPal"
+msgstr "PayPal"
+
+#: core/class-wpsl-payment.php:59 core/widgets/class-wpsl-widget-payment.php:77
+#: options/wpsl-options.php:1158
+msgid "Cash on delivery"
+msgstr "Наложенный платеж"
+
+#: core/class-wpsl-payment.php:65 core/widgets/class-wpsl-widget-payment.php:81
+#: options/wpsl-options.php:1187
+msgid "Bank transfer"
+msgstr "Банковский перевод"
+
+#: core/class-wpsl-payment.php:136
+msgid ""
+"In your cart only free products. A message was sent to the e-mail specified "
+"in the order"
+msgstr ""
+"В вашей корзине только бесплатные товары. На указанную в заказе почту "
+"отправлено сообщение"
+
+#: core/class-wpsl-payment.php:137
+msgid ""
+"If after registration and payment you have not received links to the "
+"products ordered for your mail, you can get them in private account"
+msgstr ""
+"Если после регистрации и оплаты вы не получили письмо со ссылками на товары, "
+"вы можете восстановить их в личном кабинете"
+
+#: core/class-wpsl-payment.php:154 core/class-wpsl-payment.php:159
+#: core/class-wpsl-payment.php:203
+msgid "Payment the order №"
+msgstr "Оплата заказа №"
+
+#: core/class-wpsl-payment.php:176 core/class-wpsl-payment.php:190
+#: core/class-wpsl-payment.php:210
+msgid "Pay"
+msgstr "Оплатить"
+
+#: core/class-wpsl-payment.php:271
+msgid "Order payment received"
+msgstr "Получена оплата заказа"
+
+#: core/class-wpsl-payment.php:275
+msgid "Your payment has been received"
+msgstr "Ваш платеж был получен"
+
+#: core/class-wpsl-product-attributes-common.php:25
+msgid "Select characteristic\"s group"
+msgstr "Выберите группу характеристик"
+
+#: core/class-wpsl-product-attributes-common.php:26
+msgid "From general settings"
+msgstr "Из общих настроек"
+
+#: core/class-wpsl-product-attributes-common.php:33
+#: core/class-wpsl-product-attributes-single.php:37
+msgid "Create from"
+msgstr "Создать из"
+
+#: core/class-wpsl-product-attributes-common.php:50
+#: core/class-wpsl-product-variations.php:683
+#: core/class-wpsl-product-variations.php:701
+#: core/class-wpsl-product-variations.php:745
+msgid "Attribute"
+msgstr "Характеристика"
+
+#: core/class-wpsl-product-attributes-common.php:51
+#: core/class-wpsl-product-attributes-common.php:175
+msgid "Add new"
+msgstr "Добавить новый"
+
+#: core/class-wpsl-product-attributes-common.php:58
+#: core/class-wpsl-product-attributes-single.php:505
+#: core/class-wpsl-product-attributes-single.php:518
+#: core/class-wpsl-product-variations.php:85
+msgid "Value"
+msgstr "Значение"
+
+#: core/class-wpsl-product-attributes-common.php:67
+#: core/class-wpsl-product-attributes-common.php:68
+#: core/class-wpsl-product-attributes-common.php:181
+#: core/class-wpsl-product-attributes-common.php:195
+#: core/class-wpsl-product-attributes-single.php:504
+#: core/class-wpsl-product-attributes-single.php:517
+msgid "Label"
+msgstr "Ярлык"
+
+#: core/class-wpsl-product-attributes-common.php:71
+msgid "Values"
+msgstr "Значения"
+
+#: core/class-wpsl-product-attributes-common.php:72
+msgid "Default values via |"
+msgstr "Значения по умолчанию через |"
+
+#: core/class-wpsl-product-attributes-common.php:76
+#: core/class-wpsl-product-attributes-common.php:77
+#: core/class-wpsl-product-attributes-common.php:182
+#: core/class-wpsl-product-attributes-common.php:196
+#: core/class-wpsl-product-attributes-single.php:506
+#: core/class-wpsl-product-attributes-single.php:519
+msgid "Measure"
+msgstr "Ед. изм."
+
+#: core/class-wpsl-product-attributes-common.php:80
+#: core/class-wpsl-product-attributes-common.php:82
+#: core/class-wpsl-product-attributes-common.php:183
+#: core/class-wpsl-product-attributes-common.php:197
+#: templates/single/product-tabs.php:15
+msgid "Description"
+msgstr "Описание"
+
+#: core/class-wpsl-product-attributes-common.php:86
+msgid "Type"
+msgstr "Тип"
+
+#: core/class-wpsl-product-attributes-common.php:91
+msgid "Select buttons"
+msgstr "Кнопки выбора"
+
+#: core/class-wpsl-product-attributes-common.php:92
+msgid "Dropdown list"
+msgstr "Выпадающий список"
+
+#: core/class-wpsl-product-attributes-common.php:93
+msgid "Select color"
+msgstr "Выбор цвета"
+
+#: core/class-wpsl-product-attributes-common.php:94
+msgid "Select image"
+msgstr "Выбор изображения"
+
+#: core/class-wpsl-product-attributes-common.php:95
+msgid "Slider"
+msgstr "Ползунок"
+
+#: core/class-wpsl-product-attributes-common.php:111
+#: core/class-wpsl-product-attributes-common.php:113
+#: core/class-wpsl-product-attributes-common.php:184
+#: core/class-wpsl-product-attributes-common.php:198
+msgid "Filterable"
+msgstr "Фильтруемый"
+
+#: core/class-wpsl-product-attributes-common.php:118
+#: core/class-wpsl-product-attributes-common.php:120
+msgid "Variability"
+msgstr "Вариативный"
+
+#: core/class-wpsl-product-attributes-common.php:168
+#: core/class-wpsl-product-attributes-single.php:485
+msgid "Attributes not found"
+msgstr "Характеристики не найдены"
+
+#: core/class-wpsl-product-attributes-common.php:174
+msgid "Create characteristics of product"
+msgstr "Создайте характеристики продукта"
+
+#: core/class-wpsl-product-attributes-common.php:185
+#: core/class-wpsl-product-attributes-common.php:199
+#: core/class-wpsl-product-attributes-single.php:507
+#: core/class-wpsl-product-attributes-single.php:520
+msgid "Variable"
+msgstr "Вариативный"
+
+#: core/class-wpsl-product-attributes-single.php:24
+msgid "Select attributes group"
+msgstr "Выберите группу атрибутов"
+
+#: core/class-wpsl-product-attributes-single.php:35
+msgid "Save characteristics"
+msgstr "Сохранить характеристики"
+
+#: core/class-wpsl-product-attributes-single.php:68
+msgid "New comma separated"
+msgstr "Новое через запятую"
+
+#: core/class-wpsl-product-attributes-single.php:515
+msgid "Add attribute"
+msgstr "Добавить атрибут"
+
+#: core/class-wpsl-product-variations.php:27
+msgid "Variation editor"
+msgstr "Редактор вариации"
+
+#: core/class-wpsl-product-variations.php:35
+msgid "Product sku"
+msgstr "Артикул товара"
+
+#: core/class-wpsl-product-variations.php:37
+#: core/class-wpsl-product-variations.php:47 core/class-wpsl-shortcodes.php:69
+#: core/class-wpsl-shortcodes.php:79 core/class-wpsl-shortcodes.php:89
+#: core/class-wpsl-shortcodes.php:99 core/wpsl-template-filters.php:357
+#: core/wpsl-template-filters.php:462 core/wpsl-template-filters.php:519
+#: templates/account/tab-login.php:27 templates/account/tab-login.php:37
+#: templates/account/tab-login.php:47 templates/account/tab-lostpassword.php:27
+#: templates/account/tab-profile.php:23 templates/account/tab-profile.php:33
+#: templates/account/tab-profile.php:43 templates/account/tab-profile.php:53
+#: templates/account/tab-profile.php:63 templates/account/tab-profile.php:73
+#: templates/account/tab-registration.php:29
+#: templates/account/tab-registration.php:39
+#: templates/account/tab-ticket.php:50 templates/account/tab-ticket.php:59
+#: templates/account/tab-ticket.php:74 templates/single/product-reviews.php:77
+msgid "Notice"
+msgstr "Уведомление"
+
+#: core/class-wpsl-product-variations.php:42
+msgid "Upload file"
+msgstr "Загрузить файл"
+
+#: core/class-wpsl-product-variations.php:45
+msgid "Link to download"
+msgstr "Ссылка для загрузки"
+
+#: core/class-wpsl-product-variations.php:53
+#: options/class-wpsl-options.php:1105 templates/account/tab-profile.php:84
+msgid "Save"
+msgstr "Сохранить"
+
+#: core/class-wpsl-product-variations.php:64
+msgid "Save variations"
+msgstr "Сохранить вариации"
+
+#: core/class-wpsl-product-variations.php:65
+msgid "Create from attributes"
+msgstr "Создать из характеристик"
+
+#: core/class-wpsl-product-variations.php:75
+msgid "Mass management"
+msgstr "Массовое управление"
+
+#: core/class-wpsl-product-variations.php:76
+msgid "Delete all variations"
+msgstr "Удалить все вариации"
+
+#: core/class-wpsl-product-variations.php:77
+msgid "Pricing"
+msgstr "Ценообразование"
+
+#: core/class-wpsl-product-variations.php:78
+msgid "Set price"
+msgstr "Установить цену"
+
+#: core/class-wpsl-product-variations.php:79
+msgid "Increase by a fixed value"
+msgstr "Увеличить на фиксированную величину"
+
+#: core/class-wpsl-product-variations.php:80
+msgid "Increase by percent"
+msgstr "Увеличить на процент"
+
+#: core/class-wpsl-product-variations.php:81
+msgid "Decrease by a fixed value"
+msgstr "Уменьшить на фиксированную величину"
+
+#: core/class-wpsl-product-variations.php:82
+msgid "Decrease by percent"
+msgstr "Уменьшить на процент"
+
+#: core/class-wpsl-product-variations.php:506
+#: core/class-wpsl-product-variations.php:551
+#: core/class-wpsl-product-variations.php:730
+#: core/class-wpsl-product-variations.php:772
+#: core/class-wpsl-product-variations.php:800
+msgid "Action"
+msgstr "Действие"
+
+#: core/class-wpsl-product-variations.php:565
+#: core/class-wpsl-product-variations.php:778
+msgid ""
+"Variations of the product exist. Make sure that among the characteristics of "
+"eating is variable, and click \"Create features\"."
+msgstr ""
+"Вариации товара отсутствуют. Убедитесь, что среди характеристик есть "
+"вариативные, и нажмите \"Создать из характеристик\"."
+
+#: core/class-wpsl-product-variations.php:796
+msgid "ID"
+msgstr "ID"
+
+#: core/class-wpsl-product-variations.php:798
+msgid "Variation"
+msgstr "Вариация"
+
+#: core/class-wpsl-shortcodes.php:64 templates/order/order-contact.php:28
+#: templates/single/product-reviews.php:22
+#: templates/single/product-reviews.php:27
+msgid "Your name"
+msgstr "Ваше имя"
+
+#: core/class-wpsl-shortcodes.php:67 templates/order/order-contact.php:30
+#: templates/single/product-reviews.php:25
+msgid "John Smith"
+msgstr "Иванов Иван"
+
+#: core/class-wpsl-shortcodes.php:74 templates/order/order-contact.php:38
+#: templates/order/order-contact.php:40 templates/single/product-reviews.php:32
+#: templates/single/product-reviews.php:37
+msgid "Your email"
+msgstr "Ваш e-mail"
+
+#: core/class-wpsl-shortcodes.php:84 core/class-wpsl-shortcodes.php:87
+msgid "Subject"
+msgstr "Тема"
+
+#: core/class-wpsl-shortcodes.php:94 core/class-wpsl-shortcodes.php:97
+msgid "Your message"
+msgstr "Ваше сообщение"
+
+#: core/class-wpsl-shortcodes.php:114 options/wpsl-options.php:76
+msgid "Contact form"
+msgstr "Контактная форма"
+
+#: core/class-wpsl-shortcodes.php:115
+msgid "contact us in any convenient way for you"
+msgstr "свяжитесь с нами удобным для вас способом"
+
+#: core/class-wpsl-shortcodes.php:189
+msgid "You are trying to get data with the wrong token"
+msgstr "Вы пытаетесь получить данные с неправильным токеном"
+
+#: core/class-wpsl-sms.php:55
+msgid "SMS was sent!"
+msgstr "СМС было отправлено!"
+
+#: core/class-wpsl-sms.php:57
+msgid "Something went wrong, SMS is not sent. Try again."
+msgstr "Что-то пошло не так, СМС не отправлено. Попробуйте снова."
+
+#: core/class-wpsl-sms.php:62
+msgid "Something went wrong, the query is not executed"
+msgstr "Что-то пошло не так, запрос не выполнен"
+
+#: core/class-wpsl-sms.php:66
+msgid ""
+"The query is not executed. The connection to the server could not be "
+"established. Contact the store."
+msgstr ""
+"Запрос не выполняется. Не удалось установить соединение с сервером. "
+"Обратитесь в магазин."
+
+#: core/class-wpsl-terms-images.php:68 core/class-wpsl-terms-images.php:96
+msgid "Remove"
+msgstr "Удалить"
+
+#: core/class-wpsl-terms-images.php:191
+msgid "Featured Image"
+msgstr "Миниатюра"
+
+#: core/class-wpsl-terms-images.php:198
+msgid "Set featured image"
+msgstr "Выбрать миниатюру"
+
+#: core/class-wpsl-terms-metaboxes.php:136
+msgid "SEO Title"
+msgstr "СЕО заголовок"
+
+#: core/class-wpsl-terms-metaboxes.php:150
+msgid "The text on the category page"
+msgstr "Текст на странице категории"
+
+#: core/class-wpsl-terms-metaboxes.php:152
+msgid "Description meta tag"
+msgstr "Метатег описание"
+
+#: core/theme-support/twentytwelve.php:27
+#, php-format
+msgid "Category Archives: %s"
+msgstr "Архивы категорий: %s"
+
+#: core/widgets/class-wpsl-widget-category.php:20
+msgid "Products sections"
+msgstr "Рубрики товаров"
+
+#: core/widgets/class-wpsl-widget-category.php:22
+msgid "Display sections of product in your online store"
+msgstr "Показывать категории товара в вашем магазине"
+
+#: core/widgets/class-wpsl-widget-category.php:51
+#: core/widgets/class-wpsl-widget-category.php:52
+msgid "Hide in category page"
+msgstr "Скрыть на странице категорий"
+
+#: core/widgets/class-wpsl-widget-category.php:57
+#: core/widgets/class-wpsl-widget-category.php:58
+msgid "Hide in front page"
+msgstr "Скрыть на главной странице"
+
+#: core/widgets/class-wpsl-widget-filter.php:23
+msgid "Products filter"
+msgstr "Фильтр по товарам"
+
+#: core/widgets/class-wpsl-widget-filter.php:25
+msgid "Allows display the filter products by attributes"
+msgstr "Отображает фильтр товаров по характеристикам"
+
+#: core/widgets/class-wpsl-widget-filter.php:47
+msgid "Place on count"
+msgstr "Расположение счетчика"
+
+#: core/widgets/class-wpsl-widget-filter.php:50 options/wpsl-options.php:107
+msgid "Left"
+msgstr "Слева"
+
+#: core/widgets/class-wpsl-widget-filter.php:51 options/wpsl-options.php:108
+msgid "Right"
+msgstr "Справа"
+
+#: core/widgets/class-wpsl-widget-filter.php:52
+msgid "Center"
+msgstr "По центру"
+
+#: core/widgets/class-wpsl-widget-payment.php:21
+msgid "Payment icons"
+msgstr "Иконки оплаты"
+
+#: core/widgets/class-wpsl-widget-payment.php:23
+msgid "Displays the icons of the payment methods in your online store"
+msgstr "Отображает пиктограммы способов оплаты в вашем интернет-магазине"
+
+#: core/widgets/class-wpsl-widget-payment.php:41
+msgid "Visa"
+msgstr "Виза"
+
+#: core/widgets/class-wpsl-widget-payment.php:45
+msgid "MasterCard"
+msgstr "МастерКард"
+
+#: core/widgets/class-wpsl-widget-payment.php:49
+msgid "Maestro"
+msgstr "Маэстро"
+
+#: core/widgets/class-wpsl-widget-payment.php:53
+msgid "Mir"
+msgstr "Мир"
+
+#: core/widgets/class-wpsl-widget-payment.php:69
+msgid "Qiwi"
+msgstr "Киви"
+
+#: core/widgets/class-wpsl-widget-payment.php:73
+msgid "Mailru"
+msgstr "Mailru"
+
+#: core/widgets/class-wpsl-widget-payment.php:106
+msgid "Count of columns"
+msgstr "Количество колонок"
+
+#: core/widgets/class-wpsl-widget-search.php:21
+msgid "Smart search"
+msgstr "Умный поиск"
+
+#: core/widgets/class-wpsl-widget-search.php:23
+msgid "Displays the product search form"
+msgstr "Отображает форму поиска по товарам"
+
+#: core/widgets/class-wpsl-widget-search.php:90
+msgid "Search among"
+msgstr "Поиск по"
+
+#: core/widgets/class-wpsl-widget-search.php:90
+#, php-format
+msgid "%s product"
+msgid_plural "%s products"
+msgstr[0] "%s товару"
+msgstr[1] "%s товарам"
+msgstr[2] "%s товарам"
+
+#: core/widgets/class-wpsl-widget-search.php:95 options/wpsl-options.php:261
+msgid "Search"
+msgstr "Поиск"
+
+#: core/wpsl-currency-functions.php:14
+msgid "Select national currency"
+msgstr "Выберите национальную валюту"
+
+#: core/wpsl-currency-functions.php:21
+msgid "United Arab Emirates dirham"
+msgstr "Объединённые Арабские Эмираты дирхам"
+
+#: core/wpsl-currency-functions.php:28
+msgid "Afghan afghani"
+msgstr "Афганиские афгани"
+
+#: core/wpsl-currency-functions.php:35
+msgid "Albanian lek"
+msgstr "Албанский лек"
+
+#: core/wpsl-currency-functions.php:42
+msgid "Armenian dram"
+msgstr "Армянский драм"
+
+#: core/wpsl-currency-functions.php:49
+msgid "Angolan kwanza"
+msgstr "Анголский кванза"
+
+#: core/wpsl-currency-functions.php:56
+msgid "Argentine peso"
+msgstr "Аргентинский песо"
+
+#: core/wpsl-currency-functions.php:63
+msgid "Australian dollar"
+msgstr "Австралийский долар"
+
+#: core/wpsl-currency-functions.php:70
+msgid "Azerbaijani manat"
+msgstr "Азербайджанский манат"
+
+#: core/wpsl-currency-functions.php:77
+msgid "Bosnia and Herzegovina convertible mark"
+msgstr "Боснийская и Герцоговинская конвертируемая марка"
+
+#: core/wpsl-currency-functions.php:84
+msgid "Bangladeshi taka"
+msgstr "Бангладешская така"
+
+#: core/wpsl-currency-functions.php:91
+msgid "Bulgarian lev"
+msgstr "Болгарский лев"
+
+#: core/wpsl-currency-functions.php:98
+msgid "Bolivian boliviano"
+msgstr "Боливийский боливиано"
+
+#: core/wpsl-currency-functions.php:105
+msgid "Brazilian real"
+msgstr "Бразильские реалы"
+
+#: core/wpsl-currency-functions.php:112
+msgid "Belarusian ruble"
+msgstr "Белорусский рубль"
+
+#: core/wpsl-currency-functions.php:119
+msgid "Belize dollar"
+msgstr "Белизский доллар"
+
+#: core/wpsl-currency-functions.php:126
+msgid "Canadian dollar"
+msgstr "Канадский доллар"
+
+#: core/wpsl-currency-functions.php:133
+msgid "Congolese franc"
+msgstr "Конголезский франк"
+
+#: core/wpsl-currency-functions.php:140
+msgid "Swiss franc"
+msgstr "Швейцарский франк"
+
+#: core/wpsl-currency-functions.php:147
+msgid "Chilean peso"
+msgstr "Чилийский песо"
+
+#: core/wpsl-currency-functions.php:154
+msgid "Chinese yuan"
+msgstr "Китайский юань"
+
+#: core/wpsl-currency-functions.php:161
+msgid "Colombian peso"
+msgstr "Колумбийское песо"
+
+#: core/wpsl-currency-functions.php:168
+msgid "Costa Rican col&oacute;n"
+msgstr "Костариканский колон"
+
+#: core/wpsl-currency-functions.php:175
+msgid "Czech koruna"
+msgstr "Чешская крона"
+
+#: core/wpsl-currency-functions.php:182
+msgid "Danish krone"
+msgstr "Датская крона"
+
+#: core/wpsl-currency-functions.php:189
+msgid "Dominican peso"
+msgstr "Доминиканское песо"
+
+#: core/wpsl-currency-functions.php:196
+msgid "Euro"
+msgstr "Евро, EURO"
+
+#: core/wpsl-currency-functions.php:203
+msgid "Pound sterling"
+msgstr "Фунты стерлингов"
+
+#: core/wpsl-currency-functions.php:210
+msgid "Georgian lari"
+msgstr "Грузинский лари"
+
+#: core/wpsl-currency-functions.php:217
+msgid "Guatemalan quetzal"
+msgstr "Гватемальский кетсаль"
+
+#: core/wpsl-currency-functions.php:224
+msgid "Honduran lempira"
+msgstr "Гондурасская лемпира"
+
+#: core/wpsl-currency-functions.php:231
+msgid "Croatian kuna"
+msgstr "Хорватская куна"
+
+#: core/wpsl-currency-functions.php:238
+msgid "Haitian gourde"
+msgstr "Гаитянский гурд"
+
+#: core/wpsl-currency-functions.php:245
+msgid "Hungarian forint"
+msgstr "Венгерские форинты"
+
+#: core/wpsl-currency-functions.php:252
+msgid "Indonesian rupiah"
+msgstr "Индонезийские рупии"
+
+#: core/wpsl-currency-functions.php:259
+msgid "Israeli new shekel"
+msgstr "Израильские Шекели"
+
+#: core/wpsl-currency-functions.php:266
+msgid "Indian rupee"
+msgstr "Индийские рупии"
+
+#: core/wpsl-currency-functions.php:273
+msgid "Iranian rial"
+msgstr "Иранский риал"
+
+#: core/wpsl-currency-functions.php:280
+msgid "Icelandic kr&oacute;na"
+msgstr "Исландская крона"
+
+#: core/wpsl-currency-functions.php:287
+msgid "Jamaican dollar"
+msgstr "Ямайский доллар"
+
+#: core/wpsl-currency-functions.php:294
+msgid "Jordanian dinar"
+msgstr "Иорданский динар"
+
+#: core/wpsl-currency-functions.php:301
+msgid "Japanese yen"
+msgstr "Японская йена"
+
+#: core/wpsl-currency-functions.php:308
+msgid "Kenyan shilling"
+msgstr "Кенийский шиллинг"
+
+#: core/wpsl-currency-functions.php:315
+msgid "Kyrgyzstani som"
+msgstr "Киргизский сом"
+
+#: core/wpsl-currency-functions.php:322
+msgid "Cambodian riel"
+msgstr "Камбоджийский риель"
+
+#: core/wpsl-currency-functions.php:329
+msgid "Comorian franc"
+msgstr "Комoрский франк"
+
+#: core/wpsl-currency-functions.php:336
+msgid "North Korean won"
+msgstr "Северокорейский вон"
+
+#: core/wpsl-currency-functions.php:343
+msgid "South Korean won"
+msgstr "Южнокорейский вон"
+
+#: core/wpsl-currency-functions.php:350
+msgid "Kuwaiti dinar"
+msgstr "Кувейтский динар"
+
+#: core/wpsl-currency-functions.php:357
+msgid "Kazakhstani tenge"
+msgstr "Казахстанский тенге"
+
+#: core/wpsl-currency-functions.php:364
+msgid "Lao kip"
+msgstr "Лаокский кип"
+
+#: core/wpsl-currency-functions.php:371
+msgid "Sri Lankan rupee"
+msgstr "Шриланкийская рупия"
+
+#: core/wpsl-currency-functions.php:378
+msgid "Liberian dollar"
+msgstr "Либерийский доллар"
+
+#: core/wpsl-currency-functions.php:385
+msgid "Lesotho loti"
+msgstr "Лоти Лесото"
+
+#: core/wpsl-currency-functions.php:392
+msgid "Libyan dinar"
+msgstr "Ливийский динар"
+
+#: core/wpsl-currency-functions.php:399
+msgid "Moroccan dirham"
+msgstr "Марокканский дирхам"
+
+#: core/wpsl-currency-functions.php:406
+msgid "Moldovan leu"
+msgstr "Молдавский лей"
+
+#: core/wpsl-currency-functions.php:413
+msgid "Malagasy ariary"
+msgstr "Малагасийский ариари"
+
+#: core/wpsl-currency-functions.php:420
+msgid "Macedonian denar"
+msgstr "Македонский денар"
+
+#: core/wpsl-currency-functions.php:427
+msgid "Mongolian t&ouml;gr&ouml;g"
+msgstr "Монгольский тугрик"
+
+#: core/wpsl-currency-functions.php:434
+msgid "Mexican peso"
+msgstr "Мексиканское песо"
+
+#: core/wpsl-currency-functions.php:441
+msgid "Malaysian ringgit"
+msgstr "Малайзийский ринггит"
+
+#: core/wpsl-currency-functions.php:448
+msgid "Mozambican metical"
+msgstr "Мозамбикский метикал"
+
+#: core/wpsl-currency-functions.php:455
+msgid "Namibian dollar"
+msgstr "Намибийский доллар"
+
+#: core/wpsl-currency-functions.php:462
+msgid "Nigerian naira"
+msgstr "Нигерийская найра"
+
+#: core/wpsl-currency-functions.php:469
+msgid "Nicaraguan c&oacute;rdoba"
+msgstr "Никарагуанская кордоба"
+
+#: core/wpsl-currency-functions.php:476
+msgid "Norwegian krone"
+msgstr "Норвежская крона"
+
+#: core/wpsl-currency-functions.php:483
+msgid "Nepalese rupee"
+msgstr "Непальская рупия"
+
+#: core/wpsl-currency-functions.php:490
+msgid "New Zealand dollar"
+msgstr "Новозеландский доллар"
+
+#: core/wpsl-currency-functions.php:497
+msgid "Peruvian nuevo sol"
+msgstr "Перуанский новый соль"
+
+#: core/wpsl-currency-functions.php:504
+msgid "Philippine peso"
+msgstr "Филиппинский песо"
+
+#: core/wpsl-currency-functions.php:511
+msgid "Pakistani rupee"
+msgstr "Пакистанская рупия"
+
+#: core/wpsl-currency-functions.php:518
+msgid "Polish z&#x142;oty"
+msgstr "Польский злотый"
+
+#: core/wpsl-currency-functions.php:525
+msgid "Paraguayan guaran&iacute;"
+msgstr "Парагвайский гуарани"
+
+#: core/wpsl-currency-functions.php:532
+msgid "Qatari riyal"
+msgstr "Катарский риял"
+
+#: core/wpsl-currency-functions.php:539
+msgid "Romanian leu"
+msgstr "Румынские леи"
+
+#: core/wpsl-currency-functions.php:546
+msgid "Serbian dinar"
+msgstr "Сербский динар"
+
+#: core/wpsl-currency-functions.php:560
+msgid "Rwandan franc"
+msgstr "Руандский франк"
+
+#: core/wpsl-currency-functions.php:567
+msgid "Saudi riyal"
+msgstr "Саудовский риял"
+
+#: core/wpsl-currency-functions.php:574
+msgid "Swedish krona"
+msgstr "Шведская крона"
+
+#: core/wpsl-currency-functions.php:581
+msgid "Singapore dollar"
+msgstr "Сингапурский доллар"
+
+#: core/wpsl-currency-functions.php:588
+msgid "Sierra Leonean leone"
+msgstr "Сьерра-Леонский леоне"
+
+#: core/wpsl-currency-functions.php:595
+msgid "Somali shilling"
+msgstr "Сомалийский шиллинг"
+
+#: core/wpsl-currency-functions.php:602
+msgid "Surinamese dollar"
+msgstr "Суринамский доллар"
+
+#: core/wpsl-currency-functions.php:609
+msgid "South Sudanese pound"
+msgstr "Южный суданский фунт"
+
+#: core/wpsl-currency-functions.php:616
+msgid "Syrian pound"
+msgstr "Сирийский фунт"
+
+#: core/wpsl-currency-functions.php:623
+msgid "Swazi lilangeni"
+msgstr "Свазилендский лилангени"
+
+#: core/wpsl-currency-functions.php:630
+msgid "Thai baht"
+msgstr "Тайский бат"
+
+#: core/wpsl-currency-functions.php:637
+msgid "Tajikistani somoni"
+msgstr "Таджикский сомони"
+
+#: core/wpsl-currency-functions.php:644
+msgid "Turkmenistan manat"
+msgstr "Туркменский манат"
+
+#: core/wpsl-currency-functions.php:651
+msgid "Tunisian dinar"
+msgstr "Тунисский динар"
+
+#: core/wpsl-currency-functions.php:658
+msgid "Tongan pa&#x2bb;anga"
+msgstr "Тонганский паанга"
+
+#: core/wpsl-currency-functions.php:672
+msgid "Trinidad and Tobago dollar"
+msgstr "Доллары Тринидада и Тобаго"
+
+#: core/wpsl-currency-functions.php:679
+msgid "New Taiwan dollar"
+msgstr "Новый тайваньский доллар"
+
+#: core/wpsl-currency-functions.php:686
+msgid "Tanzanian shilling"
+msgstr "Танзанийский шиллинг"
+
+#: core/wpsl-currency-functions.php:693
+msgid "Ukrainian hryvnia"
+msgstr "Украинская гривна"
+
+#: core/wpsl-currency-functions.php:700
+msgid "Ugandan shilling"
+msgstr "Угандийский шиллинг"
+
+#: core/wpsl-currency-functions.php:707
+msgid "United States dollar"
+msgstr "Доллар США"
+
+#: core/wpsl-currency-functions.php:714
+msgid "Uruguayan peso"
+msgstr "Уругвайское песо"
+
+#: core/wpsl-currency-functions.php:721
+msgid "Uzbekistani som"
+msgstr "Узбекский сом"
+
+#: core/wpsl-currency-functions.php:728
+msgid "Venezuelan bol&iacute;var"
+msgstr "Венесуэльский боливар"
+
+#: core/wpsl-currency-functions.php:735
+msgid "Vietnamese &#x111;&#x1ed3;ng"
+msgstr "Вьетнамский донг"
+
+#: core/wpsl-currency-functions.php:742
+msgid "Vanuatu vatu"
+msgstr "Вануатский вату"
+
+#: core/wpsl-currency-functions.php:749
+msgid "Samoan t&#x101;l&#x101;"
+msgstr "Самоанская тала"
+
+#: core/wpsl-currency-functions.php:756
+msgid "Yemeni rial"
+msgstr "Йеменский риал"
+
+#: core/wpsl-currency-functions.php:763
+msgid "South African rand"
+msgstr "Южноафриканский рэнд"
+
+#: core/wpsl-currency-functions.php:770
+msgid "Zambian kwacha"
+msgstr "Замбийская квача"
+
+#: core/wpsl-general-functions.php:325
+msgid "Order status"
+msgstr "Статус заказа"
+
+#: core/wpsl-general-functions.php:326
+msgid "Payment status"
+msgstr "Статус оплаты"
+
+#: core/wpsl-general-functions.php:327
+msgid "Delivery status"
+msgstr "Статус доставки"
+
+#: core/wpsl-general-functions.php:428 core/wpsl-general-functions.php:466
+#, php-format
+msgid "%s day"
+msgid_plural "%s days"
+msgstr[0] "%s день"
+msgstr[1] "%s дня"
+msgstr[2] "%s дней"
+
+#: core/wpsl-general-functions.php:469
+#, php-format
+msgid "%s hour"
+msgid_plural "%s hours"
+msgstr[0] "%s час"
+msgstr[1] "%s часа"
+msgstr[2] "%s часов"
+
+#: core/wpsl-general-functions.php:472
+#, php-format
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s минута"
+msgstr[1] "%s минуты"
+msgstr[2] "%s минут"
+
+#: core/wpsl-general-functions.php:475
+#, php-format
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s секунда"
+msgstr[1] "%s секунды"
+msgstr[2] "%s секунд"
+
+#: core/wpsl-general-functions.php:499 core/wpsl-template-actions.php:187
+msgid "Auction is ended"
+msgstr "Аукцион завершён"
+
+#: core/wpsl-general-functions.php:655
+msgid "Select"
+msgstr "Выбрать"
+
+#: core/wpsl-general-functions.php:656
+msgid "Make a bid"
+msgstr "Сделать ставку"
+
+#: core/wpsl-general-functions.php:657
+msgid "Fund"
+msgstr "Спонсировать"
+
+#: core/wpsl-general-functions.php:676
+msgid "External/Affiliate product"
+msgstr "Внешний/Партнерский товар"
+
+#: core/wpsl-general-functions.php:677
+msgid "Variable product"
+msgstr "Вариативный товар"
+
+#: core/wpsl-general-functions.php:678
+msgid "Auction product"
+msgstr "Аукционный товар"
+
+#: core/wpsl-general-functions.php:679
+msgid "Sponsorship product"
+msgstr "Спонсорский товар"
+
+#: core/wpsl-general-functions.php:721
+msgid "Ordering"
+msgstr "Оформить"
+
+#: core/wpsl-general-functions.php:999
+msgid "Product assessment"
+msgstr "Оценка товара"
+
+#: core/wpsl-general-functions.php:999
+msgid "No assessments"
+msgstr "Нет оценок"
+
+#: core/wpsl-general-functions.php:1121
+msgctxt "sort"
+msgid "Price"
+msgstr "Цене"
+
+#: core/wpsl-general-functions.php:1126
+msgctxt "sort"
+msgid "Title"
+msgstr "Названию"
+
+#: core/wpsl-general-functions.php:1131
+msgctxt "sort"
+msgid "Date"
+msgstr "Новизне"
+
+#: core/wpsl-general-functions.php:1136
+msgctxt "sort"
+msgid "Popularity"
+msgstr "Популярности"
+
+#: core/wpsl-general-functions.php:1260
+msgid "kg"
+msgstr "кг"
+
+#: core/wpsl-general-functions.php:1261
+msgid "g"
+msgstr "г"
+
+#: core/wpsl-general-functions.php:1262
+msgid "lbs"
+msgstr "фунт"
+
+#: core/wpsl-general-functions.php:1263
+msgid "oz"
+msgstr "унция"
+
+#: core/wpsl-general-functions.php:1281
+msgid "m"
+msgstr "м"
+
+#: core/wpsl-general-functions.php:1282
+msgid "cm"
+msgstr "см"
+
+#: core/wpsl-general-functions.php:1283
+msgid "mm"
+msgstr "мм"
+
+#: core/wpsl-general-functions.php:1284
+msgid "in"
+msgstr "дюйм"
+
+#: core/wpsl-general-functions.php:1285
+msgid "yd"
+msgstr "ярд"
+
+#: core/wpsl-general-functions.php:1533
+msgid "In stock"
+msgstr "В наличии"
+
+#: core/wpsl-general-functions.php:1534
+msgid "Out of stock"
+msgstr "Нет в наличии"
+
+#: core/wpsl-general-functions.php:1535
+msgid "Pre order"
+msgstr "Предзаказ"
+
+#: core/wpsl-import-functions.php:121
+msgid "Could not insert term relationship into the database."
+msgstr "Невозможно вставить термин в базу данных."
+
+#: core/wpsl-import-functions.php:174
+msgid "Invalid post ID."
+msgstr "Неправильный ID."
+
+#: core/wpsl-import-functions.php:202
+msgid "Content, title, and excerpt are empty."
+msgstr "Содержимое, заголовок и анонс пустые."
+
+#: core/wpsl-import-functions.php:251
+msgid "Invalid date."
+msgstr "Неправильная дата."
+
+#: core/wpsl-import-functions.php:368
+msgid "Could not update post in the database"
+msgstr "Не удалось обновить запись в базе данных"
+
+#: core/wpsl-import-functions.php:383
+msgid "Could not insert post into the database"
+msgstr "Не могу вставить запись в базу данных"
+
+#: core/wpsl-import-functions.php:519
+msgid "No import"
+msgstr "Не импортировано"
+
+#: core/wpsl-import-functions.php:520
+msgid "Product id"
+msgstr "ID товара"
+
+#: core/wpsl-import-functions.php:521
+msgid "Product type"
+msgstr "Тип товара"
+
+#: core/wpsl-import-functions.php:523
+msgid "Short excerpt"
+msgstr "Короткий анонс"
+
+#: core/wpsl-import-functions.php:524
+msgid "Content"
+msgstr "Содержимое"
+
+#: core/wpsl-import-functions.php:526
+msgid "Tag"
+msgstr "Метка"
+
+#: core/wpsl-import-functions.php:527
+msgid "Digital product"
+msgstr "Цифровой товар"
+
+#: core/wpsl-import-functions.php:530
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: core/wpsl-import-functions.php:531
+msgid "Gallery"
+msgstr "Галерея"
+
+#: core/wpsl-import-functions.php:533
+msgid "Regular price"
+msgstr "Обычная цена"
+
+#: core/wpsl-import-functions.php:534
+msgid "Sale price"
+msgstr "Цена распродажи"
+
+#: core/wpsl-import-functions.php:543
+msgid "Individual attribute"
+msgstr "Индивидуальная характеристика"
+
+#: core/wpsl-import-functions.php:544
+msgid "Global attribute"
+msgstr "Глобальная характеристика"
+
+#: core/wpsl-import-functions.php:552 options/wpsl-options.php:655
+#: options/wpsl-options.php:656 options/wpsl-options.php:657
+#: options/wpsl-options.php:658 options/wpsl-options.php:659
+#: options/wpsl-options.php:660 options/wpsl-options.php:661
+msgid "Example"
+msgstr "Пример"
+
+#: core/wpsl-template-actions.php:98
+msgid "Best seller"
+msgstr "Хит продаж"
+
+#: core/wpsl-template-actions.php:150
+msgid "Made bets"
+msgstr "Сделано ставок"
+
+#: core/wpsl-template-actions.php:151
+msgid "Now leading"
+msgstr "Сейчас лидирует"
+
+#: core/wpsl-template-actions.php:189
+msgid "Winner"
+msgstr "Победитель"
+
+#: core/wpsl-template-actions.php:189
+msgid "No winner"
+msgstr "Нет победителя"
+
+#: core/wpsl-template-actions.php:215
+#, php-format
+msgid "The bet is made. You can log in to %s"
+msgstr "Ставка сделана. Вы можете войти в %s"
+
+#: core/wpsl-template-actions.php:215
+msgid "personal account"
+msgstr "личный кабинет"
+
+#: core/wpsl-template-actions.php:232
+#, php-format
+msgid "[%s] Received a new order №: %s"
+msgstr "[%s] Получен новый заказ №: %s"
+
+#: core/wpsl-template-actions.php:323
+msgid "Search of products"
+msgstr "Поиск товаров"
+
+#: core/wpsl-template-actions.php:327
+msgid "Filter of products"
+msgstr "Фильтр товаров"
+
+#: core/wpsl-template-actions.php:338
+msgid "Our addresses"
+msgstr "Наши адреса"
+
+#: core/wpsl-template-actions.php:364
+msgid "File not found, please contact the seller"
+msgstr "Файл не найден, пожалуйста, свяжитесь с продавцом"
+
+#: core/wpsl-template-actions.php:375
+msgid "Invalid token, please contact the seller"
+msgstr "Недействительный токен, пожалуйста, свяжитесь с продавцом"
+
+#: core/wpsl-template-filters.php:189
+msgid "Avatar"
+msgstr "Аватар"
+
+#: core/wpsl-template-filters.php:198
+msgid "My orders"
+msgstr "Мои заказы"
+
+#: core/wpsl-template-filters.php:207
+msgid "My profile"
+msgstr "Мой профиль"
+
+#: core/wpsl-template-filters.php:225
+msgid "Create ticket"
+msgstr "Создать заявку"
+
+#: core/wpsl-template-filters.php:234
+msgid "My reviews"
+msgstr "Мои отзывы"
+
+#: core/wpsl-template-filters.php:243 core/wpsl-template-filters.php:704
+#: templates/account/tab-login.php:58
+msgid "Login"
+msgstr "Войти"
+
+#: core/wpsl-template-filters.php:243 templates/account/tab-login.php:65
+msgid "Log out"
+msgstr "Выйти"
+
+#: core/wpsl-template-filters.php:252
+msgid "Lost password"
+msgstr "Забыл пароль"
+
+#: core/wpsl-template-filters.php:261
+msgid "Registration"
+msgstr "Регистрация"
+
+#: core/wpsl-template-filters.php:270
+msgid "Collapse"
+msgstr "Свернуть"
+
+#: core/wpsl-template-filters.php:295
+msgid "There was a problem with your username or password"
+msgstr "Неправильно введено имя или email"
+
+#: core/wpsl-template-filters.php:297
+msgid "You are now logged out"
+msgstr "Вы вышли из системы"
+
+#: core/wpsl-template-filters.php:299
+msgid "Check your e-mail for the confirmation link"
+msgstr "Проверьте электронную почту для подтверждения"
+
+#: core/wpsl-template-filters.php:304
+msgid "Recover Lost Password"
+msgstr "Восстановить утерянный пароль"
+
+#: core/wpsl-template-filters.php:304
+msgid "Lost Password?"
+msgstr "Забыли пароль?"
+
+#: core/wpsl-template-filters.php:346 core/wpsl-template-filters.php:387
+#: core/wpsl-template-filters.php:497
+msgid "Details"
+msgstr "Детали"
+
+#: core/wpsl-template-filters.php:351 core/wpsl-template-filters.php:354
+#: core/wpsl-template-filters.php:456 core/wpsl-template-filters.php:459
+msgid "Select count"
+msgstr "Выберите количество"
+
+#: core/wpsl-template-filters.php:430
+msgid "Select attributes"
+msgstr "Выберите атрибуты"
+
+#: core/wpsl-template-filters.php:439
+msgid "Please, select"
+msgstr "Пожалуйста, выберите"
+
+#: core/wpsl-template-filters.php:449
+msgid "You forgot to select a feature"
+msgstr "Вы забыли выбрать параметр"
+
+#: core/wpsl-template-filters.php:501
+msgid "Minimum fee"
+msgstr "Минимальный взнос"
+
+#: core/wpsl-template-filters.php:505
+msgid "Funded"
+msgstr "Собрано"
+
+#: core/wpsl-template-filters.php:509
+msgid "Until the end of fundraising"
+msgstr "До окончания сбора средств"
+
+#: core/wpsl-template-filters.php:550
+msgid "Until the auction ends"
+msgstr "До окончания аукциона"
+
+#: core/wpsl-template-filters.php:559 core/wpsl-template-filters.php:562
+#: core/wpsl-template-filters.php:565
+msgid "Please, make a bid"
+msgstr "Пожалуйста, сделайте ставку"
+
+#: core/wpsl-template-filters.php:579
+msgid "Buy for blitz price"
+msgstr "Купить за блиц цену"
+
+#: core/wpsl-template-filters.php:622
+msgid "Place an order and pay"
+msgstr "Оформить и оплатить"
+
+#: core/wpsl-template-filters.php:643
+msgid "Minimum order amount"
+msgstr "Минимальная сумма заказа"
+
+#: core/wpsl-template-filters.php:643
+msgid "Please order something else"
+msgstr "Пожалуйста, закажите что-нибудь ещё"
+
+#: core/wpsl-template-filters.php:700
+msgid "Logout"
+msgstr "Выйти"
+
+#: options/class-wpsl-options.php:147
+msgid "Store statistics"
+msgstr "Статистика магазина"
+
+#: options/class-wpsl-options.php:151
+msgid "Sales"
+msgstr "Продажи"
+
+#: options/class-wpsl-options.php:153
+msgid "Tickets"
+msgstr "Тикеты"
+
+#: options/class-wpsl-options.php:155 options/wpsl-options.php:420
+#: options/wpsl-options.php:432 templates/single/product-tabs.php:33
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: options/class-wpsl-options.php:165
+msgid "wpStore options"
+msgstr "Настройки wpStore"
+
+#: options/class-wpsl-options.php:208
+msgid "Reset to default"
+msgstr "Сброс по умолчанию"
+
+#: options/class-wpsl-options.php:265
+msgid "Copy option name"
+msgstr "Копировать имя опции"
+
+#: options/wpsl-options.php:54
+msgid "Store"
+msgstr "Магазин"
+
+#: options/wpsl-options.php:55
+msgid "Base information"
+msgstr "Основная информация"
+
+#: options/wpsl-options.php:61
+msgid "Postal address"
+msgstr "Почтовый адрес"
+
+#: options/wpsl-options.php:62
+msgid "You can leave this field blank"
+msgstr "Это поле можно оставить пустым"
+
+#: options/wpsl-options.php:63
+msgid "Store address offline"
+msgstr "Адрес магазина оффлайн"
+
+#: options/wpsl-options.php:68
+msgid "This can be useful"
+msgstr "Это может быть полезно"
+
+#: options/wpsl-options.php:70
+#, php-format
+msgid ""
+"Your theme does not support all plugin features. Try the %s theme from the "
+"developer or learn %s the plugin into the theme."
+msgstr ""
+"Ваша тема не поддерживает все функции плагина. Попробуйте тему %s от "
+"разработчика или узнайте %s плагин в тему."
+
+#: options/wpsl-options.php:70
+msgid "how to integrate"
+msgstr "как интегрировать"
+
+#: options/wpsl-options.php:78
+msgid "The output via the shortcode [wpsl-contactform]"
+msgstr "Вывод через шорткод [wpsl-contactform]"
+
+#: options/wpsl-options.php:86
+msgid "Currency"
+msgstr "Валюта"
+
+#: options/wpsl-options.php:87
+msgid "Base currency of store"
+msgstr "Базовая валюта магазина"
+
+#: options/wpsl-options.php:95
+msgid "Currency symbol"
+msgstr "Символ валюты"
+
+#: options/wpsl-options.php:96
+msgid "Replaces the default currency symbol"
+msgstr "Заменяет символ валюты по умолчанию"
+
+#: options/wpsl-options.php:103
+msgid "Position"
+msgstr "Расположение"
+
+#: options/wpsl-options.php:104
+msgid "This controls the position of the currency symbol"
+msgstr "Управляет положением символа валюты"
+
+#: options/wpsl-options.php:109
+msgid "Left with space"
+msgstr "Слева с пробелом"
+
+#: options/wpsl-options.php:110
+msgid "Right with space"
+msgstr "Справа с пробелом"
+
+#: options/wpsl-options.php:117
+msgid "Thousand separator"
+msgstr "Разделитель тысяч"
+
+#: options/wpsl-options.php:118
+msgid "This sets the thousand separator of displayed prices"
+msgstr "Задаёт разделитель тысяч в отображаемых ценах"
+
+#: options/wpsl-options.php:125
+msgid "Decimal separator"
+msgstr "Десятичная дробь"
+
+#: options/wpsl-options.php:126
+msgid "This sets the decimal separator of displayed prices"
+msgstr "Задаёт разделитель дробной части в отображаемых ценах"
+
+#: options/wpsl-options.php:133
+msgid "Number of decimals"
+msgstr "Знаки после целого"
+
+#: options/wpsl-options.php:134
+msgid "This sets the number of decimal points shown in displayed prices"
+msgstr "Устанавливает число знаков после запятой в отображаемых ценах"
+
+#: options/wpsl-options.php:143
+msgid "Account page"
+msgstr "Страница кабинета"
+
+#: options/wpsl-options.php:144 options/wpsl-options.php:611
+#: options/wpsl-options.php:643
+msgid "To display the order form, use the shortcode"
+msgstr "Для вывода формы заказа используйте шорткод"
+
+#: options/wpsl-options.php:156
+msgid "Customers will be able to create tickets in personal account"
+msgstr "Клиенты смогут создавать тикеты в личном кабинете"
+
+#: options/wpsl-options.php:163
+msgid "Work schedule"
+msgstr "График работы"
+
+#: options/wpsl-options.php:165
+msgid "Work schedule of technical support"
+msgstr "График работы технической поддержки"
+
+#: options/wpsl-options.php:172
+msgid "Phone number on which customers can solve issues with the site"
+msgstr "Номер телефона, по которому клиенты могут решить проблемы с покупками"
+
+#: options/wpsl-options.php:180
+msgid "Assign an email through which technical support will be provided"
+msgstr ""
+"Укажите электронную почту, через которую будет осуществляться техническая "
+"поддержка"
+
+#: options/wpsl-options.php:189
+msgid "Prevent the creation of a free products and orders"
+msgstr "Запретить создание заявок на бесплатные товары и заказы"
+
+#: options/wpsl-options.php:198
+msgid ""
+"Technical support is provided only through the internal ticket system in "
+"perconal account"
+msgstr ""
+"Техническая поддержка осуществляется только через внутреннюю систему тикетов "
+"в личном кабинете"
+
+#: options/wpsl-options.php:209
+msgid "Settings"
+msgstr "Настройки"
+
+#: options/wpsl-options.php:210
+msgid "Store settings"
+msgstr "Настройки магазина"
+
+#: options/wpsl-options.php:216
+msgid "Performance"
+msgstr "Производительность"
+
+#: options/wpsl-options.php:221
+msgid "Disable emoji"
+msgstr "Отключить эмодзи"
+
+#: options/wpsl-options.php:222
+msgid "Option to disable emoticons and reduce the count of http requests"
+msgstr "Опция отключает смайлики и уменьшает количество http запросов"
+
+#: options/wpsl-options.php:229
+msgid "Combine js"
+msgstr "Объединение js"
+
+#: options/wpsl-options.php:230
+msgid ""
+"Merges all js files into one. After activation, ensure non-conflict with "
+"other plugins"
+msgstr ""
+"Объединяет вас js файлы в один. После активации убедитесь в бесконфликтной "
+"работе с другими плагинами"
+
+#: options/wpsl-options.php:237
+msgid "Allow svg"
+msgstr "Разрешить SVG"
+
+#: options/wpsl-options.php:238
+msgid "After activation refresh the options page"
+msgstr "После изменения обновите страницу"
+
+#: options/wpsl-options.php:247
+msgid "Mobile menu"
+msgstr "Мобильное меню"
+
+#: options/wpsl-options.php:249
+msgid "Enables menus on mobile devices"
+msgstr "Включить меню на мобильных устройствах"
+
+#: options/wpsl-options.php:257
+msgid "Select which parameters users will be able to sort products"
+msgstr "Выберите, по каким параметрам пользователи смогут сортировать товары"
+
+#: options/wpsl-options.php:259
+msgid "Call back"
+msgstr "Кнопка позвонить"
+
+#: options/wpsl-options.php:273
+msgid "Law"
+msgstr "Закон"
+
+#: options/wpsl-options.php:280
+msgid "Personal data processing policy"
+msgstr "Политика обработки персональных данных"
+
+#: options/wpsl-options.php:288
+msgid ""
+"Enter the page which contains information about the policy the processing of "
+"personal data"
+msgstr ""
+"Укажите страницу на которой размещена информация о политике обработки "
+"персональных данных"
+
+#: options/wpsl-options.php:298
+msgid "Text will be displayed in order form"
+msgstr "Текст будет отображен в форме заказа"
+
+#: options/wpsl-options.php:300
+msgid ""
+"Attention! In accordance with the law ... you must read and accept the "
+"personal data processing agreement"
+msgstr ""
+"Внимание! В соответствии с законом ... вы должны прочитать и принять "
+"соглашение об обработке персональных данных"
+
+#: options/wpsl-options.php:310
+msgid "List of products"
+msgstr "Список товаров"
+
+#: options/wpsl-options.php:316
+msgid "Page of showcase"
+msgstr "Страница витрины"
+
+#: options/wpsl-options.php:325
+msgid "Products in the row"
+msgstr "Товаров в строке"
+
+#: options/wpsl-options.php:326 options/wpsl-options.php:334
+msgid "This must be numeric"
+msgstr "Введите только число"
+
+#: options/wpsl-options.php:327
+msgid "How many products should be shown on the line?"
+msgstr "Сколько продуктов должно быть показано в строке?"
+
+#: options/wpsl-options.php:333
+msgid "Number of rows"
+msgstr "Количество строк"
+
+#: options/wpsl-options.php:335
+msgid "How many product lines should be shown on the page?"
+msgstr "Сколько строк товаров должно быть показано на странице?"
+
+#: options/wpsl-options.php:343
+msgid "Sorting"
+msgstr "Сортировка"
+
+#: options/wpsl-options.php:345
+msgid "Show the sorting of products above the storefront"
+msgstr "Показывать сортировку товаров над витриной"
+
+#: options/wpsl-options.php:353
+msgid "Sort fields"
+msgstr "Поля сортировки"
+
+#: options/wpsl-options.php:355
+msgid "By price"
+msgstr "По цене"
+
+#: options/wpsl-options.php:356
+msgid "Popularity"
+msgstr "Популярность"
+
+#: options/wpsl-options.php:357
+msgid "By name"
+msgstr "По имени"
+
+#: options/wpsl-options.php:358
+msgid "By date"
+msgstr "По дате"
+
+#: options/wpsl-options.php:373
+msgid "Placeholder image"
+msgstr "Изображение заполнитель"
+
+#: options/wpsl-options.php:375
+msgid "Will be used if the item has no picture"
+msgstr "Будет использоваться, если элемент не имеет изображения"
+
+#: options/wpsl-options.php:389
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: options/wpsl-options.php:396
+msgid "Transfer attributes of a product to tab"
+msgstr "Переносит характеристики товара в отдельную вкладку"
+
+#: options/wpsl-options.php:402
+msgid "Сount of tabs"
+msgstr "Количество вкладок"
+
+#: options/wpsl-options.php:404
+msgid "Save options and refresh the page"
+msgstr "Сохраните опции и обновите страницу"
+
+#: options/wpsl-options.php:431 options/wpsl-options.php:470
+msgid "Name of the tab"
+msgstr "Название вкладки"
+
+#: options/wpsl-options.php:440 options/wpsl-options.php:479
+msgid "Icon of the tab"
+msgstr "Иконка вкладки"
+
+#: options/wpsl-options.php:449
+msgid "Rules for reviews"
+msgstr "Правила отзывов"
+
+#: options/wpsl-options.php:455 options/wpsl-options.php:471
+msgid "Tab"
+msgstr "Вкладка"
+
+#: options/wpsl-options.php:488
+msgid "Fill of the tab"
+msgstr "Заполнение вкладки"
+
+#: options/wpsl-options.php:497
+msgid "Single product"
+msgstr "Карточка товара"
+
+#: options/wpsl-options.php:503
+msgid "Measurements"
+msgstr "Габариты"
+
+#: options/wpsl-options.php:508
+msgid "Weight unit"
+msgstr "Единица измерения веса"
+
+#: options/wpsl-options.php:510
+msgid "This controls what unit you will define weights in"
+msgstr "Здесь определяется единица измерения, в которой определяется вес"
+
+#: options/wpsl-options.php:517
+msgid "Dimensions unit"
+msgstr "Единица измерения габаритов"
+
+#: options/wpsl-options.php:518
+msgid "This controls what unit you will define lengths in"
+msgstr "Здесь определяется единица измерения, в которой определяется длина"
+
+#: options/wpsl-options.php:529
+msgid "Badges"
+msgstr "Значки"
+
+#: options/wpsl-options.php:534
+msgid "Icon \"New\""
+msgstr "Значок \"Новое\""
+
+#: options/wpsl-options.php:544
+msgid ""
+"The number of days from the date the product was published to be considered "
+"new. If you do not want to display the icon, leave the field blank"
+msgstr ""
+"Количество дней с даты публикации товара когда он будет считаться новым. "
+"Если вы не хотите его отображать, оставьте поле пустым"
+
+#: options/wpsl-options.php:551
+msgid "Icon \"Discount\""
+msgstr "Значок \"Скидка\""
+
+#: options/wpsl-options.php:552 options/wpsl-options.php:561
+msgid "Set manually on the edit page of an individual product"
+msgstr "Устанавливается вручную на странице редактирования отдельного товара"
+
+#: options/wpsl-options.php:560
+msgid "Icon \"Best seller\""
+msgstr "Значок \"Хит продаж\""
+
+#: options/wpsl-options.php:571 templates/single/product-similar.php:22
+msgid "Similar products"
+msgstr "Похожие товары"
+
+#: options/wpsl-options.php:573
+msgid "Output similar products"
+msgstr "Выход аналогичных товаров"
+
+#: options/wpsl-options.php:580
+msgid "Number of similar products"
+msgstr "Количество похожих товаров"
+
+#: options/wpsl-options.php:590
+msgid "Variable products"
+msgstr "Вариативные товары"
+
+#: options/wpsl-options.php:591
+msgid "Display only minimal price"
+msgstr "Отображение только минимальной цены"
+
+#: options/wpsl-options.php:603 options/wpsl-options.php:609
+msgid "Cart page"
+msgstr "Страница корзины"
+
+#: options/wpsl-options.php:618
+msgid "Minimum order"
+msgstr "Минимальный заказ"
+
+#: options/wpsl-options.php:620
+msgid ""
+"If the cart of products less than the specified amount, order will be "
+"impossible"
+msgstr "Если в корзине товаров меньше указанной суммы, заказ будет невозможен"
+
+#: options/wpsl-options.php:626
+msgid "Single-piece product"
+msgstr "Штучный товар"
+
+#: options/wpsl-options.php:627
+msgid "The buyer will not be able to order more than one unit of each item"
+msgstr "Покупатель не сможет заказать более одной единицы товара"
+
+#: options/wpsl-options.php:628
+msgid "Activate if you sell the piece"
+msgstr "Активация продаж штучных товаров"
+
+#: options/wpsl-options.php:636 options/wpsl-options.php:641
+msgid "Order page"
+msgstr "Страница заказа"
+
+#: options/wpsl-options.php:650
+msgid "Order numeration"
+msgstr "Нумерация заказов"
+
+#: options/wpsl-options.php:651
+msgid ""
+"Generates the names of the orders. When changing, does not change the "
+"numbering of already created orders"
+msgstr ""
+"Генерация названия заказов. При изменении, не меняет нумерацию уже созданных "
+"заказов"
+
+#: options/wpsl-options.php:655
+#, php-format
+msgid "Default. %s: %s"
+msgstr "По умолчанию. %s: %s"
+
+#: options/wpsl-options.php:656
+#, php-format
+msgid "Numbering from a certain number. %s: %s"
+msgstr "Нумерация с определенного числа. %s: %s"
+
+#: options/wpsl-options.php:657
+#, php-format
+msgid "User ID and order number. %s: %s"
+msgstr "ID пользователя и номер заказа. %s: %s"
+
+#: options/wpsl-options.php:658
+#, php-format
+msgid "Random unique number. %s: %s"
+msgstr "Случайный уникальный номер. %s: %s"
+
+#: options/wpsl-options.php:659
+#, php-format
+msgid "Numbering within a day. %s: %s"
+msgstr "Нумерация за день. %s: %s"
+
+#: options/wpsl-options.php:660
+#, php-format
+msgid "Numbering within a month. %s: %s"
+msgstr "Нумерация за месяц. %s: %s"
+
+#: options/wpsl-options.php:661
+#, php-format
+msgid "Numbering within a year. %s: %s"
+msgstr "Нумерация за год. %s: %s"
+
+#: options/wpsl-options.php:667
+msgid "Fields of the order"
+msgstr "Поля заказа"
+
+#: options/wpsl-options.php:676 options/wpsl-options.php:689
+#: options/wpsl-options.php:702
+msgid "Select the status field"
+msgstr "Выберите поле статуса"
+
+#: options/wpsl-options.php:680 options/wpsl-options.php:693
+#: options/wpsl-options.php:706
+msgid "Not active"
+msgstr "Не активно"
+
+#: options/wpsl-options.php:681 options/wpsl-options.php:694
+#: options/wpsl-options.php:707
+msgid "Active"
+msgstr "Активно"
+
+#: options/wpsl-options.php:682 options/wpsl-options.php:695
+#: options/wpsl-options.php:708
+msgid "Required"
+msgstr "Обязательно"
+
+#: options/wpsl-options.php:701
+msgid "Additionaly"
+msgstr "Дополнительно"
+
+#: options/wpsl-options.php:721
+msgid "Enable"
+msgstr "Включить"
+
+#: options/wpsl-options.php:723
+msgid "Enable coupon support in cart"
+msgstr "Включить поддержку купонов в корзине"
+
+#: options/wpsl-options.php:734
+msgid "Shipping settings"
+msgstr "Настройки доставки"
+
+#: options/wpsl-options.php:745
+msgid "Enable shipping"
+msgstr "Включить доставку"
+
+#: options/wpsl-options.php:747
+msgid "After changing the setting, refresh the page"
+msgstr "После изменения настройки обновите страницу"
+
+#: options/wpsl-options.php:756
+msgid "Default shipping type"
+msgstr "Тип доставки по умолчанию"
+
+#: options/wpsl-options.php:769
+msgid "Sending email"
+msgstr "Отправка email"
+
+#: options/wpsl-options.php:775
+msgid "Sender"
+msgstr "Отправитель"
+
+#: options/wpsl-options.php:780
+msgid "\"From\" name"
+msgstr "Имя \"От кого\""
+
+#: options/wpsl-options.php:781
+msgid "How the sender name is displayed"
+msgstr "Как отображается имя отправителя"
+
+#: options/wpsl-options.php:789
+msgid "To administrator"
+msgstr "Администратору"
+
+#: options/wpsl-options.php:794 options/wpsl-options.php:809
+msgid "Subject of \"new order\""
+msgstr "Тема \"новый заказ\""
+
+#: options/wpsl-options.php:797
+msgid "Received new order"
+msgstr "Получен новый заказ"
+
+#: options/wpsl-options.php:804
+msgid "To buyer"
+msgstr "Покупателю"
+
+#: options/wpsl-options.php:812
+msgid "Your order has been received and is in process our manager"
+msgstr "Ваш заказ получен и находится в обработке нашим менеджером"
+
+#: options/wpsl-options.php:821
+msgid "Sms"
+msgstr "СМС"
+
+#: options/wpsl-options.php:822
+msgid "Sending SMS"
+msgstr "Отправка SMS"
+
+#: options/wpsl-options.php:828
+msgid "Gateway settings"
+msgstr "Настройки шлюза"
+
+#: options/wpsl-options.php:833
+msgid "Url to send SMS via http"
+msgstr "Url для отправки SMS через http"
+
+#: options/wpsl-options.php:841 options/wpsl-options.php:849
+msgid "Your"
+msgstr "Ваш"
+
+#: options/wpsl-options.php:843
+msgid ""
+"This can be a password, API ID, or other secret code to send SMS. For "
+"receiving please refer to SMS gateway."
+msgstr ""
+"Это может быть пароль, API ID, или иной секретный код для отправки СМС. Для "
+"получения обратитесь к СМС шлюзу."
+
+#: options/wpsl-options.php:851
+msgid "If the formation of the http request requires login."
+msgstr "Если для формирования http запроса требуется логин."
+
+#: options/wpsl-options.php:859
+msgid "SMS sending"
+msgstr "Отправка SMS"
+
+#: options/wpsl-options.php:864
+msgid "SMS to administrator"
+msgstr "SMS администратору"
+
+#: options/wpsl-options.php:866
+msgid "Send to administrator about new order"
+msgstr "Отправить СМС администратору о новом заказе"
+
+#: options/wpsl-options.php:873
+msgid "The phone of administrator"
+msgstr "Телефон администратора"
+
+#: options/wpsl-options.php:875
+msgid "The cost of 1 SMS at the rates of your SMS gateway"
+msgstr "Стоимость 1 SMS по тарифам вашего SMS шлюза"
+
+#: options/wpsl-options.php:882
+msgid "SMS to buyer"
+msgstr "СМС покупателю"
+
+#: options/wpsl-options.php:884
+msgid "Send SMS to the buyer after ordering"
+msgstr "Отправить СМС покупателю после заказа"
+
+#: options/wpsl-options.php:891
+msgid "Text of SMS"
+msgstr "Текст СМС"
+
+#: options/wpsl-options.php:892
+msgid ""
+"1 SMS = 160 latin or 70 cyrillic characters. The length of the message "
+"includes spaces and punctuation"
+msgstr ""
+"1 SMS = 160 латинских или 70 кириллических символов. Длина сообщения "
+"включает пробелы и знаки препинания"
+
+#: options/wpsl-options.php:894
+msgid "Thank you for being with us"
+msgstr "Спасибо, что вы с нами"
+
+#: options/wpsl-options.php:902
+msgid "Verification"
+msgstr "Проверка"
+
+#: options/wpsl-options.php:904
+msgid "Enable sending a verification code via SMS in order page"
+msgstr "Включить отправку проверочного кода по СМС на странице заказа"
+
+#: options/wpsl-options.php:911
+msgid "Password"
+msgstr "Пароль"
+
+#: options/wpsl-options.php:913
+msgid "Current password to confirm phone"
+msgstr "Текущий пароль подтверждения телефона"
+
+#: options/wpsl-options.php:927 options/wpsl-options.php:934
+msgid "Payment"
+msgstr "Оплата"
+
+#: options/wpsl-options.php:928
+msgid "Payment gateways"
+msgstr "Платёжные шлюзы"
+
+#: options/wpsl-options.php:936
+msgid "Enable selection of payment methods"
+msgstr "Включить возможность выбора способов оплаты"
+
+#: options/wpsl-options.php:943 options/wpsl-options.php:945
+msgid "Payment page"
+msgstr "Страница оплаты"
+
+#: options/wpsl-options.php:953 options/wpsl-options.php:1019
+#: options/wpsl-options.php:1101
+msgid "Secret code"
+msgstr "Секретный код"
+
+#: options/wpsl-options.php:954
+msgid ""
+"This is a secret code that will allow you to receive notifications from the "
+"payment gateway about incoming payments or transfers via HTTPS (HTTP) if it "
+"supports this feature"
+msgstr ""
+"Это секретный код, который позволит принимать уведомления от платежного "
+"шлюза о входящих платежах или переводах через HTTPS (HTTP), если он "
+"поддерживает эту функцию"
+
+#: options/wpsl-options.php:964
+msgid "Cash payment"
+msgstr "Наличными"
+
+#: options/wpsl-options.php:975 options/wpsl-options.php:1004
+#: options/wpsl-options.php:1084 options/wpsl-options.php:1132
+#: options/wpsl-options.php:1169 options/wpsl-options.php:1198
+msgid "Icon of the payment method"
+msgstr "Пиктограмма метода оплаты"
+
+#: options/wpsl-options.php:984 options/wpsl-options.php:1065
+#: options/wpsl-options.php:1111 options/wpsl-options.php:1149
+#: options/wpsl-options.php:1178 options/wpsl-options.php:1207
+msgid "Note the method of payment"
+msgstr "Примечание к методу оплаты"
+
+#: options/wpsl-options.php:985
+msgid "Payment in cash at self-shipping or courier shipping"
+msgstr "Оплата наличными при самовывозе или курьерской доставкой"
+
+#: options/wpsl-options.php:1011
+msgid "Account number"
+msgstr "Номер аккаунта"
+
+#: options/wpsl-options.php:1012
+msgid "To integrate the payment system Yandex.Money, enter the account number"
+msgstr "Для интеграции платежной системы Яндекс.Деньги, укажите номер кошелька"
+
+#: options/wpsl-options.php:1020 options/wpsl-options.php:1102
+#, php-format
+msgid "%s to authenticate notifications"
+msgstr "%s для проверки подлинности уведомлений"
+
+#: options/wpsl-options.php:1020 options/wpsl-options.php:1102
+msgid "Get a secret code"
+msgstr "Получить секретный код"
+
+#: options/wpsl-options.php:1020
+msgid "Notification receiving address"
+msgstr "Адрес получения уведомлений"
+
+#: options/wpsl-options.php:1027
+msgid "FIO"
+msgstr "ФИО"
+
+#: options/wpsl-options.php:1029 options/wpsl-options.php:1038
+#: options/wpsl-options.php:1047 options/wpsl-options.php:1056
+msgid "Should the buyer enter this data?"
+msgstr "Должен ли покупатель ввести эти данные?"
+
+#: options/wpsl-options.php:1066
+msgid "Instant payment"
+msgstr "Моментальная оплата"
+
+#: options/wpsl-options.php:1092
+msgid "Purse"
+msgstr "Кошелек"
+
+#: options/wpsl-options.php:1093
+msgid "Purse number of Webmoney"
+msgstr "Кошелек номер Webmoney"
+
+#: options/wpsl-options.php:1139
+msgid "Email of seller"
+msgstr "Email продавца"
+
+#: templates/account/tab-avatar.php:17
+msgid "Online"
+msgstr "Онлайн"
+
+#: templates/account/tab-avatar.php:19
+msgid "Offline"
+msgstr "Оффлайн"
+
+#: templates/account/tab-login.php:22 templates/account/tab-login.php:25
+#: templates/account/tab-lostpassword.php:22
+#: templates/account/tab-lostpassword.php:25
+msgid "User name or email"
+msgstr "Имя пользователя или e-mail"
+
+#: templates/account/tab-login.php:32 templates/account/tab-login.php:35
+msgid "User password"
+msgstr "Пароль"
+
+#: templates/account/tab-login.php:42
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: templates/account/tab-lostpassword.php:38
+msgid "Send new password"
+msgstr "Отправить новый пароль"
+
+#: templates/account/tab-orders.php:28
+msgid "You have no orders"
+msgstr "У вас нет заказов"
+
+#: templates/account/tab-orders.php:29
+msgid "After making the first purchase, you will be able to follow your orders"
+msgstr ""
+"После совершения первой покупки, здесь вы сможете следить за своими заказами"
+
+#: templates/account/tab-orders.php:34
+msgid "To receive order details, select one from the list"
+msgstr "Чтобы получить сведения о заказе, выберите любой из списка"
+
+#: templates/account/tab-profile.php:58 templates/account/tab-profile.php:61
+msgid "ZIP or postal code"
+msgstr "Индекс"
+
+#: templates/account/tab-profile.php:68 templates/account/tab-profile.php:71
+msgid "About"
+msgstr "О покупателе"
+
+#: templates/account/tab-registration.php:24
+#: templates/account/tab-registration.php:27
+msgid "User name"
+msgstr "Имя пользователя"
+
+#: templates/account/tab-registration.php:34
+#: templates/account/tab-registration.php:37
+msgid "User email"
+msgstr "E-mail пользователя"
+
+#: templates/account/tab-reviews.php:21
+msgid "Review"
+msgstr "Отзыв"
+
+#: templates/account/tab-reviews.php:28
+msgid "Leave a review about this product!"
+msgstr "Оставьте отзыв об этом товаре!"
+
+#: templates/account/tab-reviews.php:36
+msgid "You have no reviews"
+msgstr "У вас пока нет отзывов"
+
+#: templates/account/tab-reviews.php:37
+msgid "Evaluate the purchased products!"
+msgstr "Оставьте свой отзыв о приобретенных товарах!"
+
+#: templates/account/tab-support.php:33
+msgid "There are no support tickets"
+msgstr "Нет заявок на техническую поддержку"
+
+#: templates/account/tab-support.php:34
+msgid ""
+"From here you can ask for support’s help & preview support tickets history"
+msgstr ""
+"Отсюда вы можете обратиться за помощью в техническую поддержку и "
+"просматривать историю заявок"
+
+#: templates/account/tab-support.php:39
+msgid "To receive ticket details, select one from the list"
+msgstr "Чтобы получить детали тикета, выберите любой из списка"
+
+#: templates/account/tab-ticket.php:32
+msgid "On a free theme"
+msgstr "На свободную тему"
+
+#: templates/account/tab-ticket.php:45 templates/account/tab-ticket.php:48
+msgid "Ticket title"
+msgstr "Тема заявки"
+
+#: templates/account/tab-ticket.php:55
+msgid "Select № of order"
+msgstr "Выберите № заказа"
+
+#: templates/account/tab-ticket.php:69 templates/account/tab-ticket.php:72
+msgid "Ticket text"
+msgstr "Текст заявки"
+
+#: templates/cart/cart-mini.php:26
+msgid "Go to cart"
+msgstr "Перейти в корзину"
+
+#: templates/cart/cart.php:29
+msgid "Quantity"
+msgstr "Количество"
+
+#: templates/cart/cart.php:50 templates/cart/cart.php:53
+#: templates/cart/cart.php:55
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: templates/cart/cart.php:65
+msgid "Proceed to checkout"
+msgstr "Оформить заказ"
+
+#: templates/cart/proceed-to-sponsoring-button.php:24
+msgid "Make a money transfer"
+msgstr "Сделать денежный перевод"
+
+#: templates/email/admin-order-received.php:26
+#, php-format
+msgid "New order with number №%s"
+msgstr "Новый заказ с номером №%s"
+
+#: templates/email/admin-order-received.php:27
+#: templates/email/admin-payment-received.php:27
+msgid "View details"
+msgstr "Посмотреть детали"
+
+#: templates/email/admin-order-received.php:28
+#: templates/email/customer-payment-received.php:27
+msgid "List of products in order"
+msgstr "Список товаров в заказе"
+
+#: templates/email/admin-payment-received.php:26
+#: templates/email/customer-payment-received.php:26
+#, php-format
+msgid "Received the payment the order number №%s"
+msgstr "Получена оплата заказа с номером №%s"
+
+#: templates/email/customer-order-received.php:26
+#, php-format
+msgid "List of products in order №%s:"
+msgstr "Список товаров в заказе №%s:"
+
+#: templates/email/customer-order-received.php:30
+msgid "Links for payment"
+msgstr "Ссылки для оплаты"
+
+#: templates/email/email.php:47
+msgid "Yours faithfully"
+msgstr "С уважением"
+
+#: templates/loop/no-products-found.php:19
+#: templates/loop/no-products-found.php:20
+msgid "No products were found matching your selection."
+msgstr "Не найдено ни одного товара, соответствующего вашему выбору."
+
+#: templates/loop/product-price-variable.php:20
+#: templates/single/price-variable.php:24
+msgid "from"
+msgstr "от"
+
+#: templates/loop/product-sorting.php:20
+msgid "Sort by"
+msgstr "Сортировать по"
+
+#: templates/order/order-contact.php:32 templates/order/order-contact.php:42
+#: templates/order/order-contact.php:82 templates/order/order-pay.php:30
+#: templates/order/order-shipping.php:31
+msgid "The field must be filled"
+msgstr "Поле должно быть заполнено"
+
+#: templates/order/order-contact.php:48
+msgid "Your phone"
+msgstr "Ваш телефон"
+
+#: templates/order/order-contact.php:58
+msgid "Get code"
+msgstr "Получить код"
+
+#: templates/order/order-contact.php:60
+msgid "Code from SMS"
+msgstr "Код из СМС"
+
+#: templates/order/order-contact.php:68 templates/order/order-contact.php:70
+msgid "Additional information"
+msgstr "Дополнительная информация"
+
+#: templates/order/order-contact.php:78
+msgid "Confirmation code from SMS"
+msgstr "Код подтверждения из СМС"
+
+#: templates/order/order-form.php:25
+msgid "Leave your contact details for ordering"
+msgstr "Оставьте контакты для оформления заказа"
+
+#: templates/order/order-form.php:33
+msgid "Shipping details"
+msgstr "Детали доставки"
+
+#: templates/order/order-form.php:42
+msgid "Payment details"
+msgstr "Детали оплаты"
+
+#: templates/order/order-form.php:52
+msgid "I have read and agree to the website"
+msgstr "Я прочитал и согласен с"
+
+#: templates/order/order-form.php:52
+msgid "terms and conditions"
+msgstr "условиями и соглашением"
+
+#: templates/order/order-pay.php:27 templates/order/order-pay.php:29
+msgid "Select payment methods"
+msgstr "Выберите способ оплаты"
+
+#: templates/order/order-sended.php:23
+msgid "Your order is in processing"
+msgstr "Ваш заказ находится в обработке"
+
+#: templates/order/order-shipping.php:28 templates/order/order-shipping.php:30
+msgid "Select shipping type"
+msgstr "Выберите тип доставки"
+
+#: templates/payment/payment-empty.php:23
+msgid "Order not found"
+msgstr "Заказ не найден"
+
+#: templates/payment/payment-successful.php:23
+#, php-format
+msgid "The order with №%s has been successfully paid"
+msgstr "Заказ с №%s был успешно оплачен"
+
+#: templates/payment/payment.php:26
+msgid "Your order code is №"
+msgstr "Код вашего заказа №"
+
+#: templates/payment/payment.php:29
+msgid "The service provides the payment system"
+msgstr "Услугу предоставляет платежная система"
+
+#: templates/payment/payment.php:30
+msgid "The amount to be paid on order"
+msgstr "Сумма к оплате заказа"
+
+#: templates/payment/payment.php:32
+msgid "You will be redirected to the payment gateway"
+msgstr "Вы будете перенаправлены на страницу платёжного шлюза"
+
+#: templates/payment/payment.php:34
+msgid ""
+"Please note: if you waive the purchase, for a refund you have to contact the "
+"store."
+msgstr ""
+"Обратите внимание: если вы отказываетесь от покупки, для возврата денег вам "
+"придется обратиться в магазин."
+
+#: templates/single/price-auction.php:24
+msgid "Current price"
+msgstr "Текущая цена"
+
+#: templates/single/price-sponsorship.php:20
+msgid "Project goal"
+msgstr "Цель проекта"
+
+#: templates/single/price-variable.php:20
+msgid "Prices"
+msgstr "Цены"
+
+#: templates/single/product-reviews.php:42
+#: templates/single/product-reviews.php:47
+msgid "Your assessment"
+msgstr "Ваша оценка"
+
+#: templates/single/product-reviews.php:52
+msgid "Advantages"
+msgstr "Преимущества"
+
+#: templates/single/product-reviews.php:62
+msgid "Disadvantages"
+msgstr "Недостатки"
+
+#: templates/single/product-reviews.php:75
+msgid "Your comment"
+msgstr "Ваш комментарий"
+
+#: templates/single/product-reviews.php:127
+msgid "Average assessment"
+msgstr "Общая оценка"
+
+#: templates/single/product-reviews.php:132
+#: templates/single/product-reviews.php:138
+#: templates/single/product-reviews.php:144
+#: templates/single/product-reviews.php:150
+#: templates/single/product-reviews.php:156
+#, php-format
+msgid "%s review"
+msgid_plural "%s reviews"
+msgstr[0] "%s отзыв"
+msgstr[1] "%s отзыва"
+msgstr[2] "%s отзывов"
+
+#: templates/single/product-reviews.php:161
+#, php-format
+msgid "All %s review"
+msgid_plural "All %s reviews"
+msgstr[0] "Все %s отзыв"
+msgstr[1] "Все %s отзыва"
+msgstr[2] "Все %s отзывов"
+
+#: templates/single/product-reviews.php:167
+msgid "Add review"
+msgstr "Добавить отзыв"
+
+#: templates/single/product-side-atts.php:19
+#: templates/single/product-tabs.php:24
+msgid "Characteristics"
+msgstr "Характеристики"
+
+#: templates/single/product-side-atts.php:57
+msgid "Sizes"
+msgstr "Размеры"
+
+#: templates/single/product-side-price.php:20
+msgid "Old price"
+msgstr "Старая цена"
+
+#: templates/widgets/product-filter.php:44
+msgid "Select all"
+msgstr "Выбрать все"
+
+#: templates/widgets/product-filter.php:44
+msgid "Reset"
+msgstr "Сбросить"

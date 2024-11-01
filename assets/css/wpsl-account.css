@@ -1,0 +1,416 @@
+/* TABS CONTAINER */
+.wpsl-account{
+	float: left;
+	width: 100%;
+	padding-bottom: 40px;
+}
+.wpsl-account__menu{
+	display: inline-block;
+	float: left;
+	width: 210px;
+	border-right: 1px solid #eaeaea;
+	box-sizing: border-box;
+	padding-right: 30px;
+}
+.wpsl-account__menu.collapsed{
+	width: 70px;
+}
+.wpsl-account__menu_item{
+	font-size: 14px;
+	line-height: 1.3;
+	float: left;
+	width: 100%;
+	padding: 7px 12px;
+	margin: 3px 0;
+	box-sizing: border-box;
+	color: #999999;
+	overflow: hidden;
+	white-space: nowrap;
+}
+.wpsl-account__menu.collapsed > div{
+	font-size: 0;
+	padding: 7px 0;
+	position: relative;
+	text-align: center;
+}
+.wpsl-account__menu.collapsed > div i{
+	margin: 0;
+	display: block;
+}
+.wpsl-account__menu.collapsed .avatar > span{
+	position: relative;
+	display: table;
+	margin-bottom: 10px;
+}
+.wpsl-account__menu.collapsed .notif{
+	text-align: center;
+	float: initial;
+	margin-top: 5px;
+}
+.wpsl-account__menu.collapsed .no-icon i{
+	opacity: 1;
+}
+.wpsl-account__menu_item.check{
+	cursor: pointer;
+}
+.wpsl-account__menu_item.avatar{
+	padding: 0 0 30px;
+	overflow: visible;
+	position: relative;
+	height: 195px;
+}
+.wpsl-account__menu_item.avatar img{
+	-webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+			border-radius: 15px;
+	height: auto;
+	width: 100%;
+}
+.wpsl-account__menu_item.avatar > span{
+	position: absolute;
+	background-color: #d0e2a4;
+	padding: 3px 7px;
+	font-size: 12px;
+	right: 5px;
+	top: 5px;
+	color: #5f6159;
+	-webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+			border-radius: 15px;
+}
+.wpsl-account__menu_item .notif{
+	background-color: #f1f1f1;
+	border-radius: 30px;
+	padding: 2px 7px;
+	font-size: 12px;
+	float: right;
+	display: inline-block;
+	text-align: center;
+}
+.wpsl-account__menu_item:hover .notif, .wpsl-account__menu_item.active .notif{
+	background-color: #ffffff;
+}
+.wpsl-account__menu_item.active, .wpsl-account__menu_item.check:hover, .wpsl-account__menu_item.collapse:hover{
+	background-color: #f1f1f1;
+	-webkit-border-radius: 15px;
+	   -moz-border-radius: 15px;
+			border-radius: 15px;
+	color: inherit;
+}
+.wpsl-account__menu_item i{
+	margin-right: 7px;
+}
+.wpsl-account__menu_item.no-icon{
+	font-size: 13px;
+	color: #999999;
+	background-color: transparent !important;
+}
+.wpsl-account__menu_item.no-icon:hover{
+	background-color: transparent;
+}
+.wpsl-account__menu_item.no-icon i{
+	opacity: 0;
+}
+.wpsl-account__menu_item.collapse{
+	cursor: pointer;
+}
+.wpsl-account__tabs{
+	display: inline-block;
+	float: left;
+	box-sizing: border-box;
+	padding-left: 30px;
+	margin-left: -1px;
+	width: calc(100% - 211px);
+	border-left: 1px solid #eaeaea;
+}
+.wpsl-account__tabs.collapsed{
+	width: calc(100% - 70px);
+}
+.wpsl-account__tabs_item{
+	display: none;
+}
+.wpsl-account__tabs_item.active{
+	display: block;
+	float: left;
+	min-height: 440px;
+	width: 100%;
+}
+.wpsl-account__tabs_item .list{
+	width: 150px;
+	float:left;
+	font-size: 14px;
+	box-sizing: border-box;
+	padding: 20px;
+	min-height: 440px;
+	background-color: #f8f8f8;
+	display: inline-block;
+}
+.wpsl-account__tabs_item .content{
+	width: calc(100% - 150px);
+	padding: 20px;
+	min-height: 440px;
+	box-sizing: border-box;
+	float:left;
+	font-size: 14px;
+	display: inline-block;
+}
+
+/* PROFILE TAB */
+.wpsl-profile{
+	
+}
+
+/* SUPPORT TAB */
+.wpsl-support{
+	float:left;
+	width: 100%;
+	position: relative;
+}
+.wpsl-support__list .ticket{
+	cursor: pointer;
+}
+
+/* TICKETS TAB */
+.wpsl-ticket{
+	
+}
+.create-ticket input, .create-ticket select, .create-ticket textarea{
+	width: 100%;
+}
+.ticket-details .comments{
+	
+}
+.ticket-details .comments ul, .ticket-details .comments ul li{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.ticket-details .comments ul li{
+	padding: 10px 25px;
+}
+.ticket-details .comments ul li:nth-child(2n){
+	background-color: #f8f8f8;
+}
+.ticket-details .comments ul li:nth-child(2n+1){
+	background-color: #ffffff;
+}
+.ticket-details .comments ul li .author{
+	font-weight: 700;
+	font-size: 13px;
+}
+
+/* LOGIN TAB */
+.wpsl-login{
+	
+}
+
+/* REGISTER TAB */
+.wpsl-register{
+	
+}
+
+/* REGISTER LOSTPASSWORD */
+.wpsl-lost{
+	
+}
+
+
+
+
+/* ORDERS */
+.wpsl-orders .order-list .order{
+	cursor: pointer;
+	padding: 3px 0;
+	font-weight: 700;
+}
+.wpsl-orders .order-content .wps-order-box{
+	width:100%;
+	padding: 20px;
+	float: left;
+	box-sizing: border-box;
+}
+.wpsl-orders .product-item{
+	width: 100%;
+	display: inline-block;
+}
+.wpsl-orders .product-item > div{
+	float: left;
+	display: inline-block;
+}
+.wpsl-orders .product-item .title{
+	width: calc(100% - 150px);
+}
+.wpsl-orders .product-item .price{
+	width: 100px;
+}
+.wpsl-orders .product-item .quo{
+	width: 50px;
+}
+.wpsl-orders .product-item .download, .wpsl-orders .product-item .active{
+	cursor: pointer;
+	color: #fff;
+	position: relative;
+	font-size: 12px;
+	line-height: 12px;
+	text-align: center;
+	padding: 10px 5px;
+    margin: 0;
+    border-radius: 3px;
+	background: #90a4ae;
+	-webkit-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+	   -moz-box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+			box-shadow: inset 0 -2px 0 rgba(0,0,0,0.2);
+}
+.wpsl-orders .product-item .download:hover{
+	background: #7e8f98;
+}
+.wpsl-orders .product-item .active{
+	background: #78AD07;
+}
+.wpsl-orders .product-item .active:hover{
+	background: #6e9e08;
+}
+.wpsl-orders .product-item .active a{
+	color: #fff !important;
+}
+
+
+
+
+.wps-order-list, .wps-order-list .wps-order-id, .wps-ticket-list, .wps-reviews-list, .wps-review-list, .wps-review-id{
+	width: 100%;
+	display: block;
+	float: left;
+}
+.wps-orders .wps-order-list:nth-child(1), .wps-tickets .wps-ticket-list:nth-child(1), .wps-tickets .wps-ticket-list:nth-child(1), .wps-reviews .wps-review-list:nth-child(1){
+	padding: 10px;
+}
+.wps-order-list .wps-order{
+	width: 20%;
+	display: inline-block;
+	float: left;
+	box-sizing: border-box;
+}
+
+
+.wps-profile{
+	width: 200px;
+	box-sizing: border-box;
+    min-height: 1px;
+    float: left;
+    display: inline-block;
+	padding-right: 20px;
+}
+.wps-profile span{
+	width: 100%;
+	float: left;
+	padding: 6px 0;
+}
+#wpsl-save-profile{
+	text-align: center;
+}
+#profileform{
+	width: calc(100% - 200px);
+    float: left;
+    display: inline-block;
+}
+#profileform input, #profileform textarea{
+	width: 100%;
+	margin: 5px 0;
+}
+
+.wps-ticket-list .wps-ticket-date, .wps-ticket-list .wps-ticket-status, .wps-detail-date{
+	width: 80px;
+	float: left;
+}
+.wps-ticket-list .wps-ticket-title{
+	width: calc(100% - 160px);
+	float: left;
+}
+.wps-detail-date, .wps-detail-title{
+	padding: 10px;
+    box-sizing: border-box;
+}
+.wps-detail-title{
+	width: calc(100% - 240px);
+	float: left;
+}
+.wps-detail-status{
+	width: 160px;
+	float: left;
+}
+.wps-ticket-list .wps-ticket-id, .wps-order-list .wps-order-id{
+	float: left;
+    width: 100%;
+	box-sizing: border-box;
+    padding: 10px;
+}
+.wps-ticket-list .wps-ticket-id:nth-child(2n+1), .wps-review-list .wps-review-id:nth-child(2n+1), .wps-order-list .wps-order-id:nth-child(2n+1) {
+	background-color: #f8f8f8;
+}
+.wps-no-orders, .wps-no-tickets, .wps-no-reviews{
+    float: left;
+    box-sizing: border-box;
+	width: 100%;
+	text-align: center;
+	padding: 0;
+}
+
+.wp-editor-area{
+	height: 200px;
+}
+.wps-no-orders-img, .wps-no-tickets-img, .wps-no-reviews-img{
+	background-repeat: no-repeat;
+    background-size: 160px 160px;
+    background-position: center;
+    float: left;
+	width: 100%;
+    min-height: 200px;
+	text-align: center;
+}
+.wps-no-orders-img{
+	background-image: url(../img/shopping.svg);
+}
+.wps-no-tickets-img{
+	background-image: url(../img/support.svg);
+}
+.wps-no-reviews-img{
+	background-image: url(../img/review.svg);
+}
+.wps-ticket-list .wps-ticket-form{
+	display: none;
+	padding: 30px 0;
+	float: left;
+    width: 100%;
+}
+.wps-ticket-list .wps-ticket-form form label > input,
+.wps-ticket-list .wps-ticket-form form > label,
+.wps-ticket-list .wps-ticket-form form label > select{
+	width: 100%;
+}
+.wps-ticket-list .wps-ticket-form form label > select{
+	padding: 6px;
+}
+.wps-ticket-list .wps-ticket-form form > label{
+	padding: 15px 0;
+	margin: 0;
+	position: relative;
+}
+.wps-ticket-list .active{
+	display: block;
+}
+.wps-review-date{
+	width: 80px;
+	float: left;
+}
+.wps-review-title{
+	width: 200px;
+	float: left;
+}
+.wps-review-content{
+	width: calc(100% - 280px);
+	float: left;
+}
+.wps-review-id{
+	padding: 10px;
+}
